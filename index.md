@@ -9,4 +9,4 @@ Direct download | [Releases section](https://github.com/daerich/csploit-oreo/rel
 
 
 
-![DaErich on Steam](https://badges.steamprofile.com/profile/default/steam/76561198122078540.png)
+[<img src="https://badges.steamprofile.com/profile/default/steam/76561198122078540.png">](https://steamcommunity.com/id/daerich)
