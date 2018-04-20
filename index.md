@@ -8,7 +8,12 @@ Direct download | [Releases section](https://github.com/daerich/csploit-oreo/rel
 
 ## Gamezone
 As you may have already discovered on  [Steam](https://steamcommunity.com/id/daerich) I have a passion for gaming.
-Below you'll find files I share with you for... whatever reason... 
+Below you'll find files I share with you for... whatever reason...  ¯\_(ツ)_/¯
+
+Game| Content
+--------------|-----------
+My Autoexec|[View my config on gist](https://gist.github.com/daerich/162a0eff39fe435519b849eff4faf212)
+Map Submissions|TBD
 
 
 
