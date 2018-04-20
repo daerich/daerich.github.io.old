@@ -1,5 +1,6 @@
 #theme: jekyll-theme-cayman
 name: DaErich
+baseurl: "" 
 plugins:
   - jemoji
 title: DaErichs Software Lab
