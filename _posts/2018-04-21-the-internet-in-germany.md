@@ -3,6 +3,7 @@ layout: post
 title:  "Internet in Germany"
 date:   2018-04-20 16:16:01 -0600
 categories: Main
+permalink: /internet-essay/
 ---
 
 # The internet is part of the most important infrastructure in modern world.
