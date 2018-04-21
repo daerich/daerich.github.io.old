@@ -1,9 +1,10 @@
 #theme: jekyll-theme-cayman
-name: DaErich
+name: DaErichs Software Lab
+title: DaErichs Software Lab
+description: Where the magic happens
 baseurl: "" 
 plugins:
   - jemoji
-title: DaErichs Software Lab
 footer-links:
   dribbble:
   email:
