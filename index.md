@@ -3,7 +3,7 @@ My current projects | Link to it
 Porting cploit over to Android 8.1 | [CSPLOIT-oreo](https://github.com/daerich/csploit-oreo)
 Direct download					   | [Releases section](https://github.com/daerich/csploit-oreo/releases/tag/v1.6.6-rc.2-UNOFFICAL)
 
-
+___Read my [Internet Essay](https://daerich.ga/internet-essay)__
 ## Gamezone
 As you may have already discovered on  [Steam](https://steamcommunity.com/id/daerich) I have a passion for gaming.
 Below you'll find files I share with you for... whatever reason...  ¯\_(ツ)_/¯
