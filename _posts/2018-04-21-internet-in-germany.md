@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Internet in Germany"
+date:   2018-04-20 16:16:01 -0600
+categories: Main
+---
+
 # The internet is part of the most important infrastructure in modern world.
 
 Almost every modern business depends on the usage of online services whether as a way of collaboration in cloud services, as a way of getting information from all around the world, to control devices and industry robots or simply to amuse oneself. 
