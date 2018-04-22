@@ -26,8 +26,8 @@ And so they decide the prices and when to upgrade them to fibre glass
 due to a special agreement with the government. _For that they even want a liberation from competition for some years, but that’s another story.(As stated in the “Spiegel” Magazine)_.
 And if a region isn’t enough profitable for them it simply doesn’t get upgraded that fast. 
 Not that it isn’t already a fair competition in the telecommunication market, but that directly conflicts the coalition agreement and denies the access to “fast”(we are talking about 50mbits/s) internet for every German citizen. You could even say that it even breaks the German constitution stating every human is equal, but that’s pure unreasonable exaggeration. 
-_ As a conclusion_ you can say that there is definitely something very wrong with the current situation, you can even say scandal, and something NEEDS to be changed.
-___ But as Germany is a country of slow developments and strong connections between the economy and the government (Take the “Dieselskandal” for example) I am not very optimistic for this situation to be changed. 
+_As a conclusion_ you can say that there is definitely something very wrong with the current situation, you can even say scandal, and something NEEDS to be changed.
+__But as Germany is a country of slow developments and strong connections between the economy and the government (Take the “Dieselskandal” for example) I am not very optimistic for this situation to be changed.__
 _It’s sad, but that’s economy._
 
 __by DaErich(contact links are down below)__
