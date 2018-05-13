@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Payday2 Builds
+permalink: buildb_builds
+---
 
 
 - [Silent](http://pd2skills.com/#/v3/mljh:elk:tfeCLKh:gFDEBCALJKrPQ:fF:ia:pB8:::l99::)	Einbrecher Geist
