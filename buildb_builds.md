@@ -17,5 +17,5 @@ Lautloser Killer (37), Künstlerischer Ausweicher (31), Sanitäter (23)
 Revolverheld (37), Sanitäter (31)
 
 
-- [Assault](http://pd2skills.com/#/v3/mfDeCAljhrp:eLjkiRpNo:tLkrpqNOm:glJ:flkr:ia:pE7:::l99::)	Ex-Präsident Drahtzieher
-Sanitäter (30), Unterdrücker (27)
+- [Assault](http://pd2skills.com/#/v3/mfDeCAljhrp:eLjkhiRpNom:tLkrpqNOm:glJ:flkr:ia:pE7:::) Ex-Präsident Drahtzieher
+Sanitäter (30), Unterdrücker (27), Munitions Spezialist (22)
