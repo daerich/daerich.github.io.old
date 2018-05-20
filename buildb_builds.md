@@ -21,5 +21,6 @@ Revolverheld (37), Sanitäter (31)
 Sanitäter (30), Unterdrücker (27), Munitions Spezialist (22)
 
 
-- [Bastion/Heavy](#)
+- [Bastion/Heavy](http://pd2skills.com/#/v3/mABDFjlr:eGhJKLMNPR:toR:gjl:flNqr:ia:pC8:::) Crewboss Vollstrecker
+Sanitäter (31), Munitions Spezialist (31), Panzer (31)
   - [Direct Download]({{site.baseurl}}/builds/Bastion_build.json)
