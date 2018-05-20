@@ -19,7 +19,7 @@ Revolverheld (37), Sanitäter (31) Künstlerischer Ausweicher (31
 
 - [Assault](http://pd2skills.com/#/v3/mfDeCAljhrp:eLjkhiRpNom:tLkrpqNOm:glJr:flkr:ia:pE8:::) Ex-Präsident Drahtzieher
 Sanitäter (30), Unterdrücker (27), Munitions Spezialist (22)
-  - [Direct Download]({{site.baseurl}}/builds/Assault_build.json
+  - [Direct Download]({{site.baseurl}}/builds/Assault_build.json)
 
 
 - [Bastion/Heavy](http://pd2skills.com/#/v3/mFDBAljr:eLJKhGRPNM:tRo:glj:flrqN:ia:pC8:::) Crewboss Vollstrecker
