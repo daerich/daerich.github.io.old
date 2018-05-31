@@ -13,3 +13,11 @@ footer-links:
   facebook:
   flickr:
   github: daerich
+
+sass:
+  style: :expanded
+
+exclude: 
+  - LICENSE
+  - README.md
+  - CNAME	

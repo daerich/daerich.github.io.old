@@ -1,5 +1,5 @@
 
-___Read my [Internet Essay](http://daerich.ga/internet-essay)___
+___Read my [Internet Essay]({site.baseurl}}/internet-essay)___
 
 
 My current projects | Link to it
@@ -14,8 +14,8 @@ Below you'll find files I share with you for... whatever reason...  ¯\_(ツ)_/�
 Game| Content
 --------------|-----------
 My Autoexec|[View my config on gist](https://gist.github.com/daerich/162a0eff39fe435519b849eff4faf212)
-Payday Builds| [My Payday Builds](http://daerich.ga/buildb_builds.html)
-Payday Mods | [List of my PD2 Mods](http://daerich.ga/mods.html)
+Payday Builds| [My Payday Builds]({{site.baseurl}}/buildb_builds.html)
+Payday Mods | [List of my PD2 Mods]({{site.baseurl}}/mods.html)
 
 
 
