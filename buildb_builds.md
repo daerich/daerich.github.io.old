@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Payday2 Builds
-permalink: buildb_builds
+permalink: builds
 ---
 
 

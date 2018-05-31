@@ -2,7 +2,7 @@
 layout: post
 title:  "Internet in Germany"
 date:   2018-04-21 16:16:01 -0600
-categories: Main
+categories: ['Thoughts', 'Internet']
 permalink: /internet-essay/
 ---
 
