@@ -10,8 +10,8 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }} &nbsp; <a href="{{ site.baseurl }}/" class="site-avatar">{{ site.name }}<img src="{{ site.avatar }}" /></a><br>
-	{{ page.categories }}
+    Written on {{ page.date | date: "%B %e, %Y" }} &nbsp; by &nbsp; <a href="{{ site.baseurl }}/" class="site-avatar">{{ site.name }}<img src="{{ site.avatar }}" /></a><br>
+	in {{ page.categories }}
   </div>
 
   {% include disqus.html %}
