@@ -28,3 +28,6 @@ Sanitäter (31), Munitions Spezialist (31), Panzer (31)
   
 - [Rednex/Shotgun](http://pd2skills.com/#/v3/mFECAljkrp:eFDEBCALki:tlkRq:glJ:fFdbl:ia:pM3:::) Muskelprotz Vollstrecker
 Schrotmeister (46), Sanitäter (31)
+
+- [Crime Spree](http://pd2skills.com/#/v3/mfEbCAlki:efDECalki:tlKr:gLJKigRn:fLH:ia:pE8:::) Ex-Präsident Drahtzieher
+Sanitäter (31), Schrotmeister (26), Künstlerischer Ausweicher (23)
