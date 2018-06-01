@@ -8,11 +8,12 @@ plugins:
   - jemoji
 footer-links:
   dribbble:
-  email:
+  email: daerich@users.sourceforge.net
   twitter: itsdaerich
   facebook:
   flickr:
   github: daerich
+  youtube: /channel/UCrcbxvR_fQcaOWgrsIR8GTg
 
 sass:
   style: :compressed
