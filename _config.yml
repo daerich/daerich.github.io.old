@@ -15,9 +15,9 @@ footer-links:
   github: daerich
 
 sass:
-  style: :expanded
+  style: :compressed
 
 exclude: 
   - LICENSE
   - README.md
-  - CNAME	
+  - CNAME
