@@ -19,4 +19,4 @@ Payday Mods | [List of my PD2 Mods]({{ site.baseurl }}/mods.html)
 
 
 
-[<img src="https://badges.steamprofile.com/profile/default/steam/76561198122078540.png">](https://steamcommunity.com/id/daerich)
+[<img src="http://steamsignature.com/status/default/76561198122078540.png">](https://steamcommunity.com/id/daerich)
