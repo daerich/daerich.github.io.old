@@ -12,8 +12,8 @@ Federal Inventory | [Beardlib](http://modwork.shop/14924)
 [HT_interaction_circle](http://modwork.shop/20914) | [Buildb](https://paydaymods.com/mods/65/BDB)
 [Custom Music __(Template, Beardlib)__ ](http://modwork.shop/18106)| [BetterBots](http://paydaymods.com/mods/108/BB)
 [StatTrak Mod __(Beardlib)__](http://modwork.shop/20004)| [Menu Backgrounds](http://modwork.shop/17160)
-[Kaizokuu's Mouse Pointers](http://modwork.shop/20897) | 
-[White Crew Gloves](http://modwork.shop/20778) | 
+[Kaizokuu's Mouse Pointers](http://modwork.shop/20897) | [Borderlands Hud](http://modwork.shop/20420)
+[White Crew Gloves](http://modwork.shop/20778) | [MUI](http://paydaymods.com/mods/44/arm_mui)
 [Soda Can Budget Suppressors](http://modwork.shop/19073) | 
 [Pokemon Infamy Cards](http://modwork.shop/13267) |
 [Paintball like mod](http://modwork.shop/12568) |
