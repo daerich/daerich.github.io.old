@@ -22,3 +22,4 @@ Federal Inventory | [Beardlib](http://modwork.shop/14924)
 [Soviet Propaganda Graffity](http://modwork.shop/22314) |
 [Euro Money](http://modwork.shop/12375) |
 [Louis Vuitton Bags](http://modwork.shop/20355) |
+ [Omae wa mou shindeiru CLOAKER](http://modwork.shop/20431) |
