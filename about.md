@@ -8,7 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My life on steam : [<img src="http://steamsignature.com/status/default/76561198122078540.png">](https://steamcommunity.com/id/daerich)
+including <iframe width="480" height="240" src="https://pd2stats.com/stats.php?profiles=76561198122078540" scrolling="no">Payday</iframe>
 
 ### Contact me
 

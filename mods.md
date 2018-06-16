@@ -15,7 +15,7 @@ Federal Inventory | [Beardlib](http://modwork.shop/14924)
 [Kaizokuu's Mouse Pointers](http://modwork.shop/20897) | [Borderlands Hud](http://modwork.shop/20420)
 [White Crew Gloves](http://modwork.shop/20778) | [MUI](http://paydaymods.com/mods/44/arm_mui)
 [Soda Can Budget Suppressors](http://modwork.shop/19073) | [Mod List Lite](http://paydaymods.com/mods/551/mll)
-[Pokemon Infamy Cards](http://modwork.shop/13267) |
+[Pokemon Infamy Cards](http://modwork.shop/13267) | [Updated Custom Fov](http://modwork.shop/20801)
 [Paintball like mod](http://modwork.shop/12568) |
 [Germany Flag](http://modwork.shop/13856) |
 [Tiny Horse Collection Service](http://modwork.shop/19177) |

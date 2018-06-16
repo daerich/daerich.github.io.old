@@ -18,5 +18,3 @@ Payday Builds| [My Payday Builds]({{ site.baseurl }}/builds.html)
 Payday Mods | [List of my PD2 Mods]({{ site.baseurl }}/mods.html)
 
 
-
-[<img src="http://steamsignature.com/status/default/76561198122078540.png">](https://steamcommunity.com/id/daerich)
