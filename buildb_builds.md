@@ -27,3 +27,5 @@ permalink: builds
 - [Sniper](http://pd2skills.com/#/v3/mFlKiRPQNOM:elJkIgRPNm:tlr:glJr:fLr:ia:pE8:::)
 
 - [Level 35 Build](http://pd2skills.com/#/v3/mfelkrpo:elJk:tlkrQ:glJr:iba:pE8:::l35::)
+
+- [Street Sweeper Action](http://pd2skills.com/#/v3/mFDb:efdlki:tlr:gLJHGrpNOM:fl:iba:pR8:::l75::)

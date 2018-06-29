@@ -5,6 +5,8 @@ permalink: mods
 ---
 # My Mods
 
+__[Wolfhud Config]({{ site.baseurl }}/builds/wolfhud_config.json)__
+
 mod_overrides(some require Beardlib)|BLT mods
 ------------------------------------|--------
 [Colored Healthbar](http://modwork.shop/16412) | [Wolfhud](https://github.com/Kamikaze94/WolfHUD)
