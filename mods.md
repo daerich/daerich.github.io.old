@@ -18,10 +18,11 @@ mod_overrides(some require Beardlib)|BLT mods
 [White Crew Gloves](http://modwork.shop/20778) | [MUI](http://paydaymods.com/mods/44/arm_mui)
 [Soda Can Budget Suppressors](http://modwork.shop/19073) | [Mod List Lite](http://paydaymods.com/mods/551/mll)
 [Pokemon Infamy Cards](http://modwork.shop/13267) | [Updated Custom Fov](http://modwork.shop/20801)
-[Paintball like mod](http://modwork.shop/12568) |
-[Germany Flag](http://modwork.shop/13856) |
+[Paintball like mod](http://modwork.shop/12568) | [Keepers](http://paydaymods.com/mods/102/KPR)
+[Germany Flag](http://modwork.shop/13856) | [Silent Assassin](http://paydaymods.com/mods/304/silentassassin)
 [Tiny Horse Collection Service](http://modwork.shop/19177) |
 [Soviet Propaganda Graffity](http://modwork.shop/22314) |
 [Euro Money](http://modwork.shop/12375) |
 [Louis Vuitton Bags](http://modwork.shop/20355) |
  [Omae wa mou shindeiru CLOAKER](http://modwork.shop/20431) |
+ My own custom loading screen
