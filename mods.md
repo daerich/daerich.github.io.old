@@ -25,4 +25,4 @@ mod_overrides(some require Beardlib)|BLT mods
 [Euro Money](http://modwork.shop/12375) |
 [Louis Vuitton Bags](http://modwork.shop/20355) |
  [Omae wa mou shindeiru CLOAKER](http://modwork.shop/20431) |
- My own custom loading screen
+ [My own custom loading screen](https://www.deviantart.com/jennyisdrawing/art/Payday-2-Fan-art-428901564) |
