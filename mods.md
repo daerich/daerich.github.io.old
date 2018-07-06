@@ -20,7 +20,7 @@ mod_overrides(some require Beardlib)|BLT mods
 [Pokemon Infamy Cards](http://modwork.shop/13267) | [Updated Custom Fov](http://modwork.shop/20801)
 [Paintball like mod](http://modwork.shop/12568) | [Keepers](http://paydaymods.com/mods/102/KPR)
 [Germany Flag](http://modwork.shop/13856) | [Silent Assassin](http://paydaymods.com/mods/304/silentassassin)
-[Tiny Horse Collection Service](http://modwork.shop/19177) |
+[Tiny Horse Collection Service](http://modwork.shop/19177) | [Music Control Updated](http://modwork.shop/20833)
 [Soviet Propaganda Graffity](http://modwork.shop/22314) |
 [Euro Money](http://modwork.shop/12375) |
 [Louis Vuitton Bags](http://modwork.shop/20355) |
