@@ -21,7 +21,7 @@ mod_overrides(some require Beardlib)|BLT mods
 [Paintball like mod](http://modwork.shop/12568) | [Keepers](http://paydaymods.com/mods/102/KPR)
 [Germany Flag](http://modwork.shop/13856) | [Silent Assassin](http://paydaymods.com/mods/304/silentassassin)
 [Tiny Horse Collection Service](http://modwork.shop/19177) | [Music Control Updated](http://modwork.shop/20833)
-[Soviet Propaganda Graffity](http://modwork.shop/22314) |
+[Soviet Propaganda Graffity](http://modwork.shop/22314) | [Difficulty Screen Animation](http://modwork.shop/20020)
 [Euro Money](http://modwork.shop/12375) |
 [Louis Vuitton Bags](http://modwork.shop/20355) |
  [Omae wa mou shindeiru CLOAKER](http://modwork.shop/20431) |

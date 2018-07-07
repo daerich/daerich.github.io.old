@@ -28,4 +28,8 @@ permalink: builds
 
 - [Level 35 Build](http://pd2skills.com/#/v3/mfelkrpo:elJk:tlkrQ:glJr:iba:pE8:::l35::)
 
-- [Street Sweeper Action](http://pd2skills.com/#/v3/mFDb:efdlki:tlr:gLJHGrpNOM:fl:iba:pR8:::l75::)
+- [Street Sweeper Action](http://pd2skills.com/#/v3/mF:elkh:tlrqn:gLJHGr:fLHRPQNO:iba:pR8:::l80::)
+
+-[Technician Build](http://pd2skills.com/#/v3/mFdeCAlr:elk:tFDEBCALKI:gljrpo:fl:iba:pE8:::l91::)
+
+- [Deadpool Build](http://pd2skills.com/#/v3/mF:elkh:tlrqn:gLJHGr:fLHRPQNO:iba:pM8:::l87::)
