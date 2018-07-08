@@ -22,7 +22,7 @@ mod_overrides(some require Beardlib)|BLT mods
 [Germany Flag](http://modwork.shop/13856) | [Silent Assassin](http://paydaymods.com/mods/304/silentassassin)
 [Tiny Horse Collection Service](http://modwork.shop/19177) | [Music Control Updated](http://modwork.shop/20833)
 [Soviet Propaganda Graffity](http://modwork.shop/22314) | [Difficulty Screen Animation](http://modwork.shop/20020)
-[Euro Money](http://modwork.shop/12375) |
+[Euro Money](http://modwork.shop/12375) | [Steam Profile Redirection](http://modwork.shop/20035)
 [Louis Vuitton Bags](http://modwork.shop/20355) |
  [Omae wa mou shindeiru CLOAKER](http://modwork.shop/20431) |
  [My own custom loading screen](https://www.deviantart.com/jennyisdrawing/art/Payday-2-Fan-art-428901564) |
