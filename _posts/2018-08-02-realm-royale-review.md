@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My recent review of REALM ROYALE by HiRezStudios"
-date:   2018-08-0´2 16:16:01 -0600
+date:   2018-08-02 16:16:01 -0600
 categories: ['Games' , 'Internet']
 ---
 
