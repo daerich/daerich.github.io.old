@@ -9,4 +9,4 @@ categories: ['Games' , 'Internet']
 
 Below you'll find the review I've written on [Steam](https://steamcommunity.com/id/daerich/recommended/813820/).
 
-![Realm Review]({{site.baseurl}}/images/review_realm_royal.png)
+![Realm Review]({{ site.baseurl }}/images/review_realm_royal.png)
