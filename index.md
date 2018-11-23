@@ -14,7 +14,7 @@ Below you'll find files I share with you for... whatever reason...  ¯\_(ツ)_/�
 
 Game| Content
 --------------|-----------
-My Autoexec|[View my config on gist](https://gist.github.com/daerich/162a0eff39fe435519b849eff4faf212)
+My Autoexec|[View my config on gist](https://gist.github.com/daerich/acc8dc56c0d3ba7a531287a29017d4b5)
 My Moviemaking Config | [On gist](https://gist.github.com/daerich/65555cc9f1c5dc3d5d3b3fe738887b03)
 Payday Builds| [My Payday Builds]({{ site.baseurl }}/builds.html)
 Payday Mods | [List of my PD2 Mods]({{ site.baseurl }}/mods.html)
