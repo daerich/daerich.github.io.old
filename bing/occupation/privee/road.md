@@ -1,3 +1,8 @@
+---
+layout: page
+title:  "Seminarfahrt 2019"
+---
+
 # Seminarfahrt 2019
 ## Roadmap
 
