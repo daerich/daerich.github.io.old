@@ -15,6 +15,6 @@ _Uns stehen mehrere Möglichkeiten zu Verfuegung, dabei kamen folgende zur Sprac
 
 Vorschläge ab Punkt 2 sind noch zu organisieren, Benito wird sich vorraussichtlich um Lehrer zu mindestens einem weiteren Punkt bemühen.
 
-__Es kann unter https://www.strawpoll.me/16913508/ über die vorlaeufig. wichtigsten Ziele abgestimmt werden.__
+__Es kann unter https://www.strawpoll.me/16913508/(https://www.strawpoll.me/16913508/) über die vorlaeufig. wichtigsten Ziele abgestimmt werden.__
 
 Stand: 25/11/2018 14:00
