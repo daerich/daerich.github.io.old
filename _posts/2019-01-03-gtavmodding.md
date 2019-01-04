@@ -1,0 +1,15 @@
+---
+layout: post 
+title: "GTA V Modding" 
+date: 2018-01-03 16:16:01 -0600 
+categories: ['Internet'] 
+--- 
+
+# GTA V MODDING
+
+1. RageHook (settings: -directx11 -windowed)
+2. LSPDFR
+  * LSPDFR+
+  * Arrest Manager
+  * Assorted Callouts
+  * Computer+
