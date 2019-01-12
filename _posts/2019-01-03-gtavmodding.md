@@ -18,6 +18,7 @@ categories: ['Internet']
     * Vocal Dispatch( + german patch, modified)
     * Callouts Manager
     * Police Smart Radio
+    * Cop Holster
   
   * Callouts
     * Assorted Callouts
@@ -25,11 +26,18 @@ categories: ['Internet']
     * Wilderness Callouts
  
 3. OpenIV
+   
+  Cars
    * 2014 Dodge Charger Pack
    * 2016 Unmarked SRT by Potato Cat
    * Unmarked 2013 Talhoe by Policesco
    * Opel Astra by German Mods
+   * German Police Siren by NextGenTV
+   
+   Cosmetics
    * Law and Order Eup Pack
+   * Law and Order Serve and Rescue Pack
+   * German EUP 4k Pack by Agent DZN (male only)
 4. EUP Menu
 
 
