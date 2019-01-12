@@ -18,7 +18,6 @@ categories: ['Internet']
     * Vocal Dispatch( + german patch, modified)
     * Callouts Manager
     * Police Smart Radio
-    * Cop Holster
   
   * Callouts
     * Assorted Callouts
@@ -27,23 +26,28 @@ categories: ['Internet']
  
 3. OpenIV 
    
-  Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
-   * 2014 Dodge Charger Pack
-   * 2016 Unmarked SRT by Potato Cat
-   * Unmarked 2013 Talhoe by Policesco
-   * Opel Astra by German Mods
-   * German Police Siren by NextGenTV
+   * Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
+     * 2014 Dodge Charger Pack
+     * 2016 Unmarked SRT by Potato Cat
+     * Unmarked 2013 Talhoe by Policesco
+     * Opel Astra by German Mods
+     * German Police Siren by NextGenTV
    
-   Cosmetics
-   * Law and Order Eup Pack
-   * Law and Order Serve and Rescue Pack
-   * German EUP 4k Pack by Agent DZN (male only)
+   * Cosmetics
+     * Law and Order Eup Pack
+     * Law and Order Serve and Rescue Pack
+     * German EUP 4k Pack by Agent DZN (male only)
+
 4. EUP Menu
 
+5. Cop Holster(has to be executed manually after game launch)
 
- # Gta Redux
+
+_Gta Redux_
  
  1. OpenIV
    * GTA Redux Mod
  2. ScriptHookV
    * Native Trainer
+   
+ ___Huge thanks to everyone developing those sophisticated modding projects! Your commitment allows me to enjoy GTA V in a fresh way.___
