@@ -25,9 +25,9 @@ categories: ['Internet']
     * Airport Callouts
     * Wilderness Callouts
  
-3. OpenIV
+3. OpenIV 
    
-  Cars
+  Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
    * 2014 Dodge Charger Pack
    * 2016 Unmarked SRT by Potato Cat
    * Unmarked 2013 Talhoe by Policesco
