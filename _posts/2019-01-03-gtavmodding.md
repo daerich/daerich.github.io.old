@@ -15,19 +15,25 @@ categories: ['Internet']
     * Computer+
     * ELS
     * Traffic Policer
-    * Vocal Dispatch( + german patch, modified)
+    * Vocal Dispatch ~~( + german patch, modified)-~~
     * Callouts Manager
     * Police Smart Radio
+    * Ultimate Backup
+    * Stop the Ped
+    * Herocop
+    * KTFDO (executed automated but separately in RPH options)
   
   * Callouts
     * Assorted Callouts
     * Airport Callouts
     * Wilderness Callouts
+    * LSPS (VIP guarding)
  
 3. OpenIV 
    
    * Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
      * 2014 Dodge Charger Pack
+     * Chevy Impala by BxBugs123
      * 2016 Unmarked SRT by Potato Cat
      * Unmarked 2013 Talhoe by Policesco
      * Opel Astra by German Mods
