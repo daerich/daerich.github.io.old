@@ -22,13 +22,15 @@ categories: ['Internet']
     * Stop the Ped
     * Herocop
     * KTFDO (executed automated but separately in RPH options)
-  
+    * Better Dispatch Audio(overwrites files in Police Scanner)
+    
   * Callouts
     * Assorted Callouts
     * Airport Callouts
     * Wilderness Callouts
     * LSPS (VIP guarding)
- 
+    * PeterUCallouts
+    
 3. OpenIV 
    
    * Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
@@ -38,6 +40,7 @@ categories: ['Internet']
      * Unmarked 2013 Talhoe by Policesco
      * Opel Astra by German Mods
      * German Police Siren by NextGenTV
+     * VW Passat B7 Autobahnpolizei Berlin by TopMods
    
    * Cosmetics
      * Law and Order Eup Pack
@@ -55,5 +58,6 @@ _Gta Redux_
    * GTA Redux Mod
  2. ScriptHookV
    * Native Trainer
+ 3. EnB
    
  ___Huge thanks to everyone developing those sophisticated modding projects! Your commitment allows me to enjoy GTA V in a fresh way.___
