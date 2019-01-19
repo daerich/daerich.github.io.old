@@ -35,7 +35,7 @@ categories: ['Internet']
 3. OpenIV 
    
    * Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
-     * 2014 Dodge Charger Pack
+     * 2014 Dodge Charger Pack by BxBugs123
      * Chevy Impala by BxBugs123
         *  Fort Zancudo Military Police Skin by WhiskeyBehavior
      * 2016 Unmarked SRT by Potato Cat
