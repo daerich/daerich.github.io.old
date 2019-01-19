@@ -10,7 +10,7 @@ categories: ['Internet']
 1. RageHook (settings: -directx11 -windowed)
 2. LSPDFR
   * Essential/Utility:
-    * Arrest Manager
+    * Arrest Manager(conflicts stop the ped)
     * LSPDFR+
     * Computer+
     * ELS
@@ -30,12 +30,14 @@ categories: ['Internet']
     * Wilderness Callouts
     * LSPS (VIP guarding)
     * PeterUCallouts
+    * Crazy Callouts 
     
 3. OpenIV 
    
    * Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
      * 2014 Dodge Charger Pack
      * Chevy Impala by BxBugs123
+        *  Fort Zancudo Military Police Skin by WhiskeyBehavior
      * 2016 Unmarked SRT by Potato Cat
      * Unmarked 2013 Talhoe by Policesco
      * Opel Astra by German Mods
@@ -58,6 +60,7 @@ _Gta Redux_
    * GTA Redux Mod
  2. ScriptHookV
    * Native Trainer
+   * Menyoo
  3. EnB
    
  ___Huge thanks to everyone developing those sophisticated modding projects! Your commitment allows me to enjoy GTA V in a fresh way.___
