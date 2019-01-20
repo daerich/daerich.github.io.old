@@ -65,3 +65,6 @@ _Gta Redux_
  3. EnB
    
  ___Huge thanks to everyone developing those sophisticated modding projects! Your commitment allows me to enjoy GTA V in a fresh way.___
+ 
+ 
+ ![GTA_Restore](https://worstaim.eu/images/clean_gta_folder_full.png)
