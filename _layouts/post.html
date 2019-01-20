@@ -11,7 +11,8 @@ layout: default
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }} by &nbsp; <a href="{{ site.baseurl }}/me" class="site-avatar">{{ site.name }}<img src="{{ site.avatar }}" width="32"  height="32"/></a><br>
-	in {{ page.categories }}
+	in {{ page.categories }} <br>
+     Updated on {{ page.update | update: "%B %e, %Y"}}
   </div>
 
   {% include disqus.html %}
