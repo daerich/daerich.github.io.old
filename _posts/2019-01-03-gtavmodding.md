@@ -2,10 +2,6 @@
 layout: post 
 title: "GTA V Modding" 
 date: 2019-01-03 16:16:01 -0600 
-<<<<<<< HEAD
-update: 2019-01-20 16:26:01 -0600
-=======
->>>>>>> branch 'master' of https://github.com/daerich/daerich.github.io
 categories: ['Internet'] 
 --- 
 
