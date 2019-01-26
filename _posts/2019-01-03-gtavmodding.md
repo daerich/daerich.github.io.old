@@ -2,7 +2,10 @@
 layout: post 
 title: "GTA V Modding" 
 date: 2019-01-03 16:16:01 -0600 
+<<<<<<< HEAD
 update: 2019-01-20 16:26:01 -0600
+=======
+>>>>>>> branch 'master' of https://github.com/daerich/daerich.github.io
 categories: ['Internet'] 
 --- 
 
@@ -39,7 +42,9 @@ categories: ['Internet']
      * 2014 Dodge Charger Pack by BxBugs123
      * Chevy Impala by BxBugs123
         *  Fort Zancudo Military Police Skin by WhiskeyBehavior
+        * End of Watch 2018 Memorial Cars by PacificPig
      * 2016 Unmarked SRT by Potato Cat
+     *  Los Santos Police Department Mini Pack by Jedahdiah
      * Unmarked 2013 Talhoe by Policesco
      * Unmarked Crown Victoria by Policesco
      * Opel Astra by German Mods
