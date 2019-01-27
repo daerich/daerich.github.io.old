@@ -31,30 +31,36 @@ categories: ['Internet']
     * LSPS (VIP guarding)
     * PeterUCallouts
     * Crazy Callouts 
+    * Attempted Callouts 
     
 3. OpenIV 
    
    * Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
-     * 2014 Dodge Charger Pack by BxBugs123
-     * Chevy Impala by BxBugs123
+     * 2014 Dodge Charger Pack by BxBugs123 (police2)
+     * Chevy Impala by BxBugs123 (police3)
         *  Fort Zancudo Military Police Skin by WhiskeyBehavior
         * End of Watch 2018 Memorial Cars by PacificPig
-     * 2016 Unmarked SRT by Potato Cat
-     *  Los Santos Police Department Mini Pack by Jedahdiah
-     * Unmarked 2013 Talhoe by Policesco
-     * Unmarked Crown Victoria by Policesco
-     * Opel Astra by German Mods
+     * 2016 Unmarked SRT by Potato Cat (fbi)
+     * Los Santos Police Department Mini Pack by Jedahdiah (sheriff2)
+     * 2014 Dodge Ram Sheriff by jumperman09
+        * 4K Fort Zancudo Military Police Textures by jngo79
+     * Unmarked 2013 Talhoe by Policesco (fbi2)
+     * Unmarked Crown Victoria by Policesco (police4)
+     * Opel Astra by German Mods (police)
      * German Police Siren by NextGenTV
-     * VW Passat B7 Autobahnpolizei Berlin by TopMods
+     * VW Passat B7 Autobahnpolizei Berlin by TopMods (sheriff)
    
    * Cosmetics
      * Law and Order Eup Pack
      * Law and Order Serve and Rescue Pack
      * German EUP 4k Pack by Agent DZN (male only)
+     * Max Payne 3 Glock by Olanov
 
 4. EUP Menu
 
-5. Cop Holster(has to be executed manually after game launch)
+5. Sticky Wheels by khorio 
+
+6. Cop Holster(has to be executed manually after game launch)
 
 
 _Gta Redux_
