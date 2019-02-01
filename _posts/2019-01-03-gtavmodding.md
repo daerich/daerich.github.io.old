@@ -48,6 +48,7 @@ categories: ['Internet']
      * Unmarked Crown Victoria by Policesco (police4)
      * Opel Astra by German Mods (police)
      * German Police Siren by NextGenTV
+     * Modern Siren Pack by GravelRoadCop
      * VW Passat B7 Autobahnpolizei Berlin by TopMods (sheriff)
    
    * Cosmetics
