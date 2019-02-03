@@ -22,6 +22,8 @@ categories: ['Internet']
     * Stop the Ped
     * ALPRLite
     * Herocop
+    * Patrol Toolkit
+    * Search Warrant
     * KTFDO (executed automated but separately in RPH options)
     * Better Dispatch Audio(overwrites files in Police Scanner)
     
@@ -47,6 +49,8 @@ categories: ['Internet']
         * 4K Fort Zancudo Military Police Textures by jngo79
      * Unmarked 2013 Talhoe by Policesco (fbi2)
      * Unmarked Crown Victoria by Policesco (police4)
+     * Jeep Wrangler by kahlandir (pranger)
+       * US Border Patrol Textures by firefighter2832
      * Renault Megane 4 Estate Gendarmerie by TroyLee25 (policeold2)
      * Opel Astra by German Mods (police)
      * German Police Siren by NextGenTV
@@ -71,10 +75,12 @@ _Gta Redux_
  
  1. OpenIV
    * GTA Redux Mod
- 2. ScriptHookV
+ 2. ScriptHookV + ScriptdotNet
    * ~~Native Trainer~~
    * Simple Trainer
    * Menyoo
+   * Map Editor by Guadmaz (use nativeui supplied in zip)
+     * US - Canadian Border by Sereous313
  3. EnB
    
  ___Huge thanks to everyone developing those sophisticated modding projects! Your commitment allows me to enjoy GTA V in a fresh way.___
