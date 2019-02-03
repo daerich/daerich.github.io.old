@@ -20,6 +20,7 @@ categories: ['Internet']
     * Police Smart Radio
     * Ultimate Backup
     * Stop the Ped
+    * ALPRLite
     * Herocop
     * KTFDO (executed automated but separately in RPH options)
     * Better Dispatch Audio(overwrites files in Police Scanner)
@@ -57,6 +58,7 @@ categories: ['Internet']
      * Law and Order Serve and Rescue Pack
      * German EUP 4k Pack by Agent DZN (male only)
      * Max Payne 3 Glock by Olanov
+     * Improved Lighting Pattern by Lt. Caine
 
 4. EUP Menu
 
@@ -70,7 +72,8 @@ _Gta Redux_
  1. OpenIV
    * GTA Redux Mod
  2. ScriptHookV
-   * Native Trainer
+   * ~~Native Trainer~~
+   * Simple Trainer
    * Menyoo
  3. EnB
    
