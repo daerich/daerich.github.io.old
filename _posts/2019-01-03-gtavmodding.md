@@ -7,13 +7,15 @@ categories: ['Internet']
 
 # GTA V MODDING
 
+[X] Suspected of working with LSPDFR 0.4 API
+
 1. RageHook (settings: -directx11 -windowed)
 2. LSPDFR
   * Essential/Utility:
     * Arrest Manager(conflicts stop the ped)
     * LSPDFR+
     * Computer+
-    * ELS
+    * ELS [X]
     * Traffic Policer
     * Vocal Dispatch ~~( + german patch, modified)-~~
     * Callouts Manager
@@ -24,8 +26,8 @@ categories: ['Internet']
     * Herocop
     * Patrol Toolkit
     * Search Warrant
-    * KTFDO (executed automated but separately in RPH options)
-    * Better Dispatch Audio(overwrites files in Police Scanner)
+    * KTFDO (executed automated but separately in RPH options) [X]
+    * Better Dispatch Audio(overwrites files in Police Scanner) [X]
     
   * Callouts
     * Assorted Callouts
@@ -33,10 +35,10 @@ categories: ['Internet']
     * Wilderness Callouts
     * LSPS (VIP guarding)
     * PeterUCallouts
-    * Crazy Callouts 
-    * Attempted Callouts 
+    * Crazy Callouts [X]
+    * Attempted Callouts [X]
     
-3. OpenIV 
+3. OpenIV [X]
    
    * Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
      * 2014 Dodge Charger Pack by BxBugs123 (police2)
@@ -57,25 +59,25 @@ categories: ['Internet']
      * Modern Siren Pack by GravelRoadCop
      * VW Passat B7 Autobahnpolizei Berlin by TopMods (sheriff)
    
-   * Cosmetics
+   * Cosmetics [X]
      * Law and Order Eup Pack
      * Law and Order Serve and Rescue Pack
      * German EUP 4k Pack by Agent DZN (male only)
      * Max Payne 3 Glock by Olanov
      * Improved Lighting Pattern by Lt. Caine
 
-4. EUP Menu
+4. EUP Menu [X]
 
-5. Sticky Wheels by khorio 
+5. Sticky Wheels by khorio [X]
 
-6. Cop Holster(has to be executed manually after game launch)
+6. Cop Holster(has to be executed manually after game launch) [X]
 
 
 _Gta Redux_
  
  1. OpenIV
    * GTA Redux Mod
- 2. ScriptHookV + ScriptdotNet
+ 2. ScriptHookV + ScriptdotNet [X]
    * ~~Native Trainer~~
    * Simple Trainer
    * Menyoo
