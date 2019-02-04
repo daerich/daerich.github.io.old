@@ -40,12 +40,15 @@ categories: ['Internet']
     * Crazy Callouts [X]
     * Attempted Callouts [X]
     * Road Incident Callouts
+    * Station 19 Callouts (aomehow conflicting ComputerPlus)
     
 3. OpenIV [X]
    
    * Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
      * 2017 California Highway Patrol Mega Pack by Thehurk
      * 2014 Dodge Charger Pack by BxBugs123 (police2)
+     * LSPD Vehicle Pack by BradM (police)
+       * Gruppe6 Texture Pack by Ferrari458 (police_gruppe6)
      * Chevy Impala by BxBugs123 (police3)
         *  Fort Zancudo Military Police Skin by WhiskeyBehavior
         * End of Watch 2018 Memorial Cars by PacificPig
@@ -69,6 +72,7 @@ categories: ['Internet']
      * German EUP 4k Pack by Agent DZN (male only)
      * Max Payne 3 Glock by Olanov
      * Improved Lighting Pattern by Lt. Caine
+     * RadianceV by BxBugs123
 
 4. EUP Menu [X]
 
