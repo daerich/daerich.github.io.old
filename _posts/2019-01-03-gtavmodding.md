@@ -15,6 +15,7 @@ categories: ['Internet']
     * Arrest Manager(conflicts stop the ped)
     * LSPDFR+
     * Computer+
+    * Interaction+
     * ELS [X]
     * Traffic Policer
     * Vocal Dispatch ~~( + german patch, modified)-~~
@@ -26,6 +27,7 @@ categories: ['Internet']
     * Herocop
     * Patrol Toolkit
     * Search Warrant
+    * Basic Needs
     * KTFDO (executed automated but separately in RPH options) [X]
     * Better Dispatch Audio(overwrites files in Police Scanner) [X]
     
@@ -37,10 +39,12 @@ categories: ['Internet']
     * PeterUCallouts
     * Crazy Callouts [X]
     * Attempted Callouts [X]
+    * Road Incident Callouts
     
 3. OpenIV [X]
    
    * Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
+     * 2017 California Highway Patrol Mega Pack by Thehurk
      * 2014 Dodge Charger Pack by BxBugs123 (police2)
      * Chevy Impala by BxBugs123 (police3)
         *  Fort Zancudo Military Police Skin by WhiskeyBehavior
@@ -81,6 +85,7 @@ _Gta Redux_
    * ~~Native Trainer~~
    * Simple Trainer
    * Menyoo
+   * Christmas in Singleplayer by CamxxCore
    * Map Editor by Guadmaz (use nativeui supplied in zip)
      * US - Canadian Border by Sereous313
  3. EnB
