@@ -16,6 +16,7 @@ categories: ['Internet']
     * LSPDFR+
     * Computer+
     * Interaction+
+    * Police Tape (ausgamer.net)
     * ELS [X]
     * Traffic Policer
     * Vocal Dispatch ~~( + german patch, modified)-~~
@@ -28,7 +29,7 @@ categories: ['Internet']
     * Patrol Toolkit
     * Search Warrant
     * Basic Needs
-    * Seatbelt Chime 
+    * Seatbelt Chime  [X]
     * KTFDO (executed automated but separately in RPH options) [X]
     * Better Dispatch Audio(overwrites files in Police Scanner) [X]
     
