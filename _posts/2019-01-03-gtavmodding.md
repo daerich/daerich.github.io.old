@@ -28,6 +28,7 @@ categories: ['Internet']
     * Patrol Toolkit
     * Search Warrant
     * Basic Needs
+    * Seatbelt Chime 
     * KTFDO (executed automated but separately in RPH options) [X]
     * Better Dispatch Audio(overwrites files in Police Scanner) [X]
     
@@ -61,13 +62,16 @@ categories: ['Internet']
      * Jeep Wrangler by kahlandir (pranger)
        * US Border Patrol Textures by firefighter2832
      * Renault Megane 4 Estate Gendarmerie by TroyLee25 (policeold2)
+     * 2011 Volvo V70 Merseyside Police by ObsidianGames
      * Opel Astra by German Mods (police)
      * German Police Siren by NextGenTV
      * Modern Siren Pack by GravelRoadCop
+     * Motorola Tetra Dispatch Tones by DoubleDoppler
      * VW Passat B7 Autobahnpolizei Berlin by TopMods (sheriff)
    
    * Cosmetics [X]
      * Law and Order Eup Pack
+     * British Police Officer by amateurModder
      * Law and Order Serve and Rescue Pack
      * German EUP 4k Pack by Agent DZN (male only)
      * Max Payne 3 Glock by Olanov
