@@ -94,6 +94,7 @@ _Gta Redux_
    * ~~Native Trainer~~
    * Simple Trainer
    * Menyoo
+   * Enhanced Cruise Control by Kryo4Lex
    * Christmas in Singleplayer by CamxxCore
    * Map Editor by Guadmaz (use nativeui supplied in zip)
      * US - Canadian Border by Sereous313
