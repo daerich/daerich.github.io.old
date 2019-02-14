@@ -18,6 +18,7 @@ categories: ['Internet']
     * Interaction+
     * Police Tape (ausgamer.net) [X]
     * ELS [X]
+    * Player Location Display by Lt. Caine
     * Traffic Policer
     * Vocal Dispatch ~~( + german patch, modified)-~~
     * Callouts Manager
