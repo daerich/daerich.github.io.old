@@ -16,7 +16,7 @@ categories: ['Internet']
     * LSPDFR+
     * Computer+
     * Interaction+
-    * Police Tape (ausgamer.net)
+    * Police Tape (ausgamer.net) [X]
     * ELS [X]
     * Traffic Policer
     * Vocal Dispatch ~~( + german patch, modified)-~~
@@ -54,7 +54,7 @@ categories: ['Internet']
      * Chevy Impala by BxBugs123 (police3)
         *  Fort Zancudo Military Police Skin by WhiskeyBehavior
         * End of Watch 2018 Memorial Cars by PacificPig
-     * Los Santos Police FPIS by Policesco
+     * Los Santos Police FPIS by Policesco (police_intercept)
      * 2016 Unmarked SRT by Potato Cat (fbi)
      * Los Santos Police Department Mini Pack by Jedahdiah (sheriff2)
      * 2014 Dodge Ram Sheriff by jumperman09
