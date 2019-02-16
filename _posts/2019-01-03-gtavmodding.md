@@ -10,9 +10,9 @@ categories: ['Internet']
 [X] Suspected of working with LSPDFR 0.4 API
 [#] Currently in use
 
-# RageHook (settings: -directx11 -windowed)
-# LSPDFR
-   ## Essential/Utility:
+#RageHook (settings: -directx11 -windowed)
+#LSPDFR
+   ##Essential/Utility:
     * Arrest Manager(conflicts stop the ped)
     * LSPDFR+ [#]
     * Computer+ [#]
@@ -35,7 +35,7 @@ categories: ['Internet']
     * KTFDO (executed automated but separately in RPH options) [X] [#]
     * Better Dispatch Audio(overwrites files in Police Scanner) [X] [#]
     
-  ## Callouts
+  ##Callouts
     * Assorted Callouts [#]
     * Airport Callouts
     * Wilderness Callouts [#]
@@ -47,9 +47,9 @@ categories: ['Internet']
     * Road Incident Callouts  [#]
     * Station 19 Callouts (somehow conflicting ComputerPlus) [#]
     
- # OpenIV [X]
+ #OpenIV [X]
    
-    ## Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
+    ##Cars (applied to latest vehicle.rpf in latest /dlcpacks/patchdayxxx)
      * 2017 California Highway Patrol Mega Pack by Thehurk [#] (crown vic highwyprtl)
      * 2014 Dodge Charger Pack by BxBugs123
      * CVPI 1.9L by BxBUgs123 [#]
@@ -88,11 +88,11 @@ categories: ['Internet']
      * Improved Lighting Pattern by Lt. Caine
      * RadianceV by BxBugs123
 
-## EUP Menu [X] [#]
+##EUP Menu [X] [#]
 
-## Sticky Wheels by khorio [X] [#]
+##Sticky Wheels by khorio [X] [#]
 
-## Cop Holster(has to be executed manually after game launch) [X][#]
+##Cop Holster(has to be executed manually after game launch) [X][#]
 
 
 ~~_Gta Redux_~~
@@ -100,7 +100,7 @@ categories: ['Internet']
 ~~1. OpenIV~~
    ~~* GTA Redux Mod~~
  
- # ScriptHookV + ScriptdotNet [X]
+ #ScriptHookV + ScriptdotNet [X]
    * ~~Native Trainer~~
    * Simple Trainer [#]
    * Menyoo
