@@ -40,6 +40,7 @@ categories: ['Internet']
     * Assorted Callouts [#]
     * Airport Callouts
     * Wilderness Callouts [#]
+    * Code Red Callouts [#]
     * Federal Callouts [X] [#]
     * LSPS (VIP guarding)
     * PeterUCallouts [#]
@@ -69,7 +70,8 @@ categories: ['Internet']
      * Unmarked Crown Victoria by Policesco 
      * Jeep Wrangler by kahlandir [#]
        * US Border Patrol Textures by firefighter2832
-     * Modern Siren Pack by GravelRoadCop [#]
+     * Whelen Cencom Sapphire Rumbler by StraightGlitcheZ [#]
+     * Modern Siren Pack by GravelRoadCop
      * Motorola Tetra Dispatch Tones by DoubleDoppler [#]
      
      Foreign Cars
