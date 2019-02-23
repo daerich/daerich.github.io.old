@@ -90,6 +90,8 @@ categories: ['Internet']
 
 ## EUP Menu [X] [#]
 
+## DashcamV [X] [#]
+
 ## Sticky Wheels by khorio [X] [#]
 
 ## Cop Holster(has to be executed manually after game launch) [X][#]
