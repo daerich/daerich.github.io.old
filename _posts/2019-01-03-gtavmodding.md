@@ -88,6 +88,7 @@ categories: ['Internet']
      * Law and Order Serve and Rescue Pack
      * German EUP 4k Pack by Agent DZN (male only)
      * Max Payne 3 Glock by Olanov
+     * LSPDFR Computer+ Background Texture by Chris B.
      * Improved Lighting Pattern by Lt. Caine
      * RadianceV by BxBugs123
 
