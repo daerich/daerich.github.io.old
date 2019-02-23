@@ -41,11 +41,11 @@ categories: ['Internet']
     * Airport Callouts
     * Wilderness Callouts [#]
     * Code Red Callouts [#]
-    * Federal Callouts [X] [#]
+    * Federal Callouts [#]
     * LSPS (VIP guarding)
     * PeterUCallouts [#]
-    * Crazy Callouts [X] [#]
-    * Attempted Callouts [X] [#]
+    * Crazy Callouts [#]
+    * Attempted Callouts [#]
     * Road Incident Callouts  
     * Station 19 Callouts (somehow conflicting ComputerPlus) [#]
     
