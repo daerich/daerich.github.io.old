@@ -33,8 +33,11 @@ categories: ['Internet']
 --> eup_settings.zip(customized) by mkalash
 
 * Max Payne 3 Glock by Olanov
+* Taser X26 by BufordT
 
 * 2017 California Highway Patrol Mega Pack by Thehurk (police6:Dodge Charger;sheriff3:Ford Explorer)
+* Lifted Jeep Wrangler Rubicon by Torz (pranger)
+  (US Border Patrol by  firefighter2832)
 * Chevy Impala by BxBugs123(police5)
 * RadianceV by BxBugs123
 
