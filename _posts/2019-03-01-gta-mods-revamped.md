@@ -11,7 +11,7 @@ categories: ['Internet']
 ## LSPDFR 0.4:
 * Assorted Callouts
 * BetterEms
-* Computer+
+* Computer+ (Cincinnati PD Based Computer+ Background by t0y)
 * PeterUCallouts
 * Police Smart Radio
 * United Callouts
