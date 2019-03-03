@@ -33,15 +33,22 @@ categories: ['Internet']
 * EUP Serve and Rescue
 --> eup_settings.zip(customized) by mkalash
 
+### Visuals
+* NaturalVision Remastered(+ LSPDFR Plugin)
+* RadianceV by BxBugs123
+
+### Weapons
 * Max Payne 3 Glock by Olanov
 * Taser X26 by BufordT
 
+### Cars & Sirens
 * 2017 California Highway Patrol Mega Pack by Thehurk (police6:Dodge Charger;sheriff3:Ford Explorer)
 * Lifted Jeep Wrangler Rubicon by Torz (pranger)
   (US Border Patrol by  firefighter2832)
+* CVPI 1.9L by BxBugs123 (police)
 * Chevy Impala by BxBugs123(police5)
-* RadianceV by BxBugs123
 
+### Sirens
 * Whelen Cencom Sapphire Rumbler by StraightGlitcheZ [#]
 * Modern Siren Pack by GravelRoadCop
 
