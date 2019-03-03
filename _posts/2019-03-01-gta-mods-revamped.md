@@ -34,7 +34,7 @@ categories: ['Internet']
 --> eup_settings.zip(customized) by mkalash
 
 ### Visuals
-* NaturalVision Remastered(+ LSPDFR Plugin)
+* NaturalVision Remastered(+ LSPDFR Plugin) by Razed
 * RadianceV by BxBugs123
 
 ### Weapons
