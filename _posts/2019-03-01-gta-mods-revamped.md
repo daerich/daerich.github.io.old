@@ -12,6 +12,7 @@ categories: ['Internet']
 * Assorted Callouts
 * BetterEms
 * Computer+ (Cincinnati PD Based Computer+ Background by t0y)
+* Cop Holster
 * PeterUCallouts
 * Police Smart Radio
 * United Callouts
@@ -50,7 +51,7 @@ categories: ['Internet']
 
 ### Sirens
 * Whelen Cencom Sapphire Rumbler by StraightGlitcheZ [#]
-* Modern Siren Pack by GravelRoadCop
+* Modern Siren Pack by GravelRoadCop (Code 3 Mastercom B Siren)
 
 ___Huge thanks to everyone developing those sophisticated modding projects! Your commitment allows me to enjoy GTA V in a fresh way.___
 
