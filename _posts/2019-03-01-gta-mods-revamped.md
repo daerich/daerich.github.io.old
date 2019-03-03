@@ -10,7 +10,9 @@ categories: ['Internet']
 ## RageHook( -directx11 -windowed)
 ## LSPDFR 0.4:
 * Assorted Callouts
+* Arrest Manager (disabled Grabbing)
 * BetterEms
+* Better Dispatch Audio
 * Computer+ (Cincinnati PD Based Computer+ Background by t0y)
 * Cop Holster
 * PeterUCallouts
