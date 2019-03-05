@@ -8,6 +8,9 @@ categories: ['Internet']
 # GTAMods Revamped
 
 ## RageHook( -directx11 -windowed)
+* Sticky Wheels
+* KTFDO
+
 ## LSPDFR 0.4:
 * Assorted Callouts
 * Arrest Manager (disabled Grabbing)
@@ -18,9 +21,10 @@ categories: ['Internet']
 * Interaction+
 * PeterUCallouts
 * Police Smart Radio
-* United Callouts
+* Seach Warrant
 * Traffic Policer
-* XScanner
+* United Callouts
+* XScanner (Sound addon by Darkmyre)
 
 ## ScriptHook:
 * ScriptHookdotNet
@@ -36,6 +40,7 @@ categories: ['Internet']
 ## Cars & Cosmetics
 * EUP Law and Order
 * EUP Serve and Rescue
+* Raincoats by Officer 81
 --> eup_settings.zip(customized) by mkalash
 
 ### Visuals
@@ -54,7 +59,7 @@ categories: ['Internet']
 * Chevy Impala by BxBugs123(police5)
 
 ### Sirens
-* Whelen Cencom Sapphire Rumbler by StraightGlitcheZ [#]
+* Whelen Cencom Sapphire Rumbler by StraightGlitcheZ 
 * Modern Siren Pack by GravelRoadCop (Code 3 Mastercom B Siren)
 
 ___Huge thanks to everyone developing those sophisticated modding projects! Your commitment allows me to enjoy GTA V in a fresh way.___
