@@ -8,8 +8,9 @@ categories: ['Internet']
 # GTAMods Revamped
 
 ## RageHook( -directx11 -windowed)
+* KFTDO
+* Siren Mastery
 * Sticky Wheels
-* KTFDO
 
 ## LSPDFR 0.4:
 * Assorted Callouts
@@ -40,6 +41,7 @@ categories: ['Internet']
 ## Cars & Cosmetics
 * EUP Law and Order
 * EUP Serve and Rescue
+* EUP Vests by GrandTheftPD
 * Raincoats by Officer 81
 --> eup_settings.zip(customized) by mkalash
 
