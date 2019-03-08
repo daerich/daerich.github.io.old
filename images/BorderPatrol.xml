@@ -23,7 +23,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b_cr</HashName>
-		<InitialHandle>677420</InitialHandle>
+		<InitialHandle>128060</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -57,7 +57,7 @@
 		<Dynamic>true</Dynamic>
 		<FrozenPos>false</FrozenPos>
 		<HashName>prop_air_sechut_01</HashName>
-		<InitialHandle>160045</InitialHandle>
+		<InitialHandle>260668</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -91,7 +91,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_01a</HashName>
-		<InitialHandle>576045</InitialHandle>
+		<InitialHandle>777275</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -125,7 +125,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_03z</HashName>
-		<InitialHandle>112430</InitialHandle>
+		<InitialHandle>128828</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -159,7 +159,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_03z</HashName>
-		<InitialHandle>387623</InitialHandle>
+		<InitialHandle>22844</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -193,7 +193,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_05o</HashName>
-		<InitialHandle>347433</InitialHandle>
+		<InitialHandle>282940</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -227,7 +227,7 @@
 		<Dynamic>true</Dynamic>
 		<FrozenPos>false</FrozenPos>
 		<HashName>prop_sec_barier_04b</HashName>
-		<InitialHandle>601643</InitialHandle>
+		<InitialHandle>219964</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -261,7 +261,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_barier_conc_05a</HashName>
-		<InitialHandle>286833</InitialHandle>
+		<InitialHandle>246588</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -295,7 +295,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b_cr</HashName>
-		<InitialHandle>354602</InitialHandle>
+		<InitialHandle>770363</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -329,7 +329,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_flagpole_1a</HashName>
-		<InitialHandle>390953</InitialHandle>
+		<InitialHandle>239164</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -363,7 +363,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_flag_us_s</HashName>
-		<InitialHandle>237870</InitialHandle>
+		<InitialHandle>147258</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -390,7 +390,7 @@
 			<Yaw>52.7272835</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="true">
-			<AttachedTo>390953</AttachedTo>
+			<AttachedTo>239164</AttachedTo>
 			<BoneIndex>0</BoneIndex>
 			<X>0.0499999821</X>
 			<Y>-0.0399999991</Y>
@@ -406,7 +406,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_01a</HashName>
-		<InitialHandle>436515</InitialHandle>
+		<InitialHandle>43836</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -440,7 +440,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_03z</HashName>
-		<InitialHandle>86062</InitialHandle>
+		<InitialHandle>492601</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -474,7 +474,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_03z</HashName>
-		<InitialHandle>700971</InitialHandle>
+		<InitialHandle>553275</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -508,7 +508,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_05o</HashName>
-		<InitialHandle>384552</InitialHandle>
+		<InitialHandle>350266</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -542,7 +542,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>646443</InitialHandle>
+		<InitialHandle>34874</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -564,7 +564,7 @@
 			<X>-362.40741</X>
 			<Y>2958.37402</Y>
 			<Z>24.099184</Z>
-			<Pitch>-1.33402125e-07</Pitch>
+			<Pitch>-5.336085e-08</Pitch>
 			<Roll>-1.99998295</Roll>
 			<Yaw>-3.68180609</Yaw>
 		</PositionRotation>
@@ -576,7 +576,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>545069</InitialHandle>
+		<InitialHandle>7484</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -598,9 +598,9 @@
 			<X>-357.860992</X>
 			<Y>2958.24414</Y>
 			<Z>24.3610668</Z>
-			<Pitch>5.50283744e-07</Pitch>
+			<Pitch>5.70294105e-07</Pitch>
 			<Roll>-1.99997473</Roll>
-			<Yaw>0.995122015</Yaw>
+			<Yaw>0.995120943</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -610,7 +610,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>113197</InitialHandle>
+		<InitialHandle>525115</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -644,7 +644,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>230188</InitialHandle>
+		<InitialHandle>187702</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -678,7 +678,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>130861</InitialHandle>
+		<InitialHandle>428603</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -701,7 +701,7 @@
 			<Y>2951.24756</Y>
 			<Z>24.3834534</Z>
 			<Pitch>1.6008255e-06</Pitch>
-			<Roll>-1.99996746</Roll>
+			<Roll>-1.99996531</Roll>
 			<Yaw>4.89229202</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -712,7 +712,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>452909</InitialHandle>
+		<InitialHandle>108342</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -746,7 +746,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>532778</InitialHandle>
+		<InitialHandle>712762</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -769,7 +769,7 @@
 			<Y>2951.91284</Y>
 			<Z>24.8552513</Z>
 			<Pitch>4.00003624</Pitch>
-			<Roll>-1.9999181</Roll>
+			<Roll>-1.9999156</Roll>
 			<Yaw>-4.11545706</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -780,7 +780,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>754218</InitialHandle>
+		<InitialHandle>722491</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -802,179 +802,9 @@
 			<X>-343.647461</X>
 			<Y>2952.19946</Y>
 			<Z>25.187109</Z>
-			<Pitch>-1.067217e-07</Pitch>
+			<Pitch>-1.13391806e-07</Pitch>
 			<Roll>-4.00002813</Roll>
-			<Yaw>1.51443493</Yaw>
-		</PositionRotation>
-		<Attachment isAttached="false" />
-	</Placement>
-	<Placement>
-		<ModelHash>0x9ab35f63</ModelHash>
-		<Type>1</Type>
-		<Dynamic>true</Dynamic>
-		<FrozenPos>false</FrozenPos>
-		<HashName>Cop</HashName>
-		<InitialHandle>173101</InitialHandle>
-		<TaskSequence>
-			<Task>
-				<Type>14</Type>
-				<Duration>0</Duration>
-				<KeepTaskRunningAfterTime>0</KeepTaskRunningAfterTime>
-				<IsLoopedTask>false</IsLoopedTask>
-				<AnimDict>random@arrests</AnimDict>
-				<AnimName>generic_radio_chatter</AnimName>
-				<Speed>4</Speed>
-				<SpeedMultiplier>-4</SpeedMultiplier>
-				<Flag>1</Flag>
-				<LockPos>false</LockPos>
-				<OverrideDurationToNormalSpeedAnimDuration>true</OverrideDurationToNormalSpeedAnimDuration>
-			</Task>
-		</TaskSequence>
-		<PedProperties>
-			<IsStill>true</IsStill>
-			<CanRagdoll>true</CanRagdoll>
-			<HasShortHeight>false</HasShortHeight>
-			<Armour>0</Armour>
-			<CurrentWeapon>0xa2719263</CurrentWeapon>
-			<PedProps>
-				<_0>-1,-1</_0>
-				<_1>-1,-1</_1>
-				<_2>-1,-1</_2>
-				<_3>-1,-1</_3>
-				<_4>-1,-1</_4>
-				<_5>-1,-1</_5>
-				<_6>-1,-1</_6>
-				<_7>-1,-1</_7>
-				<_8>-1,-1</_8>
-				<_9>-1,-1</_9>
-			</PedProps>
-			<PedComps>
-				<_0>0,0</_0>
-				<_1>0,0</_1>
-				<_2>0,0</_2>
-				<_3>0,0</_3>
-				<_4>0,0</_4>
-				<_5>0,0</_5>
-				<_6>0,0</_6>
-				<_7>0,0</_7>
-				<_8>0,0</_8>
-				<_9>0,0</_9>
-				<_10>0,0</_10>
-				<_11>0,0</_11>
-			</PedComps>
-			<TattooLogoDecals />
-			<DamagePacks />
-			<RelationshipGroupAltered>true</RelationshipGroupAltered>
-			<RelationshipGroup>0x217b058e</RelationshipGroup>
-			<ScenarioActive>false</ScenarioActive>
-			<AnimActive>false</AnimActive>
-		</PedProperties>
-		<OpacityLevel>255</OpacityLevel>
-		<LodDistance>16960</LodDistance>
-		<IsVisible>true</IsVisible>
-		<MaxHealth>200</MaxHealth>
-		<Health>200</Health>
-		<HasGravity>true</HasGravity>
-		<IsOnFire>false</IsOnFire>
-		<IsInvincible>false</IsInvincible>
-		<IsBulletProof>false</IsBulletProof>
-		<IsCollisionProof>false</IsCollisionProof>
-		<IsExplosionProof>false</IsExplosionProof>
-		<IsFireProof>false</IsFireProof>
-		<IsMeleeProof>false</IsMeleeProof>
-		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
-		<PositionRotation>
-			<X>-368.018921</X>
-			<Y>2959.28149</Y>
-			<Z>24.8485317</Z>
-			<Pitch>0</Pitch>
-			<Roll>-0</Roll>
-			<Yaw>122.6716</Yaw>
-		</PositionRotation>
-		<Attachment isAttached="false" />
-	</Placement>
-	<Placement>
-		<ModelHash>0x9ab35f63</ModelHash>
-		<Type>1</Type>
-		<Dynamic>true</Dynamic>
-		<FrozenPos>false</FrozenPos>
-		<HashName>Cop</HashName>
-		<InitialHandle>761122</InitialHandle>
-		<TaskSequence>
-			<Task>
-				<Type>14</Type>
-				<Duration>0</Duration>
-				<KeepTaskRunningAfterTime>0</KeepTaskRunningAfterTime>
-				<IsLoopedTask>false</IsLoopedTask>
-				<AnimDict>random@arrests</AnimDict>
-				<AnimName>generic_radio_chatter</AnimName>
-				<Speed>4</Speed>
-				<SpeedMultiplier>-4</SpeedMultiplier>
-				<Flag>1</Flag>
-				<LockPos>false</LockPos>
-				<OverrideDurationToNormalSpeedAnimDuration>true</OverrideDurationToNormalSpeedAnimDuration>
-			</Task>
-		</TaskSequence>
-		<PedProperties>
-			<IsStill>true</IsStill>
-			<CanRagdoll>true</CanRagdoll>
-			<HasShortHeight>false</HasShortHeight>
-			<Armour>0</Armour>
-			<CurrentWeapon>0xa2719263</CurrentWeapon>
-			<PedProps>
-				<_0>-1,-1</_0>
-				<_1>-1,-1</_1>
-				<_2>-1,-1</_2>
-				<_3>-1,-1</_3>
-				<_4>-1,-1</_4>
-				<_5>-1,-1</_5>
-				<_6>-1,-1</_6>
-				<_7>-1,-1</_7>
-				<_8>-1,-1</_8>
-				<_9>-1,-1</_9>
-			</PedProps>
-			<PedComps>
-				<_0>0,0</_0>
-				<_1>0,0</_1>
-				<_2>0,0</_2>
-				<_3>0,0</_3>
-				<_4>0,0</_4>
-				<_5>0,0</_5>
-				<_6>0,0</_6>
-				<_7>0,0</_7>
-				<_8>0,0</_8>
-				<_9>0,0</_9>
-				<_10>0,0</_10>
-				<_11>0,0</_11>
-			</PedComps>
-			<TattooLogoDecals />
-			<DamagePacks />
-			<RelationshipGroupAltered>true</RelationshipGroupAltered>
-			<RelationshipGroup>0x217b058e</RelationshipGroup>
-			<ScenarioActive>false</ScenarioActive>
-			<AnimActive>false</AnimActive>
-		</PedProperties>
-		<OpacityLevel>255</OpacityLevel>
-		<LodDistance>16960</LodDistance>
-		<IsVisible>true</IsVisible>
-		<MaxHealth>200</MaxHealth>
-		<Health>200</Health>
-		<HasGravity>true</HasGravity>
-		<IsOnFire>false</IsOnFire>
-		<IsInvincible>false</IsInvincible>
-		<IsBulletProof>false</IsBulletProof>
-		<IsCollisionProof>false</IsCollisionProof>
-		<IsExplosionProof>false</IsExplosionProof>
-		<IsFireProof>false</IsFireProof>
-		<IsMeleeProof>false</IsMeleeProof>
-		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
-		<PositionRotation>
-			<X>-369.079285</X>
-			<Y>2952.94897</Y>
-			<Z>24.8645229</Z>
-			<Pitch>4.26873328e-07</Pitch>
-			<Roll>-0</Roll>
-			<Yaw>51.7221107</Yaw>
+			<Yaw>1.51443386</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -984,7 +814,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_01a</HashName>
-		<InitialHandle>466180</InitialHandle>
+		<InitialHandle>227644</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1018,7 +848,7 @@
 		<Dynamic>true</Dynamic>
 		<FrozenPos>false</FrozenPos>
 		<HashName>pranger</HashName>
-		<InitialHandle>140839</InitialHandle>
+		<InitialHandle>766266</InitialHandle>
 		<VehicleProperties>
 			<Colours>
 				<Primary>111</Primary>
@@ -1168,8 +998,8 @@
 			<X>-358.747498</X>
 			<Y>2962.12329</Y>
 			<Z>24.9452229</Z>
-			<Pitch>-3.27833676</Pitch>
-			<Roll>3.14048934</Roll>
+			<Pitch>-3.27833843</Pitch>
+			<Roll>3.14048743</Roll>
 			<Yaw>130.436722</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -1180,7 +1010,7 @@
 		<Dynamic>true</Dynamic>
 		<FrozenPos>false</FrozenPos>
 		<HashName>pranger</HashName>
-		<InitialHandle>631849</InitialHandle>
+		<InitialHandle>65079</InitialHandle>
 		<VehicleProperties>
 			<Colours>
 				<Primary>111</Primary>
@@ -1331,7 +1161,7 @@
 			<Y>2949.59619</Y>
 			<Z>26.0989876</Z>
 			<Pitch>-5.63304281</Pitch>
-			<Roll>7.60850096</Roll>
+			<Roll>7.60850143</Roll>
 			<Yaw>85.9249725</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -1342,7 +1172,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_route_01</HashName>
-		<InitialHandle>116269</InitialHandle>
+		<InitialHandle>212008</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1366,7 +1196,7 @@
 			<Z>25.1186848</Z>
 			<Pitch>0</Pitch>
 			<Roll>0</Roll>
-			<Yaw>-56.7711601</Yaw>
+			<Yaw>-56.7711525</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -1376,7 +1206,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_route_01</HashName>
-		<InitialHandle>215057</InitialHandle>
+		<InitialHandle>574779</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1410,7 +1240,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_06a</HashName>
-		<InitialHandle>515337</InitialHandle>
+		<InitialHandle>755515</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1434,7 +1264,7 @@
 			<Z>23.8000183</Z>
 			<Pitch>0</Pitch>
 			<Roll>-0</Roll>
-			<Yaw>-99.2966614</Yaw>
+			<Yaw>-99.2966461</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -1444,7 +1274,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_06a</HashName>
-		<InitialHandle>474905</InitialHandle>
+		<InitialHandle>663098</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1478,7 +1308,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_06a</HashName>
-		<InitialHandle>251942</InitialHandle>
+		<InitialHandle>603192</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1502,7 +1332,7 @@
 			<Z>23.9548512</Z>
 			<Pitch>0</Pitch>
 			<Roll>0</Roll>
-			<Yaw>-65.3425217</Yaw>
+			<Yaw>-65.342514</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -1512,7 +1342,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_06a</HashName>
-		<InitialHandle>45101</InitialHandle>
+		<InitialHandle>91964</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1546,7 +1376,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_fncsec_02pole</HashName>
-		<InitialHandle>640811</InitialHandle>
+		<InitialHandle>139068</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1570,7 +1400,7 @@
 			<Z>31.6596241</Z>
 			<Pitch>0</Pitch>
 			<Roll>-0</Roll>
-			<Yaw>-94.3257523</Yaw>
+			<Yaw>-94.325737</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -1580,7 +1410,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_flag_mexico_s</HashName>
-		<InitialHandle>396313</InitialHandle>
+		<InitialHandle>356155</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1604,10 +1434,10 @@
 			<Z>33.2196236</Z>
 			<Pitch>0</Pitch>
 			<Roll>-0</Roll>
-			<Yaw>-94.3257523</Yaw>
+			<Yaw>-94.325737</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="true">
-			<AttachedTo>640811</AttachedTo>
+			<AttachedTo>139068</AttachedTo>
 			<BoneIndex>0</BoneIndex>
 			<X>0</X>
 			<Y>0</Y>
@@ -1623,7 +1453,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b</HashName>
-		<InitialHandle>155950</InitialHandle>
+		<InitialHandle>110140</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1657,7 +1487,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b</HashName>
-		<InitialHandle>444458</InitialHandle>
+		<InitialHandle>439099</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1691,7 +1521,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b</HashName>
-		<InitialHandle>503820</InitialHandle>
+		<InitialHandle>417595</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1725,7 +1555,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence01b</HashName>
-		<InitialHandle>95533</InitialHandle>
+		<InitialHandle>123960</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1749,7 +1579,7 @@
 			<Z>14.5036173</Z>
 			<Pitch>0</Pitch>
 			<Roll>-0</Roll>
-			<Yaw>-95.5464096</Yaw>
+			<Yaw>-95.5463943</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -1759,7 +1589,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence01b</HashName>
-		<InitialHandle>697386</InitialHandle>
+		<InitialHandle>149564</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1793,7 +1623,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence01b</HashName>
-		<InitialHandle>17710</InitialHandle>
+		<InitialHandle>8762</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1827,7 +1657,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b_cr</HashName>
-		<InitialHandle>569616</InitialHandle>
+		<InitialHandle>56124</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1861,7 +1691,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b_cr</HashName>
-		<InitialHandle>504080</InitialHandle>
+		<InitialHandle>285237</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1895,7 +1725,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b_cr</HashName>
-		<InitialHandle>317997</InitialHandle>
+		<InitialHandle>531000</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1919,7 +1749,7 @@
 			<Z>10.5356302</Z>
 			<Pitch>0</Pitch>
 			<Roll>-0</Roll>
-			<Yaw>-173.50444</Yaw>
+			<Yaw>-173.50441</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -1929,7 +1759,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b_cr</HashName>
-		<InitialHandle>230957</InitialHandle>
+		<InitialHandle>776506</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1963,7 +1793,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b_cr</HashName>
-		<InitialHandle>516649</InitialHandle>
+		<InitialHandle>616249</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -1997,7 +1827,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b_cr</HashName>
-		<InitialHandle>358445</InitialHandle>
+		<InitialHandle>196635</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2031,7 +1861,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b_cr</HashName>
-		<InitialHandle>392489</InitialHandle>
+		<InitialHandle>702266</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2065,7 +1895,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b_cr</HashName>
-		<InitialHandle>291874</InitialHandle>
+		<InitialHandle>329526</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2099,7 +1929,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_restriction_10</HashName>
-		<InitialHandle>59685</InitialHandle>
+		<InitialHandle>592931</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2133,7 +1963,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_restriction_10</HashName>
-		<InitialHandle>783402</InitialHandle>
+		<InitialHandle>137788</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2157,7 +1987,7 @@
 			<Z>13.5607891</Z>
 			<Pitch>0</Pitch>
 			<Roll>-0</Roll>
-			<Yaw>-118.722038</Yaw>
+			<Yaw>-118.722031</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -2167,7 +1997,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_restriction_10</HashName>
-		<InitialHandle>61739</InitialHandle>
+		<InitialHandle>355131</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2201,7 +2031,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_restriction_10</HashName>
-		<InitialHandle>202797</InitialHandle>
+		<InitialHandle>231740</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2235,7 +2065,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_restriction_10</HashName>
-		<InitialHandle>421420</InitialHandle>
+		<InitialHandle>471867</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2269,7 +2099,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_restriction_10</HashName>
-		<InitialHandle>155181</InitialHandle>
+		<InitialHandle>465979</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2303,7 +2133,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>721443</InitialHandle>
+		<InitialHandle>217139</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2337,7 +2167,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>497964</InitialHandle>
+		<InitialHandle>69436</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2371,7 +2201,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>201516</InitialHandle>
+		<InitialHandle>550715</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2405,7 +2235,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>694059</InitialHandle>
+		<InitialHandle>293948</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2439,7 +2269,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>28973</InitialHandle>
+		<InitialHandle>149819</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2473,7 +2303,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>77096</InitialHandle>
+		<InitialHandle>276017</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2496,7 +2326,7 @@
 			<Y>2917.67725</Y>
 			<Z>13.3613901</Z>
 			<Pitch>1.99999344</Pitch>
-			<Roll>1.21603416e-05</Roll>
+			<Roll>1.22404317e-05</Roll>
 			<Yaw>-5.75919962</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
@@ -2507,7 +2337,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b</HashName>
-		<InitialHandle>484135</InitialHandle>
+		<InitialHandle>402232</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2541,7 +2371,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b</HashName>
-		<InitialHandle>667179</InitialHandle>
+		<InitialHandle>159290</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2575,7 +2405,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b</HashName>
-		<InitialHandle>308007</InitialHandle>
+		<InitialHandle>299571</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2609,7 +2439,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b</HashName>
-		<InitialHandle>560683</InitialHandle>
+		<InitialHandle>759867</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2643,7 +2473,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b</HashName>
-		<InitialHandle>680493</InitialHandle>
+		<InitialHandle>95547</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2677,7 +2507,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b</HashName>
-		<InitialHandle>235821</InitialHandle>
+		<InitialHandle>269884</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2711,7 +2541,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_sign_road_restriction_10</HashName>
-		<InitialHandle>137515</InitialHandle>
+		<InitialHandle>638521</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2745,7 +2575,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b</HashName>
-		<InitialHandle>739628</InitialHandle>
+		<InitialHandle>68156</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2779,7 +2609,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_const_fence03b</HashName>
-		<InitialHandle>472617</InitialHandle>
+		<InitialHandle>33596</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2813,7 +2643,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>515627</InitialHandle>
+		<InitialHandle>130876</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2847,7 +2677,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>445481</InitialHandle>
+		<InitialHandle>716601</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2881,7 +2711,7 @@
 		<Dynamic>false</Dynamic>
 		<FrozenPos>true</FrozenPos>
 		<HashName>prop_mp_barrier_01</HashName>
-		<InitialHandle>543529</InitialHandle>
+		<InitialHandle>283196</InitialHandle>
 		<ObjectProperties>
 			<TextureVariation>0</TextureVariation>
 		</ObjectProperties>
@@ -2915,7 +2745,7 @@
 		<Dynamic>true</Dynamic>
 		<FrozenPos>false</FrozenPos>
 		<HashName>Hooker 3</HashName>
-		<InitialHandle>413744</InitialHandle>
+		<InitialHandle>264507</InitialHandle>
 		<PedProperties>
 			<IsStill>true</IsStill>
 			<CanRagdoll>true</CanRagdoll>
@@ -2968,12 +2798,12 @@
 		<IsMeleeProof>false</IsMeleeProof>
 		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
 		<PositionRotation>
-			<X>-462.653961</X>
-			<Y>2968.84326</Y>
-			<Z>25.4479599</Z>
+			<X>-462.654358</X>
+			<Y>2968.8457</Y>
+			<Z>25.4440079</Z>
 			<Pitch>0</Pitch>
 			<Roll>0</Roll>
-			<Yaw>4.01132298</Yaw>
+			<Yaw>5.21632051</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -2983,7 +2813,7 @@
 		<Dynamic>true</Dynamic>
 		<FrozenPos>false</FrozenPos>
 		<HashName>Hooker 3</HashName>
-		<InitialHandle>723248</InitialHandle>
+		<InitialHandle>80187</InitialHandle>
 		<PedProperties>
 			<IsStill>true</IsStill>
 			<CanRagdoll>true</CanRagdoll>
@@ -3036,12 +2866,12 @@
 		<IsMeleeProof>false</IsMeleeProof>
 		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
 		<PositionRotation>
-			<X>-464.871155</X>
-			<Y>2969.61816</Y>
-			<Z>25.6537952</Z>
+			<X>-464.870575</X>
+			<Y>2969.62061</Y>
+			<Z>25.6489201</Z>
 			<Pitch>-0</Pitch>
 			<Roll>-0</Roll>
-			<Yaw>-19.633379</Yaw>
+			<Yaw>-18.4283676</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
 	</Placement>
@@ -3051,7 +2881,7 @@
 		<Dynamic>true</Dynamic>
 		<FrozenPos>false</FrozenPos>
 		<HashName>Hooker 3</HashName>
-		<InitialHandle>137777</InitialHandle>
+		<InitialHandle>746802</InitialHandle>
 		<PedProperties>
 			<IsStill>true</IsStill>
 			<CanRagdoll>true</CanRagdoll>
@@ -3104,13 +2934,700 @@
 		<IsMeleeProof>false</IsMeleeProof>
 		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
 		<PositionRotation>
-			<X>-466.797424</X>
-			<Y>2970.11084</Y>
-			<Z>25.882431</Z>
+			<X>-466.796844</X>
+			<Y>2970.11328</Y>
+			<Z>25.8775768</Z>
 			<Pitch>-0</Pitch>
 			<Roll>-0</Roll>
-			<Yaw>-19.6327972</Yaw>
+			<Yaw>-18.4277859</Yaw>
 		</PositionRotation>
 		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0xfc43b487</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<FrozenPos>true</FrozenPos>
+		<HashName>prop_dock_sign_01</HashName>
+		<InitialHandle>82492</InitialHandle>
+		<ObjectProperties>
+			<TextureVariation>0</TextureVariation>
+		</ObjectProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<MaxHealth>1000</MaxHealth>
+		<Health>1000</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>true</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>true</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>true</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-435.750549</X>
+			<Y>2875.26221</Y>
+			<Z>36.6714439</Z>
+			<Pitch>0</Pitch>
+			<Roll>0</Roll>
+			<Yaw>-50.538208</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0xfc43b487</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<FrozenPos>true</FrozenPos>
+		<HashName>prop_dock_sign_01</HashName>
+		<InitialHandle>770107</InitialHandle>
+		<ObjectProperties>
+			<TextureVariation>0</TextureVariation>
+		</ObjectProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<MaxHealth>1000</MaxHealth>
+		<Health>1000</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>true</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>true</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>true</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-428.449493</X>
+			<Y>2868.89893</Y>
+			<Z>37.1536713</Z>
+			<Pitch>0</Pitch>
+			<Roll>0</Roll>
+			<Yaw>-59.026001</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0xc76bd3ab</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<FrozenPos>true</FrozenPos>
+		<HashName>prop_sign_road_01a</HashName>
+		<InitialHandle>406326</InitialHandle>
+		<ObjectProperties>
+			<TextureVariation>0</TextureVariation>
+		</ObjectProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<MaxHealth>1000</MaxHealth>
+		<Health>1000</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-450.315887</X>
+			<Y>2865.02881</Y>
+			<Z>34.7433395</Z>
+			<Pitch>0</Pitch>
+			<Roll>-0</Roll>
+			<Yaw>128.871201</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0x039f650d</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<FrozenPos>true</FrozenPos>
+		<HashName>prop_sign_route_01</HashName>
+		<InitialHandle>413243</InitialHandle>
+		<ObjectProperties>
+			<TextureVariation>0</TextureVariation>
+		</ObjectProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<MaxHealth>1000</MaxHealth>
+		<Health>1000</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-465.464539</X>
+			<Y>2858.4978</Y>
+			<Z>33.4999084</Z>
+			<Pitch>0</Pitch>
+			<Roll>-0</Roll>
+			<Yaw>96.8222122</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0xf6a26c24</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<FrozenPos>true</FrozenPos>
+		<HashName>prop_sign_sec_02</HashName>
+		<InitialHandle>176188</InitialHandle>
+		<ObjectProperties>
+			<TextureVariation>0</TextureVariation>
+		</ObjectProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<MaxHealth>1000</MaxHealth>
+		<Health>1000</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-437.554352</X>
+			<Y>2873.83545</Y>
+			<Z>35.7853203</Z>
+			<Pitch>0</Pitch>
+			<Roll>0</Roll>
+			<Yaw>-3.82296968</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0xf3563329</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<FrozenPos>true</FrozenPos>
+		<HashName>apa_prop_flag_us_yt</HashName>
+		<InitialHandle>145466</InitialHandle>
+		<ObjectProperties>
+			<TextureVariation>0</TextureVariation>
+		</ObjectProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<MaxHealth>1000</MaxHealth>
+		<Health>1000</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-435.705109</X>
+			<Y>2875.35254</Y>
+			<Z>42.6008682</Z>
+			<Pitch>0</Pitch>
+			<Roll>-0</Roll>
+			<Yaw>136.576599</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="true">
+			<AttachedTo>82492</AttachedTo>
+			<BoneIndex>0</BoneIndex>
+			<X>-0.0408602878</X>
+			<Y>0.092494145</Y>
+			<Z>5.92942429</Z>
+			<Pitch>0</Pitch>
+			<Roll>-0</Roll>
+			<Yaw>187.114807</Yaw>
+		</Attachment>
+	</Placement>
+	<Placement>
+		<ModelHash>0x51f3bdae</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<FrozenPos>true</FrozenPos>
+		<HashName>prop_flag_sa</HashName>
+		<InitialHandle>277045</InitialHandle>
+		<ObjectProperties>
+			<TextureVariation>0</TextureVariation>
+		</ObjectProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<MaxHealth>1000</MaxHealth>
+		<Health>1000</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-428.54599</X>
+			<Y>2868.86865</Y>
+			<Z>42.4153519</Z>
+			<Pitch>0</Pitch>
+			<Roll>0</Roll>
+			<Yaw>-80.7690964</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="true">
+			<AttachedTo>770107</AttachedTo>
+			<BoneIndex>0</BoneIndex>
+			<X>-0.0237053707</X>
+			<Y>-0.0983164608</Y>
+			<Z>5.2616806</Z>
+			<Pitch>0</Pitch>
+			<Roll>0</Roll>
+			<Yaw>-21.7430992</Yaw>
+		</Attachment>
+	</Placement>
+	<Placement>
+		<ModelHash>0x6b631364</ModelHash>
+		<Type>3</Type>
+		<Dynamic>true</Dynamic>
+		<FrozenPos>false</FrozenPos>
+		<HashName>prop_sec_barier_04b</HashName>
+		<InitialHandle>196923</InitialHandle>
+		<ObjectProperties>
+			<TextureVariation>0</TextureVariation>
+		</ObjectProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<MaxHealth>1000</MaxHealth>
+		<Health>1000</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>true</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>true</IsCollisionProof>
+		<IsExplosionProof>true</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>true</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-355.590729</X>
+			<Y>2958.36987</Y>
+			<Z>24.5009384</Z>
+			<Pitch>-7.47049398e-07</Pitch>
+			<Roll>7.15255328e-06</Roll>
+			<Yaw>-85.0540085</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0xb144f9b9</ModelHash>
+		<Type>1</Type>
+		<Dynamic>false</Dynamic>
+		<FrozenPos>true</FrozenPos>
+		<HashName>Sheriff Male</HashName>
+		<InitialHandle>90172</InitialHandle>
+		<PedProperties>
+			<IsStill>true</IsStill>
+			<CanRagdoll>false</CanRagdoll>
+			<HasShortHeight>false</HasShortHeight>
+			<Armour>0</Armour>
+			<CurrentWeapon>0xa2719263</CurrentWeapon>
+			<PedProps>
+				<_0>-1,-1</_0>
+				<_1>-1,-1</_1>
+				<_2>-1,-1</_2>
+				<_3>-1,-1</_3>
+				<_4>-1,-1</_4>
+				<_5>-1,-1</_5>
+				<_6>-1,-1</_6>
+				<_7>-1,-1</_7>
+				<_8>-1,-1</_8>
+				<_9>-1,-1</_9>
+			</PedProps>
+			<PedComps>
+				<_0>2,2</_0>
+				<_1>0,0</_1>
+				<_2>0,0</_2>
+				<_3>0,0</_3>
+				<_4>0,0</_4>
+				<_5>0,0</_5>
+				<_6>0,0</_6>
+				<_7>0,0</_7>
+				<_8>0,0</_8>
+				<_9>0,0</_9>
+				<_10>0,0</_10>
+				<_11>0,0</_11>
+			</PedComps>
+			<RelationshipGroupAltered>true</RelationshipGroupAltered>
+			<RelationshipGroup>0x217b058e</RelationshipGroup>
+			<ScenarioActive>false</ScenarioActive>
+			<AnimActive>true</AnimActive>
+			<AnimDict>amb@world_human_cop_idles@male@idle_a</AnimDict>
+			<AnimName>idle_a</AnimName>
+		</PedProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<MaxHealth>200</MaxHealth>
+		<Health>200</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-367.526672</X>
+			<Y>2959.53198</Y>
+			<Z>24.8585701</Z>
+			<Pitch>0</Pitch>
+			<Roll>-0</Roll>
+			<Yaw>116.084267</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0x4161d042</ModelHash>
+		<Type>1</Type>
+		<Dynamic>false</Dynamic>
+		<FrozenPos>true</FrozenPos>
+		<HashName>Sheriff Female</HashName>
+		<InitialHandle>102460</InitialHandle>
+		<PedProperties>
+			<IsStill>true</IsStill>
+			<CanRagdoll>false</CanRagdoll>
+			<HasShortHeight>false</HasShortHeight>
+			<Armour>0</Armour>
+			<CurrentWeapon>0xa2719263</CurrentWeapon>
+			<PedProps>
+				<_0>-1,-1</_0>
+				<_1>-1,-1</_1>
+				<_2>-1,-1</_2>
+				<_3>-1,-1</_3>
+				<_4>-1,-1</_4>
+				<_5>-1,-1</_5>
+				<_6>-1,-1</_6>
+				<_7>-1,-1</_7>
+				<_8>-1,-1</_8>
+				<_9>-1,-1</_9>
+			</PedProps>
+			<PedComps>
+				<_0>0,0</_0>
+				<_1>0,0</_1>
+				<_2>0,2</_2>
+				<_3>0,0</_3>
+				<_4>0,0</_4>
+				<_5>0,0</_5>
+				<_6>0,0</_6>
+				<_7>0,0</_7>
+				<_8>0,0</_8>
+				<_9>0,0</_9>
+				<_10>0,0</_10>
+				<_11>0,0</_11>
+			</PedComps>
+			<RelationshipGroupAltered>true</RelationshipGroupAltered>
+			<RelationshipGroup>0x217b058e</RelationshipGroup>
+			<ScenarioActive>false</ScenarioActive>
+			<AnimActive>true</AnimActive>
+			<AnimDict>amb@world_human_cop_idles@female@idle_a</AnimDict>
+			<AnimName>idle_a</AnimName>
+		</PedProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<MaxHealth>200</MaxHealth>
+		<Health>200</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-369.046021</X>
+			<Y>2952.98193</Y>
+			<Z>24.8709831</Z>
+			<Pitch>0</Pitch>
+			<Roll>0</Roll>
+			<Yaw>52.6835365</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0x2c33b46e</ModelHash>
+		<Type>2</Type>
+		<Dynamic>true</Dynamic>
+		<FrozenPos>false</FrozenPos>
+		<HashName>pranger</HashName>
+		<InitialHandle>513339</InitialHandle>
+		<VehicleProperties>
+			<Colours>
+				<Primary>111</Primary>
+				<Secondary>7</Secondary>
+				<Pearl>2</Pearl>
+				<Rim>5</Rim>
+				<Mod1_a>6</Mod1_a>
+				<Mod1_b>-1</Mod1_b>
+				<Mod1_c>-1</Mod1_c>
+				<Mod2_a>6</Mod2_a>
+				<Mod2_b>-1</Mod2_b>
+				<IsPrimaryColourCustom>false</IsPrimaryColourCustom>
+				<IsSecondaryColourCustom>false</IsSecondaryColourCustom>
+				<tyreSmoke_R>255</tyreSmoke_R>
+				<tyreSmoke_G>255</tyreSmoke_G>
+				<tyreSmoke_B>255</tyreSmoke_B>
+				<LrInterior>0</LrInterior>
+				<LrDashboard>0</LrDashboard>
+				<LrXenonHeadlights>255</LrXenonHeadlights>
+			</Colours>
+			<Livery>-1</Livery>
+			<NumberPlateText>89YFJ271</NumberPlateText>
+			<NumberPlateIndex>4</NumberPlateIndex>
+			<WheelType>3</WheelType>
+			<WheelsInvisible>false</WheelsInvisible>
+			<EngineSoundName></EngineSoundName>
+			<WindowTint>-1</WindowTint>
+			<BulletProofTyres>false</BulletProofTyres>
+			<DirtLevel>0</DirtLevel>
+			<PaintFade>0.298039228</PaintFade>
+			<RoofState>0</RoofState>
+			<SirenActive>false</SirenActive>
+			<EngineOn>true</EngineOn>
+			<EngineHealth>1000</EngineHealth>
+			<LightsOn>false</LightsOn>
+			<IsRadioLoud>0</IsRadioLoud>
+			<LockStatus>1</LockStatus>
+			<Neons>
+				<Left>false</Left>
+				<Right>false</Right>
+				<Front>false</Front>
+				<Back>false</Back>
+				<R>255</R>
+				<G>0</G>
+				<B>255</B>
+			</Neons>
+			<DoorsOpen>
+				<BackLeftDoor>false</BackLeftDoor>
+				<BackRightDoor>false</BackRightDoor>
+				<FrontLeftDoor>false</FrontLeftDoor>
+				<FrontRightDoor>false</FrontRightDoor>
+				<Hood>false</Hood>
+				<Trunk>false</Trunk>
+				<Trunk2>false</Trunk2>
+			</DoorsOpen>
+			<DoorsBroken>
+				<BackLeftDoor>false</BackLeftDoor>
+				<BackRightDoor>false</BackRightDoor>
+				<FrontLeftDoor>false</FrontLeftDoor>
+				<FrontRightDoor>false</FrontRightDoor>
+				<Hood>false</Hood>
+				<Trunk>false</Trunk>
+				<Trunk2>false</Trunk2>
+			</DoorsBroken>
+			<TyresBursted>
+				<FrontLeft>false</FrontLeft>
+				<FrontRight>false</FrontRight>
+				<_2>false</_2>
+				<_3>false</_3>
+				<BackLeft>false</BackLeft>
+				<BackRight>false</BackRight>
+				<_6>false</_6>
+				<_7>false</_7>
+				<_8>false</_8>
+			</TyresBursted>
+			<ModExtras>
+				<_10>false</_10>
+				<_11>true</_11>
+			</ModExtras>
+			<Mods>
+				<_0>-1,0</_0>
+				<_1>-1,0</_1>
+				<_2>-1,0</_2>
+				<_3>-1,0</_3>
+				<_4>-1,0</_4>
+				<_5>-1,0</_5>
+				<_6>-1,0</_6>
+				<_7>-1,0</_7>
+				<_8>-1,0</_8>
+				<_9>-1,0</_9>
+				<_10>-1,0</_10>
+				<_11>-1,0</_11>
+				<_12>-1,0</_12>
+				<_13>-1,0</_13>
+				<_14>-1,0</_14>
+				<_15>-1,0</_15>
+				<_16>-1,0</_16>
+				<_17>false</_17>
+				<_18>false</_18>
+				<_19>false</_19>
+				<_20>false</_20>
+				<_21>false</_21>
+				<_22>false</_22>
+				<_23>-1,0</_23>
+				<_24>-1,0</_24>
+				<_25>-1,0</_25>
+				<_26>-1,0</_26>
+				<_27>-1,0</_27>
+				<_28>-1,0</_28>
+				<_29>-1,0</_29>
+				<_30>-1,0</_30>
+				<_31>-1,0</_31>
+				<_32>-1,0</_32>
+				<_33>-1,0</_33>
+				<_34>-1,0</_34>
+				<_35>-1,0</_35>
+				<_36>-1,0</_36>
+				<_37>-1,0</_37>
+				<_38>-1,0</_38>
+				<_39>-1,0</_39>
+				<_40>-1,0</_40>
+				<_41>-1,0</_41>
+				<_42>-1,0</_42>
+				<_43>-1,0</_43>
+				<_44>-1,0</_44>
+				<_45>-1,0</_45>
+				<_46>-1,0</_46>
+				<_47>-1,0</_47>
+				<_48>-1,0</_48>
+			</Mods>
+		</VehicleProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<MaxHealth>1000</MaxHealth>
+		<Health>1000</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-639.852661</X>
+			<Y>2903.52222</Y>
+			<Z>15.2564192</Z>
+			<Pitch>-2.06330419</Pitch>
+			<Roll>-4.94142818</Roll>
+			<Yaw>-46.6015396</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0x9fc7f637</ModelHash>
+		<Type>1</Type>
+		<Dynamic>true</Dynamic>
+		<FrozenPos>false</FrozenPos>
+		<HashName>Ranger Female</HashName>
+		<InitialHandle>66112</InitialHandle>
+		<TaskSequence>
+			<Task>
+				<Type>30</Type>
+				<Duration>3000</Duration>
+				<KeepTaskRunningAfterTime>1</KeepTaskRunningAfterTime>
+				<IsLoopedTask>false</IsLoopedTask>
+				<VehicleInitHandle>513339</VehicleInitHandle>
+				<SeatIndex>-1</SeatIndex>
+			</Task>
+			<Task>
+				<Type>34</Type>
+				<Duration>10000</Duration>
+				<KeepTaskRunningAfterTime>-2</KeepTaskRunningAfterTime>
+				<IsLoopedTask>false</IsLoopedTask>
+				<SpeedInKmph>10</SpeedInKmph>
+				<DrivingStyle>786603</DrivingStyle>
+			</Task>
+		</TaskSequence>
+		<PedProperties>
+			<IsStill>true</IsStill>
+			<CanRagdoll>false</CanRagdoll>
+			<HasShortHeight>false</HasShortHeight>
+			<Armour>0</Armour>
+			<CurrentWeapon>0xa2719263</CurrentWeapon>
+			<PedProps>
+				<_0>-1,-1</_0>
+				<_1>-1,-1</_1>
+				<_2>-1,-1</_2>
+				<_3>-1,-1</_3>
+				<_4>-1,-1</_4>
+				<_5>-1,-1</_5>
+				<_6>-1,-1</_6>
+				<_7>-1,-1</_7>
+				<_8>-1,-1</_8>
+				<_9>-1,-1</_9>
+			</PedProps>
+			<PedComps>
+				<_0>0,0</_0>
+				<_1>0,0</_1>
+				<_2>1,0</_2>
+				<_3>0,0</_3>
+				<_4>0,0</_4>
+				<_5>0,0</_5>
+				<_6>0,0</_6>
+				<_7>0,0</_7>
+				<_8>0,0</_8>
+				<_9>0,0</_9>
+				<_10>0,0</_10>
+				<_11>0,0</_11>
+			</PedComps>
+			<RelationshipGroupAltered>false</RelationshipGroupAltered>
+			<RelationshipGroup>0xfade4843</RelationshipGroup>
+			<ScenarioActive>false</ScenarioActive>
+			<AnimActive>false</AnimActive>
+		</PedProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>true</IsVisible>
+		<MaxHealth>200</MaxHealth>
+		<Health>200</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>true</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-639.852661</X>
+			<Y>2903.52222</Y>
+			<Z>15.2564192</Z>
+			<Pitch>-2.06368232</Pitch>
+			<Roll>-4.94160271</Roll>
+			<Yaw>-46.6012459</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="true">
+			<AttachedTo>513339</AttachedTo>
+			<BoneIndex>0</BoneIndex>
+			<X>0</X>
+			<Y>0</Y>
+			<Z>0</Z>
+			<Pitch>0</Pitch>
+			<Roll>0</Roll>
+			<Yaw>0</Yaw>
+		</Attachment>
 	</Placement>
 </SpoonerPlacements>
