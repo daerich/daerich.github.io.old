@@ -10,6 +10,7 @@ categories: ['Internet']
 ## RageHook( -directx11 -windowed)
 * KFTDO
 * Siren Mastery
+* SpikeStripsV
 * Sticky Wheels
 
 ## LSPDFR 0.4:
@@ -32,6 +33,7 @@ categories: ['Internet']
 * Simple Trainer
 * PLD by Lt. Caine
 * ELS by Lt.Caine
+* Indicators by Hunk
 * Enhanced Cruise Control by Kryo4Lex 
 * Christmas in Singleplayer by CamxxCore
 * Map Editor by Guadmaz (use nativeui supplied in zip)
