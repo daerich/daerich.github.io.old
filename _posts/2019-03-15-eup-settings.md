@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "EUP Settings" 
-date: 2019-03-15 16:16:01 -0600 
+date: 2019-03-15 15:43:01 -0600 
 categories: ['Internet']
 --- 
 
