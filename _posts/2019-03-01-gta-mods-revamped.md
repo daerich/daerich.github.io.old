@@ -50,7 +50,7 @@ categories: ['Internet']
 --> eup_settings.zip(customized) by mkalash
 
 ### Visuals
-* NaturalVision Remastered(+ LSPDFR Plugin) by Razed
+* NaturalVision Remastered(+ LSPDFR Plugin) by Razed/Make Visuals Great Again by Kompetenzzz
 * RadianceV by BxBugs123
 * 4K Satellite View Map by DesignerAppz
 
