@@ -44,8 +44,8 @@ propNames = {
 The numerical ids of the '```<prop>```' tag
 
 ## The maths
-Apparently you'll have to deduce 1 (-1) from eup numericals num:num structure defining the ``` drawable:texture``` if one of them 
-has a higher value than 0. Apprehend them to the corresponding '```<component>```' and '```<prop>```' tags and __you'll have integrated
+Apparently you'll have __to deduce 1 (-1) if one of them
+have (or both) has(have a higher value than 0  from the corresponding eup numerical num:num structure defining the ``` drawable:texture``` .__ Apprehend them to the corresponding '```<component>```' and '```<prop>```' tags and __you'll have integrated
 your eup outfits natively into LSPDFR's new outfit api.__
 
 
