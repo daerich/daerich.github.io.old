@@ -8,6 +8,7 @@ categories: ['Internet']
 # GTAMods Revamped
 
 ## RageHook( -directx11 -windowed)
+* (* DashCamV by PieRGud * Body Cam)
 * KFTDO
 * Siren Mastery
 * SpikeStripsV
@@ -51,6 +52,8 @@ categories: ['Internet']
 ### Visuals
 * NaturalVision Remastered(+ LSPDFR Plugin) by Razed
 * RadianceV by BxBugs123
+* 4K Satellite View Map by DesignerAppz
+
 
 ### Weapons
 * Max Payne 3 Glock by Olanov
