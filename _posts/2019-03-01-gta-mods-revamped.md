@@ -57,6 +57,7 @@ categories: ['Internet']
 
 ### Weapons
 * Max Payne 3 Glock by Olanov
+* Glock 17 - Realistic Sound Mod by ErikB26
 * Taser X26 by BufordT
 
 ### Cars & Sirens
@@ -65,10 +66,14 @@ categories: ['Internet']
   (US Border Patrol by  firefighter2832)
 * CVPI 1.9L by BxBugs123 (police)
 * Chevy Impala by BxBugs123(police5)
+* 2013 Chevrolet Carprice(unmarked) by McCreary (police7) 
 
 ### Sirens
 * Whelen Cencom Sapphire Rumbler by StraightGlitcheZ 
 * Modern Siren Pack by GravelRoadCop (Code 3 Mastercom B Siren)
+
+### Miscellaneous
+* German Road Signs by TheRemy
 
 ___Huge thanks to everyone developing those sophisticated modding projects! Your commitment allows me to enjoy GTA V in a fresh way.___
 
