@@ -67,6 +67,7 @@ categories: ['Internet']
   (US Border Patrol by  firefighter2832)
 * CVPI 1.9L by BxBugs123 (police)
 * Chevy Impala by BxBugs123(police5)
+* BMW 1200RT LSPD Motorcycle by darkhatos (policeb)
 * 2013 Chevrolet Carprice(unmarked) by McCreary (police7) 
 
 ### Sirens
