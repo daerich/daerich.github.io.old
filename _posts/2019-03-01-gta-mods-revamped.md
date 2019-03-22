@@ -28,6 +28,7 @@ categories: ['Internet']
 * Station 19 Callouts
 * Traffic Policer
 * United Callouts
+* Vocal Dispatch
 * XScanner (Sound addon by Darkmyre)
 
 ## ScriptHook:
