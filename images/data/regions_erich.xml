@@ -1,14 +1,16 @@
+<Regions>
 <Region>
-  <Name>LSHighway</Name>
-	<Zones>
-		<Zone>HIGHWAY</Zone>
-	</Zones>
+ <Name>LSHighway</Name>
+<Zones>
+  <Zone>HIGHWAY</Zone>
+</Zones>
 </Region>
-	<Region>
+<Region>
   <Name>BorderZone</Name>
-	<Zones>
-		<Zone>LAGO</Zone>
-		<Zone>ZANCUDO</Zone>
-		<Zone>DESRT</Zone>
-	</Zones>
+<Zones>
+	<Zone>LAGO</Zone>
+	<Zone>ZANCUDO</Zone>
+	<Zone>DESRT</Zone>
+</Zones>
 </Region>
+</Regions>
