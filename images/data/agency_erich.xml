@@ -1,0 +1,22 @@
+	<Agency>
+		<Name>United States Border Patrol</Name>
+		<ShortName>USBP</ShortName>
+		<ScriptName>usbp</ScriptName>
+		<Inventory>sftac_eup</Inventory>
+		<Loadout>
+			<Name>Border Patrol Agent</Name>
+			<Vehicles>
+			<Vehicle livery="9">police5</Vehicle>
+			</Vehicles>
+			<Peds>
+				<Ped chance="50" outfit="sadcr_class_b.m_armed">mp_m_freemode_01</Ped> <!-- Class B outfit (Base) -->
+				<Ped chance="50" outfit="sadcr_class_c.f_armed">mp_f_freemode_01</Ped> <!-- Class C outfit (Base) -->
+			</Peds>
+			<NumPeds min="1" max="1" />
+			<Flags>
+				<Flag>RespondsAsTransport</Flag>
+				<Flag>RespondsAsBackup</Flag>
+				<Flag>SpawnsAmbiently</Flag>
+		</Flags>
+		</Loadout>
+	</Agency>
