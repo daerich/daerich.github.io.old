@@ -66,6 +66,7 @@ categories: ['Internet']
 * 2017 California Highway Patrol Mega Pack by Thehurk (police6:Dodge Charger;sheriff3:Ford Explorer)
 * Lifted Jeep Wrangler Rubicon by Torz (pranger)
   (US Border Patrol by  firefighter2832)
+* LSPD Vehicle Pack by BradM (2014 Dodge(unmarked): fbi; 2016 Dodge: police_gruppe6)
 * CVPI 1.9L by BxBugs123 (police)
 * Chevy Impala by BxBugs123(police5)
 * BMW 1200RT LSPD Motorcycle by darkhatos (policeb)
