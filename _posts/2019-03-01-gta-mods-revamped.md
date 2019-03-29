@@ -16,6 +16,7 @@ categories: ['Internet']
 
 ## LSPDFR 0.4:
 * Assorted Callouts
+* Attempted Crime Callouts
 * Arrest Manager (disabled Grabbing)
 * BetterEms
 * Better Dispatch Audio
@@ -38,6 +39,7 @@ categories: ['Internet']
 * ELS by Lt.Caine
 * Indicators by Hunk
 * Enhanced Cruise Control by Kryo4Lex 
+* LeFix Simple Fuel(updated by ikt)
 * Christmas in Singleplayer by CamxxCore
 * Map Editor by Guadmaz (use nativeui supplied in zip)
  +US - Canadian Border by Sereous313
@@ -63,6 +65,7 @@ categories: ['Internet']
 * Taser X26 by BufordT
 
 ### Cars & Sirens
+* Slicktop LSPD 2018 Dodge Charger by Straight Glitchez (police2)
 * 2017 California Highway Patrol Mega Pack by Thehurk (police6:Dodge Charger;sheriff3:Ford Explorer)
 * Lifted Jeep Wrangler Rubicon by Torz (pranger)
   (US Border Patrol by  firefighter2832)
@@ -74,7 +77,7 @@ categories: ['Internet']
 
 ### Sirens
 * Whelen Cencom Sapphire Rumbler by StraightGlitcheZ 
-* Modern Siren Pack by GravelRoadCop (Code 3 Mastercom B Siren)
+* Modern Siren Pack by GravelRoadCop (Code 3 Mastercom B Siren, Wheelen Cencom Gold)
 
 ### Miscellaneous
 * German Road Signs by TheRemy
