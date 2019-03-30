@@ -40,6 +40,8 @@ categories: ['Internet']
 * Indicators by Hunk
 * Enhanced Cruise Control by Kryo4Lex 
 * LeFix Simple Fuel(updated by ikt)
+* LeFix Speedometer(updated by ikt)
+* Manual Transmission by ikt
 * Christmas in Singleplayer by CamxxCore
 * Map Editor by Guadmaz (use nativeui supplied in zip)
  +US - Canadian Border by Sereous313
@@ -60,6 +62,7 @@ categories: ['Internet']
 
 
 ### Weapons
+* Pro Laser 4 Gun by Scaarus
 * Max Payne 3 Glock by Olanov
 * Glock 17 - Realistic Sound Mod by ErikB26
 * Taser X26 by BufordT
