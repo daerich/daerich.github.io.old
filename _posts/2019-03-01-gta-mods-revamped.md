@@ -41,7 +41,7 @@ categories: ['Internet']
 * ELS by Lt.Caine
 * Indicators by Hunk
 * Enhanced Cruise Control by Kryo4Lex 
-* LeFix Simple Fuel(updated by ikt)(select button remapped to vk_return)
+* LeFix Simple Fuel(updated by ikt)(select button remapped to vk_return)†2
 * LeFix Speedometer(updated by ikt)(--||--)
 * Manual Transmission by ikt (ShiftUp bound to CapsLock)†1
 * Christmas in Singleplayer by CamxxCore
@@ -87,7 +87,7 @@ categories: ['Internet']
 * German Road Signs by TheRemy
 
 †1 (Automatic gearbox; 'default gear = neutral gear' option)
-
+†2 (always show gas stations)
 ___Huge thanks to everyone developing those sophisticated modding projects! Your commitment allows me to enjoy GTA V in a fresh way.___
 
 ![GTA_Restore](https://worstaim.eu/images/clean_gta_folder_full.png)
