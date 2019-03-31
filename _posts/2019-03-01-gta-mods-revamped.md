@@ -43,7 +43,7 @@ categories: ['Internet']
 * Enhanced Cruise Control by Kryo4Lex 
 * LeFix Simple Fuel(updated by ikt)(select button remapped to vk_return)
 * LeFix Speedometer(updated by ikt)(--||--)
-* Manual Transmission by ikt (ShiftUp bound to CapsLock)
+* Manual Transmission by ikt (ShiftUp bound to CapsLock)†1
 * Christmas in Singleplayer by CamxxCore
 * Map Editor by Guadmaz (use nativeui supplied in zip)
  +US - Canadian Border by Sereous313
@@ -86,6 +86,7 @@ categories: ['Internet']
 ### Miscellaneous
 * German Road Signs by TheRemy
 
+†1 (Automatic gearbox; 'default gear = neutral gear' option)
 
 ___Huge thanks to everyone developing those sophisticated modding projects! Your commitment allows me to enjoy GTA V in a fresh way.___
 
