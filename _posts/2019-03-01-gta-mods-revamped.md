@@ -20,6 +20,7 @@ categories: ['Internet']
 * Arrest Manager (disabled Grabbing)
 * BetterEms
 * Better Dispatch Audio
+* Code Red Callouts
 * Computer+ (Cincinnati PD Based Computer+ Background by t0y)
 * Cop Holster
 * LSPDFR+/Interaction+
@@ -30,6 +31,7 @@ categories: ['Internet']
 * Traffic Policer
 * United Callouts
 * Vocal Dispatch
+* Wilderness Callouts
 * XScanner (Sound addon by Darkmyre)
 
 ## ScriptHook:
@@ -39,8 +41,8 @@ categories: ['Internet']
 * ELS by Lt.Caine
 * Indicators by Hunk
 * Enhanced Cruise Control by Kryo4Lex 
-* LeFix Simple Fuel(updated by ikt)
-* LeFix Speedometer(updated by ikt)
+* LeFix Simple Fuel(updated by ikt)(select button remapped to vk_return)
+* LeFix Speedometer(updated by ikt)(--||--)
 * Manual Transmission by ikt
 * Christmas in Singleplayer by CamxxCore
 * Map Editor by Guadmaz (use nativeui supplied in zip)
