@@ -17,7 +17,7 @@ categories: ['Internet']
 ## LSPDFR 0.4:
 * Assorted Callouts
 * Attempted Crime Callouts
-* Arrest Manager (disabled Grabbing)
+* Arrest Manager (disabled Grabbing)/Stop The Ped + Ultimate Backup(+xml by TreadRed)
 * BetterEms
 * Better Dispatch Audio
 * Code Red Callouts
@@ -40,6 +40,7 @@ categories: ['Internet']
 * PLD by Lt. Caine
 * ELS by Lt.Caine
 * Indicators by Hunk
+* Gear Shifting Animation by Hunk
 * Enhanced Cruise Control by Kryo4Lex 
 * LeFix Simple Fuel(updated by ikt)(select button remapped to vk_return)†2
 * LeFix Speedometer(updated by ikt)(--||--)
@@ -53,6 +54,7 @@ categories: ['Internet']
 ## Cars & Cosmetics
 * EUP Law and Order
 * EUP Serve and Rescue
+* Off-Duty and Special Duties Pack(eup) by Pacific Pig
 * EUP Vests by GrandTheftPD
 
 ### Visuals
@@ -86,7 +88,6 @@ categories: ['Internet']
 ### Miscellaneous
 * German Road Signs by TheRemy
 * AI TRAFFIC Fluidity & Discipline by RCrw notik
-* Off-Duty and Special Duties Pack(eup) by Pacific Pig
 
 †1 (Automatic gearbox; 'default gear = neutral gear' option)
 †2 (always show gas stations)
