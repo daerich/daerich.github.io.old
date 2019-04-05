@@ -86,6 +86,7 @@ categories: ['Internet']
 ### Miscellaneous
 * German Road Signs by TheRemy
 * AI TRAFFIC Fluidity & Discipline by RCrw notik
+* Off-Duty and Special Duties Pack(eup) by Pacific Pig
 
 †1 (Automatic gearbox; 'default gear = neutral gear' option)
 †2 (always show gas stations)
