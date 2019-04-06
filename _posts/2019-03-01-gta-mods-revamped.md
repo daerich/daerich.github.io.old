@@ -48,7 +48,7 @@ categories: ['Internet']
 ### Driving
 * Indicators by Hunk
 * Gear Shifting Animation by Hunk
-* Relaxed Driving Style by Hunk
+* Relaxed Driving Style by Hunk ("std_sit_low_lowdoor")
 * Enhanced Cruise Control by Kryo4Lex 
 * LeFix Simple Fuel(updated by ikt)(select button remapped to vk_return)†2
 * LeFix Speedometer(updated by ikt)(--||--)
