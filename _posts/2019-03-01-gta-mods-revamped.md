@@ -40,16 +40,19 @@ categories: ['Internet']
 * Simple Trainer
 * PLD by Lt. Caine
 * ELS by Lt.Caine
-* Indicators by Hunk
-* Gear Shifting Animation by Hunk
-* Enhanced Cruise Control by Kryo4Lex 
-* LeFix Simple Fuel(updated by ikt)(select button remapped to vk_return)†2
-* LeFix Speedometer(updated by ikt)(--||--)
-* Manual Transmission by ikt (ShiftUp bound to CapsLock)†1
 * Christmas in Singleplayer by CamxxCore
 * Map Editor by Guadmaz (use nativeui supplied in zip)
  +US - Canadian Border by Sereous313
  * Menyoo
+ 
+ #### Driving
+* Indicators by Hunk
+* Gear Shifting Animation by Hunk
+* Relaxed Driving Style by Hunk
+* Enhanced Cruise Control by Kryo4Lex 
+* LeFix Simple Fuel(updated by ikt)(select button remapped to vk_return)†2
+* LeFix Speedometer(updated by ikt)(--||--)
+* Manual Transmission by ikt (ShiftUp bound to CapsLock)†1
 
 
 ## Cars & Cosmetics
