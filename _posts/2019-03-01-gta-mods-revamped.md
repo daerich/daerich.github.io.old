@@ -23,6 +23,7 @@ categories: ['Internet']
 * Code Red Callouts
 * Computer+ (Cincinnati PD Based Computer+ Background by t0y)
 * Cop Holster
+* HoldMyGun
 * LSPDFR+/Interaction+
 * PeterUCallouts
 * Police Smart Radio
@@ -65,6 +66,7 @@ categories: ['Internet']
 
 ### Weapons
 * ASP Baton by DoubleDoppler
+* Colt M4A1 (+Attachments) by Jridah
 * Pro Laser 4 Gun by Scaarus
 * Max Payne 3 Glock by Olanov
 * Glock 17 - Realistic Sound Mod by ErikB26
