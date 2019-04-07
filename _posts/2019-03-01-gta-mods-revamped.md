@@ -10,7 +10,7 @@ categories: ['Internet']
 ## RageHook( -directx11 -windowed)
 * (* DashCamV by PieRGud * Body Cam)
 * KFTDO
-* Siren Mastery
+* Siren Mastery (remapped 'G' function, bound to 'K', BLIP replaced)
 * SpikeStripsV
 * Sticky Wheels
 
@@ -90,9 +90,10 @@ categories: ['Internet']
 * Whelen Cencom Sapphire Rumbler by StraightGlitcheZ 
 * Modern Siren Pack by GravelRoadCop (Code 3 Mastercom B Siren, Wheelen Cencom Gold)
 
-### Miscellaneous
+### Miscellaneous/Data Files
 * German Road Signs by TheRemy
 * AI TRAFFIC Fluidity & Discipline by RCrw notik
+* Realistic Melee Mod by Techengage
 
 †1 (Automatic gearbox; 'default gear = neutral gear' option)
 †2 (always show gas stations)
