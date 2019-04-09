@@ -76,15 +76,16 @@ categories: ['Internet']
 * Taser X26 by BufordT
 
 ### Cars & Sirens
-* Slicktop LSPD 2018 Dodge Charger by Straight Glitchez (police2)
-* 2017 California Highway Patrol Mega Pack by Thehurk (police6:Dodge Charger;sheriff3:Ford Explorer)/Los Santos County Mini Pack by TrpCharles(sheriff3:2018 Ford Explorer)
-* Lifted Jeep Wrangler Rubicon by Torz (pranger)
+* __Police2__:Slicktop LSPD 2018 Dodge Charger by Straight Glitchez 
+* __Police6:Dodge Charger;Sheriff3:Ford Explorer__: 2017 California Highway Patrol Mega Pack by Thehurk/
+* __Sheriff3:2018 Ford Explorer__:Los Santos County Mini Pack by TrpCharles
+* __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
-* LSPD Vehicle Pack by BradM (2014 Dodge(unmarked): fbi; 2016 Dodge: police_gruppe6)
-* CVPI 1.9L by BxBugs123 (police)
-* Chevy Impala by BxBugs123(police5)
-* BMW 1200RT LSPD Motorcycle by darkhatos (policeb)
-* 2013 Chevrolet Carprice(unmarked) by McCreary (police7) 
+* __2014 Dodge(unmarked): fbi ; 2016 Dodge: police_gruppe6__: LSPD Vehicle Pack by BradM
+* __Police__: CVPI 1.9L by BxBugs123 (police)
+* __Police5__:Chevy Impala by BxBugs123(police5)
+* __PoliceB__:BMW 1200RT LSPD Motorcycle by darkhatos
+* __Police7__: 2013 Chevrolet Carprice(unmarked) by McCreary 
 
 ### Sirens
 * Whelen Cencom Sapphire Rumbler by StraightGlitcheZ 
