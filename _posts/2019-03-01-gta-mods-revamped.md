@@ -17,12 +17,13 @@ categories: ['Internet']
 ## LSPDFR 0.4:
 * Assorted Callouts
 * Attempted Crime Callouts
-* Arrest Manager (disabled Grabbing)/Stop The Ped + Ultimate Backup(+xml by TreadRed)
+* Arrest Manager (disabled Grabbing)/
+* Stop The Ped(double tap 'E', alt takedown anim.) + Ultimate Backup(+xml by TreadRed)
 * BetterEms
 * Better Dispatch Audio
 * Code Red Callouts
 * Computer+ (Cincinnati PD Based Computer+ Background by t0y)
-* Cop Holster
+* Cop Holster (aborts Relaxed Driv. anim, when outside of car)
 * HoldMyGun
 * LSPDFR+/Interaction+
 * PeterUCallouts
