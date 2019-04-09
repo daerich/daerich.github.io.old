@@ -76,7 +76,8 @@ categories: ['Internet']
 * Taser X26 by BufordT
 
 ### Cars & Sirens
-* __Police2__:Slicktop LSPD 2018 Dodge Charger by Straight Glitchez 
+* __Police2__:Slicktop LSPD 2018 Dodge Charger by Straight Glitchez
+* __Police3:__ 2016 Chevrolet Impala LTZ by BlueGhost
 * __Police6:Dodge Charger;Sheriff3:Ford Explorer__: 2017 California Highway Patrol Mega Pack by Thehurk/
 * __Sheriff3:2018 Ford Explorer__:Los Santos County Mini Pack by TrpCharles
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
