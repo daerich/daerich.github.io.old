@@ -76,11 +76,11 @@ categories: ['Internet']
 * Taser X26 by BufordT
 
 ### Cars & Sirens
-* __Police__: CVPI 1.9L by BxBugs123 (police)
+* __Police__: CVPI 1.9L by BxBugs123
 * __Police2__:Slicktop LSPD 2018 Dodge Charger by Straight Glitchez
 * __Police3__: 2016 Chevrolet Impala LTZ by BlueGhost
 * __Police4__: Unmarked Crown Victoria by Policesco 
-* __Police5__:Chevy Impala by BxBugs123(police5)
+* __Police5__:Chevy Impala by BxBugs123
 * __Police7__: 2013 Chevrolet Carprice(unmarked) by McCreary 
 * __PoliceB__:BMW 1200RT LSPD Motorcycle by darkhatos
 * __Police6:Dodge Charger;Sheriff3:Ford Explorer__: 2017 California Highway Patrol Mega Pack by Thehurk/
