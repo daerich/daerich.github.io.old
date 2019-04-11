@@ -38,6 +38,7 @@ categories: ['Internet']
 * XScanner (Sound addon by Darkmyre)
 
 ## ScriptHook:
+* GTAV Heap Adjuster by Fivem Systems Division
 * ScriptHookdotNet
 * Simple Trainer
 * PLD by Lt. Caine
