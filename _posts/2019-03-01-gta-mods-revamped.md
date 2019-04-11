@@ -28,6 +28,7 @@ categories: ['Internet']
 * LSPDFR+/Interaction+
 * PeterUCallouts
 * Police Smart Radio
+* Police Tape by PNWParksFan
 * Seach Warrant
 * Station 19 Callouts
 * Traffic Policer
@@ -48,8 +49,8 @@ categories: ['Internet']
  
 ### Driving
 * Indicators by Hunk
-* Gear Shifting Animation by Hunk
-* Relaxed Driving Style by Hunk ("std_sit_low_lowdoor")
+* Gear Shifting Animation by Hunk 
+* Relaxed Driving Style by Hunk ("std_sit_low_lowdoor")†3
 * Enhanced Cruise Control by Kryo4Lex 
 * LeFix Simple Fuel(updated by ikt)(select button remapped to vk_return)†2
 * LeFix Speedometer(updated by ikt)(--||--)
@@ -75,6 +76,7 @@ categories: ['Internet']
 * Max Payne 3 Glock by Olanov
 * Glock 17 - Realistic Sound Mod by ErikB26
 * Taser X26 by BufordT
+* Taser Sound Mod by NEZ
 
 ### Cars & Sirens
 * Crown Victoria Engine Sound by Lieutenant Dan
@@ -103,6 +105,7 @@ categories: ['Internet']
 
 †1 (Automatic gearbox; 'default gear = neutral gear' option)
 †2 (always show gas stations)
+†3 (key mapped to 'N' use vanilla car first, when using added vehicle for patrol to load plugin properly)
 ___Huge thanks to everyone developing those sophisticated modding projects! Your commitment allows me to enjoy GTA V in a fresh way.___
 
 ![GTA_Restore](https://worstaim.eu/images/clean_gta_folder_full.png)
