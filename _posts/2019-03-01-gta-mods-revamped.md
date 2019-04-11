@@ -77,6 +77,7 @@ categories: ['Internet']
 * Taser X26 by BufordT
 
 ### Cars & Sirens
+* Crown Victoria Engine Sound by Lieutenant Dan
 * __Police__: CVPI 1.9L by BxBugs123
 * __Police2__:Slicktop LSPD 2018 Dodge Charger by Straight Glitchez
 * __Police3__: 2016 Chevrolet Impala LTZ by BlueGhost
@@ -96,6 +97,7 @@ categories: ['Internet']
 
 ### Miscellaneous/Data Files
 * German Road Signs by TheRemy
+* New License Plates [Add-On] by WildBrick142
 * AI TRAFFIC Fluidity & Discipline by RCrw notik
 * Realistic Melee Mod by Techengage
 
