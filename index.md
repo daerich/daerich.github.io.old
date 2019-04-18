@@ -2,11 +2,12 @@
 ___Read my [Internet Essay]({{ site.baseurl }}/internet-essay)___
 
 
-My current projects | Link to it
+My current projects | Links
 --------------------|----------
 Porting cploit over to Android 8.1 | [CSPLOIT-oreo](https://github.com/daerich/csploit-oreo)
 Direct download					   | [Releases section](https://github.com/daerich/csploit-oreo/releases/tag/v1.6.6-rc.2-UNOFFICAL)
 Payday Left Sided Mod updated to blt 2.0 | [Github](https://github.com/daerich/Payday-Left-Handed-Mod), [Modworkshop](http://modwork.shop/22903)
+Updated MapEditor for GTAV by Guadmaz| [MapEditor](https://github.com/daerich/MapEditor
 
 ## Gamezone
 As you may have already discovered on  [Steam](https://steamcommunity.com/id/daerich) I have a passion for gaming.
