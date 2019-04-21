@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "GTA V Modding - German Patrol"
+date: 2019-04-21 13:37:01 -0600
+categories: ['Internet']
+---
+
+# Cars & Visuals
+
+## Cars
+* ___Siren___: Deutsche Sirenen ( v1.3) by Avitamin
+* __police__: VW Passat B6 Variant Polizei BaWü V1.0 [ELS] by [H]igh [P]erformance [M]odding
+*  __police3__: VW T6 Polizei Bayern V1.0 [ELS] by HPM
+* __sheriff__: Audi-A4-Avant-Autobahnpolizei-NDS-V1.0-© by Top MOods
+*  __sheriff2__: M.B. Vito Autobahnpolizei Hessen RTK7 V1.1 [ELS] by HPM
+* __fbi2__: VW T6 Zoll Zivil V1.0.1 [ELS] by HPM
