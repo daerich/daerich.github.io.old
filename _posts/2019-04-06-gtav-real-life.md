@@ -10,6 +10,7 @@ __All mods not fitting in the other categories__
 # Mods
 * Ems Mod by NDev
 * Enhanced Taxi Missions by LCBuffalo
+* BusSimulatorV_1.1.2 by )I'm not Mental
 * Firefighter Mod (Mode Sapeurs-Pompiers) by StAfFMaN
 
 # Cars
