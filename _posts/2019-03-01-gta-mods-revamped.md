@@ -38,15 +38,19 @@ categories: ['Internet']
 * XScanner (Sound addon by Darkmyre)
 
 ## ScriptHook:
-* GTAV Heap Adjuster by Fivem Systems Division
 * ScriptHookdotNet
-* Simple Trainer
 * PLD by Lt. Caine
 * ELS by Lt.Caine
 * Christmas in Singleplayer by CamxxCore
 * Map Editor by Guadmaz (use nativeui supplied in zip)
  +US - Canadian Border by Sereous313
- * Menyoo
+### Performance:
+* GTAV Heap Adjuster by Fivem Systems Division
+* PackfileLimitAdjuster by Unknown Modder
+### Trainers
+* Menyoo
+* Simple Trainer
+
  
 ### Driving
 * Indicators by Hunk
