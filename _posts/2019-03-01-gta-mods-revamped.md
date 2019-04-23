@@ -39,12 +39,15 @@ categories: ['Internet']
 
 ## ScriptHook:
 * ScriptHookdotNet
+* Stance1.2 by jedijosh920
 * PLD by Lt. Caine
 * ELS by Lt.Caine
 * Christmas in Singleplayer by CamxxCore
 * Map Editor by Guadmaz (use nativeui supplied in zip)
  +US - Canadian Border by Sereous313
- ### Trainers
+
+
+### Trainers
 * Menyoo
 * Simple Trainer
 
