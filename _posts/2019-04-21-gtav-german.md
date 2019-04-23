@@ -18,6 +18,13 @@ categories: ['Internet']
 * __fbi2__: VW T6 Zoll Zivil V1.0.1 [ELS] by HPM
 * __mp1;mp2;mp3__: 2010 MB Vito Feldjäger DBS 3000 V1.0 [Add-On] by HPM
 * __ambulance__: VW T6 NEF BF Hamburg [ELS] by HPM
+
+## Peds
+* GSG9 Unifrom | Grenzschutzgruppe 9 | Deutsche Uniform by Ger-PolizeiZollMods
+* Heckler & Koch USP .45 by Jridah + H&K P30 SOUND by Ger-PolizeiZollMods (compressed)
+
+
 ## Misc
+* NOoSE: National Office of Security Enforcement 1.2 Mod by Guadmaz
 * Real Names for GTA V 1.14 by Yoda4P(Lefix Speedo Brands for Cars)
 * Ultimate Backup + LSPDFR xmls customized (for German EUP Pack by AgentDZN)
