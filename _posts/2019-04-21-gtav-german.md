@@ -20,7 +20,7 @@ categories: ['Internet']
 * __ambulance__: VW T6 NEF BF Hamburg [ELS] by HPM
 
 ## Peds
-* GSG9 Unifrom | Grenzschutzgruppe 9 | Deutsche Uniform by Ger-PolizeiZollMods
+* GSG9 Unifrom Grenzschutzgruppe 9 Deutsche Uniform by Ger-PolizeiZollMods
 * Heckler & Koch USP .45 by Jridah + H&K P30 SOUND by Ger-PolizeiZollMods (compressed)
 
 
