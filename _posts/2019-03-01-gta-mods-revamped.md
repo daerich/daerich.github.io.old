@@ -15,27 +15,31 @@ categories: ['Internet']
 * Sticky Wheels
 
 ## LSPDFR 0.4:
-* Assorted Callouts
-* Attempted Crime Callouts
 * Arrest Manager (disabled Grabbing)/
 * Stop The Ped(double tap 'E', alt takedown anim.) + Ultimate Backup(+xml by TreadRed)
 * BetterEms
 * Better Dispatch Audio
-* Code Red Callouts
 * Computer+ (Cincinnati PD Based Computer+ Background by t0y)
 * Cop Holster (aborts Relaxed Driv. anim, when outside of car)
 * HoldMyGun
+* K9Partner by NoNameSet
 * LSPDFR+/Interaction+
-* PeterUCallouts
 * Police Smart Radio
 * Police Tape by PNWParksFan
 * Seach Warrant
-* Station 19 Callouts
 * Traffic Policer
-* United Callouts
 * Vocal Dispatch
-* Wilderness Callouts
 * XScanner (Sound addon by Darkmyre)
+
+### Callouts 
+* Assorted Callouts
+* Attempted Crime Callouts
+* Code Red Callouts
+* More Robberies by xIconikkx 
+* PeterUCallouts
+* Station 19 Callouts
+* United Callouts
+* Wilderness Callouts
 
 ## ScriptHook:
 * ScriptHookdotNet
@@ -95,6 +99,7 @@ categories: ['Internet']
 * __Police7__: 2013 Chevrolet Carprice(unmarked) by McCreary 
 * __PoliceB__:BMW 1200RT LSPD Motorcycle by darkhatos
 * __Police6:Dodge Charger;Sheriff3:Ford Explorer__: 2017 California Highway Patrol Mega Pack by Thehurk/
+* __Sheriff2__: BCSO K9 2013 Tahoe by Gump
 * __Sheriff3:2018 Ford Explorer__:Los Santos County Mini Pack by TrpCharles
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
@@ -108,6 +113,7 @@ categories: ['Internet']
 * German Road Signs by TheRemy
 * New License Plates [Add-On] by WildBrick142
 * AI TRAFFIC Fluidity & Discipline by RCrw notik
+* Ultimate Anatomically/Realistic Ragdoll by voncarl93 
 * Realistic Melee Mod by Techengage
 
 †1 (Automatic gearbox; 'default gear = neutral gear' option)
