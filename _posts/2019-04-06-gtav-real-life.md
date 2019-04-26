@@ -18,3 +18,8 @@ __All mods not fitting in the other categories__
 * 2016 Tesla Model S P90D by tk0wnz
 * 2014 Mercedes-Benz S500 W222 by Gta5KoRn
 * BMW 750 Li v2 by Gta5KoRn
+
+## Miscellaneous
+
+* Addonprops by Meth0d & Quechus13
+* Vehicle Keys by Krlos_Rokr
