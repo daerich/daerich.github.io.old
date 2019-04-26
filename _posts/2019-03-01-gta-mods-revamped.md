@@ -21,6 +21,7 @@ categories: ['Internet']
 * Better Dispatch Audio
 * Computer+ (Cincinnati PD Based Computer+ Background by t0y)
 * Cop Holster (aborts Relaxed Driv. anim, when outside of car)
+* Spotlight by alexguirre
 * HoldMyGun
 * K9Partner by NoNameSet
 * LSPDFR+/Interaction+
@@ -98,12 +99,13 @@ categories: ['Internet']
 * __Police5__:Chevy Impala by BxBugs123
 * __Police7__: 2013 Chevrolet Carprice(unmarked) by McCreary 
 * __PoliceB__:BMW 1200RT LSPD Motorcycle by darkhatos
-* __Police6:Dodge Charger;Sheriff3:Ford Explorer__: 2017 California Highway Patrol Mega Pack by Thehurk/
+* __Sheriff__: 2015 K9 Charger by Gump
 * __Sheriff2__: BCSO K9 2013 Tahoe by Gump
 * __Sheriff3:2018 Ford Explorer__:Los Santos County Mini Pack by TrpCharles
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
 * __2014 Dodge(unmarked): fbi ; 2016 Dodge: police_gruppe6__: LSPD Vehicle Pack by BradMw
+* __hwaycars__: San Andreas Highway Patrol Mega_Pack by Tactical Donut
 
 ### Sirens
 * Whelen Cencom Sapphire Rumbler by StraightGlitcheZ 
@@ -113,6 +115,7 @@ categories: ['Internet']
 * German Road Signs by TheRemy
 * New License Plates [Add-On] by WildBrick142
 * AI TRAFFIC Fluidity & Discipline by RCrw notik
+* Kifflom Replacement ID Requests From GTA IV by FirstEdit
 * Ultimate Anatomically/Realistic Ragdoll by voncarl93 
 * Realistic Melee Mod by Techengage
 
