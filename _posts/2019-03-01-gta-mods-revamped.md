@@ -83,7 +83,6 @@ categories: ['Internet']
 ### Weapons
 * ASP Baton by DoubleDoppler
 * Colt M4A1 (+Attachments) by Jridah
-* HK45 Compact by Jack Smith
 * Pro Laser 4 Gun by Scaarus
 * Max Payne 3 Glock by Olanov
 * Glock 17 - Realistic Sound Mod by ErikB26
