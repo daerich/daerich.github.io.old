@@ -24,7 +24,7 @@ categories: ['Internet']
 * Spotlight by alexguirre
 * HoldMyGun
 * K9Partner by NoNameSet
-* LSPDFR+/Interaction+
+* 'LSPDFR+' + 'Interaction+'
 * Police Smart Radio
 * Police Tape by PNWParksFan
 * Seach Warrant
