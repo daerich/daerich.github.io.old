@@ -75,7 +75,7 @@ categories: ['Internet']
 * EUP Vests by GrandTheftPD
 
 ### Visuals
-* NaturalVision Remastered(+ LSPDFR Plugin) by Razed/Make Visuals Great Again by Kompetenzzz
+* Make Visuals Great Again by Kompetenzzz
 * RadianceV by BxBugs123
 * 4K Satellite View Map by DesignerAppz
 
@@ -85,13 +85,14 @@ categories: ['Internet']
 * Colt M4A1 (+Attachments) by Jridah
 * Pro Laser 4 Gun by Scaarus
 * Max Payne 3 Glock by Olanov
-* Glock 17 - Realistic Sound Mod by ErikB26
+* ~~Glock 17 - Realistic Sound Mod by ErikB26~~
 * Taser X26 by BufordT
-* Taser Sound Mod by NEZ
+* ~~Taser Sound Mod by NEZ~~
+* Realistic Guns Sounds by XENORT, 420x420, MaoBO, ThisIsntMyName
 
 ### Cars & Sirens
 * Crown Victoria Engine Sound by Lieutenant Dan
-* __Police__: CVPI 1.9L by BxBugs123
+* __Police:cvpi__: LSPD Pack by TickleMyElmo
 * __Police2__:Slicktop LSPD 2018 Dodge Charger by Straight Glitchez
 * __Police3__: 2016 Chevrolet Impala LTZ by BlueGhost
 * __Police4__: 2010 Crown Victoria Police Interceptor - Unmarked by RobertTM
@@ -103,7 +104,7 @@ categories: ['Internet']
 * __Sheriff3:2018 Ford Explorer__:Los Santos County Mini Pack by TrpCharles
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
-* __2014 Dodge(unmarked): fbi ; 2016 Dodge: police_gruppe6__: LSPD Vehicle Pack by BradMw
+* __2014 Dodge(unmarked): fbi ; 2016 Dodge: police_gruppe6__: LSPD Vehicle Pack by BradM
 * __hwaycars__: San Andreas Highway Patrol Mega_Pack by Tactical Donut
 
 ### Sirens
