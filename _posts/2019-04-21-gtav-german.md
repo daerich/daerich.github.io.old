@@ -26,5 +26,6 @@ categories: ['Internet']
 
 ## Misc
 * NOoSE: National Office of Security Enforcement 1.2 Mod by Guadmaz
+* German Road Signs by TheRemy
 * Real Names for GTA V 1.14 by Yoda4P(Lefix Speedo Brands for Cars)
 * Ultimate Backup + LSPDFR xmls customized (for German EUP Pack by AgentDZN)
