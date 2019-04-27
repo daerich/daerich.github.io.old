@@ -112,7 +112,6 @@ categories: ['Internet']
 * Modern Siren Pack by GravelRoadCop (Code 3 Mastercom B Siren, Wheelen Cencom Gold)
 
 ### Miscellaneous/Data Files
-* German Road Signs by TheRemy
 * New License Plates [Add-On] by WildBrick142
 * AI TRAFFIC Fluidity & Discipline by RCrw notik
 * Kifflom Replacement ID Requests From GTA IV by FirstEdit
