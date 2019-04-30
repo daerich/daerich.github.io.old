@@ -15,11 +15,12 @@ categories: ['Internet']
 * Sticky Wheels
 
 ## LSPDFR 0.4:
-* Arrest Manager (disabled Grabbing)/
 * Stop The Ped(double tap 'E', alt takedown anim.) + Ultimate Backup(+xml by TreadRed)
+--> StopThePed Elite by Ghnty5
 * BetterEms
 * Better Dispatch Audio
 * Computer+ (Cincinnati PD Based Computer+ Background by t0y)
+--> LawPacks+ by Ghnty5
 * Cop Holster (aborts Relaxed Driv. anim, when outside of car)
 * Spotlight by alexguirre
 * HoldMyGun
