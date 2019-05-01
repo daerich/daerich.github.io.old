@@ -78,8 +78,8 @@ categories: ['Internet']
 * EUP Vests by GrandTheftPD
 
 ### Visuals
+* Natural Vision Remastered by Razed (installed)
 * Make Visuals Great Again by Kompetenzzz
-* RadianceV by BxBugs123
 * 4K Satellite View Map by DesignerAppz
 
 
