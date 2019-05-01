@@ -26,6 +26,7 @@ categories: ['Internet']
 * HoldMyGun
 * K9Partner by NoNameSet
 * 'LSPDFR+' + 'Interaction+'
+* Officer Status Plugin by OfficerPope
 * Police Smart Radio
 * Police Tape by PNWParksFan
 * Seach Warrant
@@ -117,7 +118,7 @@ categories: ['Internet']
 * New License Plates [Add-On] by WildBrick142
 * AI TRAFFIC Fluidity & Discipline by RCrw notik
 * Kifflom Replacement ID Requests From GTA IV by FirstEdit
-* Realistic BloodV by Csyon
+* Realistic BloodV by Csyon (2K Version)
 * Realistic Melee Mod by Techengage
 * Ultimate Anatomically/Realistic Ragdoll by voncarl93 
 
