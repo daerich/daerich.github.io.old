@@ -54,6 +54,9 @@ categories: ['Internet']
 * Map Editor by Guadmaz (use nativeui supplied in zip)
  +US - Canadian Border by Sereous313
 
+### Performance
+* GTAV Heap Limit Adjuster by Fivem Systems Division
+* PackFile Limit Adjuster by Unknown Modder
 
 ### Trainers
 * Menyoo
