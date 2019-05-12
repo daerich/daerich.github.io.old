@@ -9,6 +9,8 @@ __All mods not fitting in the other categories__
 
 # Mods
 * Enhanced Native Trainer
+* Gunrunning and Executive Business Mods by HKH191
+* HC
 * Ems Mod by NDev
 * Enhanced Taxi Missions by LCBuffalo
 * BusSimulatorV_1.1.2 by I'm not Mental
@@ -17,11 +19,16 @@ __All mods not fitting in the other categories__
 # Cars
 * LSFD Ford F350 Ambulance by ALLENjr12 ___(EMS)___
 * 2016 Tesla Model S P90D by tk0wnz
+* Alfa Romeo Stelvio Quadrifoglio 2018 [Add-On] by skyrix
 * 2016 Dodge Charger [SXT / R/T / SRT 392 / Hellcat] by tk0wnz
+* 2019 Ford Mustang GT [Bullitt | RTR | 5 Rims] by tk0wnz
 * 2014 Mercedes-Benz S500 W222 by Gta5KoRn
 * BMW 750 Li v2 by Gta5KoRn
 
 ## Miscellaneous
 
 * Addonprops by Meth0d & Quechus13
+* New Baywatch Girls by Lcco
+* Scar H by metroidguy
+* Glock 17 by metroidguy
 * Vehicle Keys by Krlos_Rokr
