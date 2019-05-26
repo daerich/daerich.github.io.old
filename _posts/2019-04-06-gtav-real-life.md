@@ -23,6 +23,7 @@ __All mods not fitting in the other categories__
 * Alfa Romeo Stelvio Quadrifoglio 2018 [Add-On] by skyrix
 * 2016 Dodge Charger [SXT / R/T / SRT 392 / Hellcat] by tk0wnz
 * 2019 Ford Mustang GT [Bullitt / RTR / 5 Rims] by tk0wnz
+* KIA Optima K5 by Gta5KoRn
 * 2014 Mercedes-Benz S500 W222 by Gta5KoRn
 * BMW 750 Li v2 by Gta5KoRn
 
