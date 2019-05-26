@@ -56,6 +56,7 @@ categories: ['Internet']
 
 ### Performance
 * GTAV Heap Limit Adjuster by Fivem Systems Division
+* Gameconfig (1.0.1604.0) for Limitless Vehicles by F7YO
 * PackFile Limit Adjuster by Unknown Modder
 
 ### Trainers
@@ -64,7 +65,6 @@ categories: ['Internet']
 
  
 ### Driving
-* Animated Wipers by I'm Not MentaL & Yoha
 * Indicators by Hunk
 * Gear Shifting Animation by Hunk 
 * Relaxed Driving Style by Hunk ("std_sit_low_lowdoor")†3
@@ -101,10 +101,10 @@ categories: ['Internet']
 * __Police:cvpi__: LSPD Pack by TickleMyElmo
 * __Police2__:Slicktop LSPD 2018 Dodge Charger by Straight Glitchez
 * __Police3__: 2016 Chevrolet Impala LTZ by BlueGhost
-* __Police4__: 2010 Crown Victoria Police Interceptor - Unmarked by RobertTM
+* __Police4__: 2010 Crown Victoria Police Interceptor - Unmarked by RobertTM / [ELS] Florida Highway Patrol 2004 Mercury Marauder 1.0 by Othrin
 * __Police5__:Chevy Impala by BxBugs123
 * __Police7__: 2013 Chevrolet Carprice(unmarked) by McCreary 
-* __PoliceB__:BMW 1200RT LSPD Motorcycle by darkhatos
+* __PoliceB__:BMW 1200RT LSPD Motorcycle by darkhatos / Low Profile BMW 1200 Police Bike by Jackson1593
 * __Sheriff__: 2015 K9 Charger by Gump
 * __Sheriff2__: BCSO K9 2013 Tahoe by Gump
 * __Sheriff3:2018 Ford Explorer__:Los Santos County Mini Pack by TrpCharles
@@ -112,8 +112,10 @@ categories: ['Internet']
   (US Border Patrol by  firefighter2832)
 * __2014 Dodge(unmarked): fbi ; 2016 Dodge: police_gruppe6__: LSPD Vehicle Pack by BradM
 * __hwaycars__: San Andreas Highway Patrol Mega_Pack by Tactical Donut
+* __policegt350r__: 2016 Mustang GT350R by Masterschwag & ToneBee_DTD
 
 ### Sirens
+* Scan Superior Siren by TakeYaBackToStation4BumVio
 * Whelen Cencom Sapphire Rumbler by StraightGlitcheZ 
 * Modern Siren Pack by GravelRoadCop (Code 3 Mastercom B Siren, Wheelen Cencom Gold)
 
