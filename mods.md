@@ -7,7 +7,7 @@ permalink: mods
 
 __[Wolfhud Config]({{ site.baseurl }}/builds/wolfhud_config.json)__
 
-mod_overrides(some require Beardlib)|BLT mods
+mod_overrides(some require Beardlib)|BLT mods (Superblt)
 ------------------------------------|--------
 [Colored Healthbar](http://modwork.shop/16412) | [Wolfhud](https://github.com/Kamikaze94/WolfHUD)
 [Federal Inventory](https://steamcommunity.com/groups/FEDNET_Inventory) | [Beardlib](http://modwork.shop/14924)
@@ -23,6 +23,7 @@ mod_overrides(some require Beardlib)|BLT mods
 [Tiny Horse Collection Service](http://modwork.shop/19177) | [Music Control Updated](http://modwork.shop/20833)
 [Soviet Propaganda Graffity](http://modwork.shop/22314) | [Difficulty Screen Animation](http://modwork.shop/20020)
 [Euro Money](http://modwork.shop/12375) | [Steam Profile Redirection](http://modwork.shop/20035)
-[Louis Vuitton Bags](http://modwork.shop/20355) |
- [Omae wa mou shindeiru CLOAKER](http://modwork.shop/20431) |
+[Louis Vuitton Bags](http://modwork.shop/20355) | [Advanced Movement Standalone](http://modwork.shop/24736)
+ [Omae wa mou shindeiru CLOAKER](http://modwork.shop/20431) | [HoloUI](http://modwork.shop/12501)
  [My own custom loading screen](https://www.deviantart.com/jennyisdrawing/art/Payday-2-Fan-art-428901564) |
+[Skeleton Gloves](http://modwork.shop/19671) | 
