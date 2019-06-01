@@ -97,6 +97,7 @@ categories: ['Internet']
 * Realistic Guns Sounds by XENORT, 420x420, MaoBO, ThisIsntMyName
 
 ### Cars & Sirens
+* City of Los Santos Police Pack by EchoWolf
 * Crown Victoria Engine Sound by Lieutenant Dan
 * __Police:cvpi__: LSPD Pack by TickleMyElmo
 * __Police2__:Slicktop LSPD 2018 Dodge Charger by Straight Glitchez
@@ -110,6 +111,7 @@ categories: ['Internet']
 * __Sheriff3:2018 Ford Explorer__:Los Santos County Mini Pack by TrpCharles
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
+* __Pranger2__: 2019 Dodge Ram Undercover by Trooper D.
 * __2014 Dodge(unmarked): fbi ; 2016 Dodge: police_gruppe6__: LSPD Vehicle Pack by BradM
 * __hwaycars__: San Andreas Highway Patrol Mega_Pack by Tactical Donut
 * __policegt350r__: 2016 Mustang GT350R by Masterschwag & ToneBee_DTD
