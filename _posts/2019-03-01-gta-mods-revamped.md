@@ -47,6 +47,7 @@ categories: ['Internet']
 
 ## ScriptHook:
 * ScriptHookdotNet
+* Hide Minimap Shortcut by iLLo
 * Stance1.2 by jedijosh920
 * PLD by Lt. Caine
 * ELS by Lt.Caine
