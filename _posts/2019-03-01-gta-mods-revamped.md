@@ -9,7 +9,7 @@ categories: ['Internet']
 
 ## RageHook( -directx11 -windowed)
 * (* DashCamV by PieRGud * Body Cam)
-* KFTDO
+* ~~KFTDO~~
 * Siren Mastery (remapped 'G' function, bound to 'K', BLIP replaced)
 * SpikeStripsV
 * Sticky Wheels
@@ -47,6 +47,7 @@ categories: ['Internet']
 
 ## ScriptHook:
 * ScriptHookdotNet
+* BVA by Lt.Caine
 * Hide Minimap Shortcut by iLLo
 * Stance1.2 by jedijosh920
 * PLD by Lt. Caine
@@ -66,7 +67,7 @@ categories: ['Internet']
 
  
 ### Driving
-* Indicators by Hunk
+* ~~Indicators by Hunk~~
 * Gear Shifting Animation by Hunk 
 * Relaxed Driving Style by Hunk ("std_sit_low_lowdoor")†3
 * Enhanced Cruise Control by Kryo4Lex 
@@ -79,6 +80,7 @@ categories: ['Internet']
 * EUP Law and Order
 * EUP Serve and Rescue
 * Off-Duty and Special Duties Pack(eup) by Pacific Pig
+* EUP Formal Uniforms by Avail
 * EUP Vests by GrandTheftPD
 
 ### Visuals
