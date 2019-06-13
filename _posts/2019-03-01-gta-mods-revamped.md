@@ -109,14 +109,14 @@ categories: ['Internet']
 * __Police5__:Chevy Impala by BxBugs123
 * __Police7__: 2013 Chevrolet Carprice(unmarked) by McCreary 
 * __PoliceB__:BMW 1200RT LSPD Motorcycle by darkhatos / Low Profile BMW 1200 Police Bike by Jackson1593
-* __Sheriff__: 2015 K9 Charger by Gump
+* __Sheriff__: Florida Highway Patrol 2019 Dodge Charger by Terry Sloman
 * __Sheriff2__: BCSO K9 2013 Tahoe by Gump
 * __Sheriff3:2018 Ford Explorer__:Los Santos County Mini Pack by TrpCharles
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
 * __Pranger2__: 2019 Dodge Ram Undercover by Trooper D.
 * __2014 Dodge(unmarked): fbi ; 2016 Dodge: police_gruppe6__: LSPD Vehicle Pack by BradM
-* __hwaycars__: San Andreas Highway Patrol Mega_Pack by Tactical Donut
+* __fbi2__: FBI Pack by TickleMyElmo
 * __policegt350r__: 2016 Mustang GT350R by Masterschwag & ToneBee_DTD
 
 ### Sirens
