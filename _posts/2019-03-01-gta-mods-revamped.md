@@ -49,10 +49,10 @@ categories: ['Internet']
 * ScriptHookdotNet
 * BVA by Lt.Caine
 * Hide Minimap Shortcut by iLLo
-* Stance1.2 by jedijosh920
+* Realistic Reload by CamxxCore
+* Stance Crouch/Prone Mod by jedijosh920
 * PLD by Lt. Caine
 * ELS by Lt.Caine
-* Christmas in Singleplayer by CamxxCore
 * Map Editor by Guadmaz (use nativeui supplied in zip)
  +US - Canadian Border by Sereous313
 
@@ -82,6 +82,9 @@ categories: ['Internet']
 * Off-Duty and Special Duties Pack(eup) by Pacific Pig
 * EUP Formal Uniforms by Avail
 * EUP Vests by GrandTheftPD
+* LSPD Police Badge by Sam 
+* Penetrator Inflitrator Ballistic Shield by Sniper296
+* Body Bags by majorpaine2015
 
 ### Visuals
 * Natural Vision Remastered by Razed (installed)
@@ -117,7 +120,8 @@ categories: ['Internet']
 * __Pranger2__: 2019 Dodge Ram Undercover by Trooper D.
 * __2014 Dodge(unmarked): fbi ; 2016 Dodge: police_gruppe6__: LSPD Vehicle Pack by BradM
 * __fbi2__: FBI Pack by TickleMyElmo
-* __policegt350r__: 2016 Mustang GT350R by Masterschwag & ToneBee_DTD
+* __police_mustang__: Los Santos Metro Police Department Pack by BlueGhost
+* __police_rookie__: Tv show The Rookie unmarked CVPI by Office Tej
 
 ### Sirens
 * Scan Superior Siren by TakeYaBackToStation4BumVio
