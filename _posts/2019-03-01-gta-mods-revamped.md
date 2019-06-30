@@ -87,7 +87,7 @@ categories: ['Internet']
 * Body Bags by majorpaine2015
 
 ### Visuals
-* Natural Vision Remastered by Razed (installed)
+* Natural Vision Remastered by Razed (installed) + Realistic Radiance by Bossssssa
 * Make Visuals Great Again by Kompetenzzz
 * 4K Satellite View Map by DesignerAppz
 
