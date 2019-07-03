@@ -87,8 +87,8 @@ categories: ['Internet']
 * Body Bags by majorpaine2015
 
 ### Visuals
-* Natural Vision Remastered by Razed (installed) + Realistic Radiance by Bossssssa
-* Make Visuals Great Again by Kompetenzzz
+* Natural Vision Remastered by Razed + Realistic Radiance by Bossssssa
+* Make Visuals Great Again by Kompetenzzz (installed) + Realistic Radiance
 * 4K Satellite View Map by DesignerAppz
 
 
@@ -121,7 +121,8 @@ categories: ['Internet']
 * __2014 Dodge(unmarked): fbi ; 2016 Dodge: police_gruppe6__: LSPD Vehicle Pack by BradM
 * __fbi2__: FBI Pack by TickleMyElmo
 * __police_mustang__: Los Santos Metro Police Department Pack by BlueGhost
-* __police_rookie__: Tv show The Rookie unmarked CVPI by Office Tej
+* __police_rookie__: Tv show The Rookie unmarked CVPI by Officer Tej
+* __police - police3__: Los Santos Police Department (Atlanta themed) by Jedahdiah
 
 ### Sirens
 * Scan Superior Siren by TakeYaBackToStation4BumVio
