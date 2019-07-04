@@ -14,7 +14,7 @@ categories: ['Internet']
 * SpikeStripsV
 * Sticky Wheels
 
-## LSPDFR 0.4:
+## LSPDFR 0.4(no preloading of models):
 * Stop The Ped(double tap 'E', alt takedown anim.) + Ultimate Backup(+xml by TreadRed)
 --> StopThePed Elite by Ghnty5
 * BetterEms
@@ -122,6 +122,7 @@ categories: ['Internet']
 * __fbi2__: FBI Pack by TickleMyElmo
 * __police_mustang__: Los Santos Metro Police Department Pack by BlueGhost
 * __police_rookie__: Tv show The Rookie unmarked CVPI by Officer Tej
+* __pnfirebird__: 2009 Pontiac G8 GXP Remastered by BlueGhost
 * __police - police3__: Los Santos Police Department (Atlanta themed) by Jedahdiah
 
 ### Sirens
