@@ -88,7 +88,7 @@ categories: ['Internet']
 
 ### Visuals
 * Natural Vision Remastered by Razed + Realistic Radiance by Bossssssa
-* Make Visuals Great Again by Kompetenzzz (installed) + Realistic Radiance
+* Make Visuals Great Again by Kompetenzzz (installed) + Realistic Radiance + Hide Reticle Addon of NVR
 * 4K Satellite View Map by DesignerAppz
 
 
@@ -141,6 +141,8 @@ categories: ['Internet']
 †2 (always show gas stations)
 †3 (key mapped to 'N' use vanilla car first, when using added vehicle for patrol to load plugin properly)
 ___Huge thanks to everyone developing those sophisticated modding projects! Your commitment allows me to enjoy GTA V in a fresh way.___
+
+![GTA_Settings](https://worstaim.eu/images/gta_rage_settings_new.PNG) 
 
 ![GTA_Restore](https://worstaim.eu/images/clean_gta_folder_full.png)
 
