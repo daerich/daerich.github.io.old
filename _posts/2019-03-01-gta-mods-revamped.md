@@ -71,7 +71,7 @@ categories: ['Internet']
  
 ### Driving
 * ~~Indicators by Hunk~~
-* Gear Shifting Animation by Hunk 
+* Gear Shifting Animation by Hunk("veh@driveby@first_person@passenger_rear_right_handed@unarmed"; "outro_0") 
 * Relaxed Driving Style by Hunk ("std_sit_low_lowdoor")†3
 * Enhanced Cruise Control by Kryo4Lex 
 * LeFix Simple Fuel(updated by ikt)(select button remapped to vk_return)†2
