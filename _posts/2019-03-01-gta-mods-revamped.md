@@ -41,7 +41,7 @@ categories: ['Internet']
 * Simple Callouts
 * Code Red Callouts
 * Highway Callouts by ImCris
-* More Robberies by xIconikkx 
+* More Robberies by Chadd
 * PeterUCallouts
 * Station 19 Callouts
 * Tacco Highway Callouts
@@ -106,7 +106,7 @@ categories: ['Internet']
 * Realistic Guns Sounds by XENORT, 420x420, MaoBO, ThisIsntMyName
 
 ### Cars & Sirens
-* City of Los Santos Police Pack by EchoWolf
+* City of Los Santos Police Pack + Deputy Sheriffs of Blaine County Pack by EchoWolf
 * Crown Victoria Engine Sound by Lieutenant Dan
 * __Police:cvpi__: LSPD Pack by TickleMyElmo
 * __Police2__:Slicktop LSPD 2018 Dodge Charger by Straight Glitchez
