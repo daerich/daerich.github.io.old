@@ -117,7 +117,7 @@ categories: ['Internet']
 * __PoliceB__:BMW 1200RT LSPD Motorcycle by darkhatos / Low Profile BMW 1200 Police Bike by Jackson1593
 * __Sheriff__: Florida Highway Patrol 2019 Dodge Charger by Terry Sloman
 * __Sheriff2__: BCSO K9 2013 Tahoe by Gump
-* __Sheriff3:2018 Ford Explorer__:Los Santos County Mini Pack by TrpCharles
+* __Sheriff3__: BCSO Pack by RangerZ
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
 * __Pranger2__: 2019 Dodge Ram Undercover by Trooper D.
