@@ -18,6 +18,7 @@ __All mods not fitting in the other categories__
 * Firefighter Mod (Mode Sapeurs-Pompiers) by StAfFMaN
 
 # Cars
+* 1998 Audi S8 by HRH ___(personal lspdfr vehicle)___ 
 * LSFD Ford F350 Ambulance by ALLENjr12 ___(EMS)___
 * 2016 Tesla Model S P90D by tk0wnz
 * Alfa Romeo Stelvio Quadrifoglio 2018 [Add-On] by skyrix
