@@ -17,7 +17,6 @@ categories: ['Internet']
 ## LSPDFR 0.4(no preloading of models):
 * Stop The Ped(double tap 'E', alt takedown anim.) + Ultimate Backup(+xml by TreadRed)
 --> StopThePed Elite by Ghnty5
-* BetterEms
 * Better Dispatch Audio
 * Computer+ (Cincinnati PD Based Computer+ Background by t0y)
 --> LawPacks+ by Ghnty5
@@ -29,7 +28,6 @@ categories: ['Internet']
 * Officer Status Plugin by OfficerPope
 * Police Smart Radio
 * Police Tape by PNWParksFan
-* Seach Warrant
 * Traffic Policer
 * Vocal Dispatch
 * XScanner (Sound addon by Darkmyre)
@@ -46,6 +44,7 @@ categories: ['Internet']
 * Station 19 Callouts
 * Tacco Highway Callouts
 * United Callouts
+* Variety Callouts
 * Wilderness Callouts
 
 ## ScriptHook:
