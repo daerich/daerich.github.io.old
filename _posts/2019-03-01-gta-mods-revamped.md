@@ -21,13 +21,11 @@ categories: ['Internet']
 * Computer+ (Cincinnati PD Based Computer+ Background by t0y)
 --> LawPacks+ by Ghnty5
 * Cop Holster (aborts Relaxed Driv. anim, when outside of car)
-* Spotlight by alexguirre
 * HoldMyGun
 * K9Partner by NoNameSet
 * 'LSPDFR+' + 'Interaction+'
 * Officer Status Plugin by OfficerPope
 * Police Smart Radio
-* Police Tape by PNWParksFan
 * Traffic Policer
 * Vocal Dispatch
 * XScanner (Sound addon by Darkmyre)
@@ -37,7 +35,6 @@ categories: ['Internet']
 * Assorted Callouts
 * Attempted Crime Callouts
 * Simple Callouts
-* Code Red Callouts
 * Highway Callouts by ImCris
 * More Robberies by Chadd
 * PeterUCallouts
@@ -78,7 +75,7 @@ categories: ['Internet']
 * Manual Transmission by ikt (ShiftUp bound to CapsLock)†1
 
 
-## Cars & Cosmetics
+## Cars & Cosmetics (ModdingPackV by Albo1125)
 * EUP Law and Order
 * EUP Serve and Rescue
 * Off-Duty and Special Duties Pack(eup) by Pacific Pig
@@ -91,7 +88,6 @@ categories: ['Internet']
 ### Visuals
 * Natural Vision Remastered by Razed + Realistic Radiance by Bossssssa
 * Make Visuals Great Again by Kompetenzzz (installed) + Realistic Radiance + Hide Reticle Addon of NVR
-* 4K Satellite View Map by DesignerAppz
 
 
 ### Weapons
@@ -101,7 +97,6 @@ categories: ['Internet']
 * Max Payne 3 Glock by Olanov
 * ~~Glock 17 - Realistic Sound Mod by ErikB26~~
 * Taser X26 by BufordT
-* ~~Taser Sound Mod by NEZ~~
 * Realistic Guns Sounds by XENORT, 420x420, MaoBO, ThisIsntMyName
 
 ### Cars & Sirens
@@ -120,12 +115,12 @@ categories: ['Internet']
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
 * __Pranger2__: 2019 Dodge Ram Undercover by Trooper D.
-* __2014 Dodge(unmarked): fbi ; 2016 Dodge: police_gruppe6__: LSPD Vehicle Pack by BradM
-* __fbi2__: FBI Pack by TickleMyElmo
+* __fbi - fbi2__: FBI Pack by TickleMyElmo
 * __police_mustang__: Los Santos Metro Police Department Pack by BlueGhost
 * __police_rookie__: Tv show The Rookie unmarked CVPI by Officer Tej
 * __pnfirebird__: 2009 Pontiac G8 GXP Remastered by BlueGhost
 * __police - police3__: Los Santos Police Department (Atlanta themed) by Jedahdiah
+* __polmav__: Mapped Police Maverick by Yard1
 
 ### Sirens
 * Scan Superior Siren by TakeYaBackToStation4BumVio
