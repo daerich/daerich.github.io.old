@@ -78,6 +78,7 @@ categories: ['Internet']
 ## Cars & Cosmetics (ModdingPackV by Albo1125)
 * EUP Law and Order
 * EUP Serve and Rescue
+* Over the Shoulder Radios by Sethy1124 
 * Off-Duty and Special Duties Pack(eup) by Pacific Pig
 * EUP Formal Uniforms by Avail
 * EUP Vests by GrandTheftPD
