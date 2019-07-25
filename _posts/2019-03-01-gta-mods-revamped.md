@@ -9,7 +9,6 @@ categories: ['Internet']
 
 ## RageHook( -directx11 -windowed)
 * (* DashCamV by PieRGud * Body Cam)
-* ~~KFTDO~~
 * Siren Mastery (remapped 'G' function, bound to 'K', BLIP replaced)
 * SpikeStripsV
 * Sticky Wheels
@@ -66,7 +65,6 @@ categories: ['Internet']
 
  
 ### Driving
-* ~~Indicators by Hunk~~
 * Gear Shifting Animation by Hunk("veh@driveby@first_person@passenger_rear_right_handed@unarmed"; "outro_0") 
 * Relaxed Driving Style by Hunk ("std_sit_low_lowdoor")†3
 * Enhanced Cruise Control by Kryo4Lex 
