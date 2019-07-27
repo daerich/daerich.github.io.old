@@ -51,8 +51,6 @@ categories: ['Internet']
 * Stance Crouch/Prone Mod by jedijosh920
 * PLD by Lt. Caine
 * ELS by Lt.Caine
-* Map Editor by Guadmaz (use nativeui supplied in zip)
- +US - Canadian Border by Sereous313
 
 ### Performance
 * GTAV Heap Limit Adjuster by Fivem Systems Division
@@ -101,24 +99,24 @@ categories: ['Internet']
 ### Cars & Sirens
 * City of Los Santos Police Pack + Deputy Sheriffs of Blaine County Pack by EchoWolf
 * Crown Victoria Engine Sound by Lieutenant Dan
-* __Police:cvpi__: LSPD Pack by TickleMyElmo
+* __Police__:LSPD Vehicle Pack by BradM (SPVM by GabLeGamer)
 * __Police2__:Slicktop LSPD 2018 Dodge Charger by Straight Glitchez
 * __Police3__: 2016 Chevrolet Impala LTZ by BlueGhost
 * __Police4__: 2010 Crown Victoria Police Interceptor - Unmarked by RobertTM / [ELS] Florida Highway Patrol 2004 Mercury Marauder 1.0 by Othrin
 * __Police5__:Chevy Impala by BxBugs123
-* __Police7__: 2013 Chevrolet Carprice(unmarked) by McCreary 
-* __PoliceB__:BMW 1200RT LSPD Motorcycle by darkhatos / Low Profile BMW 1200 Police Bike by Jackson1593
+* __PoliceB__: LSPD Pack by TickleMyElmo / Low Profile BMW 1200 Police Bike by Jackson1593
 * __Sheriff__: Florida Highway Patrol 2019 Dodge Charger by Terry Sloman
-* __Sheriff2__: BCSO K9 2013 Tahoe by Gump
+* __Sheriff2__: LSPD Pack by TickleMyElmo (Tahoe)
 * __Sheriff3__: BCSO Pack by RangerZ
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
-* __Pranger2__: 2019 Dodge Ram Undercover by Trooper D.
-* __fbi - fbi2__: FBI Pack by TickleMyElmo
+* __fbi__: FBI Pack by TickleMyElmo
+* __fbi2__: Undercover 2018 Honda Odyssey Elite by BlueGhost
 * __police_mustang__: Los Santos Metro Police Department Pack by BlueGhost
 * __police_rookie__: Tv show The Rookie unmarked CVPI by Officer Tej
 * __pnfirebird__: 2009 Pontiac G8 GXP Remastered by BlueGhost
-* __police - police3__: Los Santos Police Department (Atlanta themed) by Jedahdiah
+* __police__ - __police3__: Los Santos Police Department (Atlanta themed) by Jedahdiah
+* __police2__ + __police3__: Los Santos Police Department Pack (SPVM) by t0y
 * __polmav__: Mapped Police Maverick by Yard1
 
 ### Sirens
