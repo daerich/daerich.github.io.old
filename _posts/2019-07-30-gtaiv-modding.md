@@ -12,7 +12,13 @@ categories: ['Internet']
 * LCPDFR (bundled with mod loaders)
 * ELS 8.5
 * Simple Trainer for GTA IV
-
+## LCPDFR Mods
+* The Wasteland by LtFlash 
+* Callouts+ By LukeD
+## .NET Mods
+* TurnTires by FinKone
+* TrafficFlowV5 by Sam
+* Indicator Script by Lil-rich & LMS
 ## Textures 
-
 * Lord Neophyte's HQ Texture Pack
+* Ultimate NYPD Bundle by IronicRainbow
