@@ -72,7 +72,7 @@ categories: ['Internet']
 
 
 ## Cars & Cosmetics (ModdingPackV by Albo1125)
-* EUP Law and Order
+* EUP Law and Order (LSPD lore-friendly uniform for E.U.P 8.1 by stylez)
 * EUP Serve and Rescue
 * Over the Shoulder Radios by Sethy1124 
 * Off-Duty and Special Duties Pack(eup) by Pacific Pig
@@ -98,7 +98,7 @@ categories: ['Internet']
 
 ### Cars & Sirens
 * City of Los Santos Police Pack + Deputy Sheriffs of Blaine County Pack by EchoWolf
-* Crown Victoria Engine Sound by Lieutenant Dan
+* Improved EnginesV by LibertyDesigns
 * __Police__:LSPD Vehicle Pack by BradM (SPVM by GabLeGamer)
 * __Police2__:Slicktop LSPD 2018 Dodge Charger by Straight Glitchez
 * __Police3__: 2016 Chevrolet Impala LTZ by BlueGhost
