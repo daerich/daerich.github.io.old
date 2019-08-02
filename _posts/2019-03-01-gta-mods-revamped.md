@@ -54,7 +54,7 @@ categories: ['Internet']
 
 ### Performance
 * GTAV Heap Limit Adjuster by Fivem Systems Division
-* Gameconfig (1.0.1604.0) for Limitless Vehicles by F7YO
+* Gameconfig (1.0.1737.0) for Limitless Vehicles by F7YO
 * PackFile Limit Adjuster by Unknown Modder
 
 ### Trainers
@@ -78,7 +78,7 @@ categories: ['Internet']
 * Off-Duty and Special Duties Pack(eup) by Pacific Pig
 * EUP Formal Uniforms by Avail
 * EUP Vests by GrandTheftPD
-* LSPD Police Badge by Sam 
+* LSPD Police Badge by Sam (NYPD Badge by me)
 * Penetrator Inflitrator Ballistic Shield by Sniper296
 * Body Bags by majorpaine2015
 
@@ -92,7 +92,7 @@ categories: ['Internet']
 * Colt M4A1 (+Attachments) by Jridah
 * Pro Laser 4 Gun by Scaarus
 * Max Payne 3 Glock by Olanov
-* ~~Glock 17 - Realistic Sound Mod by ErikB26~~
+* Sig Sauer P228 by Jridah
 * Taser X26 by BufordT
 * Realistic Guns Sounds by XENORT, 420x420, MaoBO, ThisIsntMyName
 
@@ -112,11 +112,11 @@ categories: ['Internet']
   (US Border Patrol by  firefighter2832)
 * __fbi__: FBI Pack by TickleMyElmo
 * __fbi2__: Undercover 2018 Honda Odyssey Elite by BlueGhost
-* __police_mustang__: Los Santos Metro Police Department Pack by BlueGhost
 * __police_rookie__: Tv show The Rookie unmarked CVPI by Officer Tej
 * __pnfirebird__: 2009 Pontiac G8 GXP Remastered by BlueGhost
 * __police__ - __police3__: Los Santos Police Department (Atlanta themed) by Jedahdiah
 * __police2__ + __police3__: Los Santos Police Department Pack (SPVM) by t0y
+* __police__ - __police3__: LSPD SLR Pack (Old) by TrentMU
 * __polmav__: Mapped Police Maverick by Yard1
 
 ### Sirens
@@ -125,7 +125,6 @@ categories: ['Internet']
 * Modern Siren Pack by GravelRoadCop (Code 3 Mastercom B Siren, Wheelen Cencom Gold)
 
 ### Miscellaneous/Data Files
-* New License Plates [Add-On] by WildBrick142
 * AI TRAFFIC Fluidity & Discipline by RCrw notik
 * Kifflom Replacement ID Requests From GTA IV by FirstEdit
 * Realistic BloodV by Csyon (2K Version)
