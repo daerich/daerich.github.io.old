@@ -106,7 +106,7 @@ categories: ['Internet']
 * __Police5__:Chevy Impala by BxBugs123
 * __PoliceB__: LSPD Pack by TickleMyElmo / Low Profile BMW 1200 Police Bike by Jackson1593
 * __Sheriff__: Florida Highway Patrol 2019 Dodge Charger by Terry Sloman
-* __Sheriff2__: LSPD Pack by TickleMyElmo (Tahoe)
+* __Sheriff2__: LSPD Pack by TickleMyElmo (Tahoe) / The Ghost Pack by Frost88 (Durango)
 * __Sheriff3__: BCSO Pack by RangerZ
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
@@ -121,7 +121,6 @@ categories: ['Internet']
 
 ### Sirens
 * Scan Superior Siren by TakeYaBackToStation4BumVio
-* Whelen Cencom Sapphire Rumbler by StraightGlitcheZ 
 * Modern Siren Pack by GravelRoadCop (Code 3 Mastercom B Siren, Wheelen Cencom Gold)
 
 ### Miscellaneous/Data Files
