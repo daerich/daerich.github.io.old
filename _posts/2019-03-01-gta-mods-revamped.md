@@ -18,7 +18,7 @@ categories: ['Internet']
 --> StopThePed Elite by Ghnty5
 * Better Dispatch Audio
 * Computer+ (Cincinnati PD Based Computer+ Background by t0y)
---> LawPacks+ by Ghnty5
+--> Realistic Usable Charges & Citations for Computer+ by chadc78
 * Cop Holster (aborts Relaxed Driv. anim, when outside of car)
 * HoldMyGun
 * K9Partner by NoNameSet
@@ -53,7 +53,7 @@ categories: ['Internet']
 * ELS by Lt.Caine
 
 ### Performance
-* GTAV Heap Limit Adjuster by Fivem Systems Division
+* HeapAdjuster by Dilapidated (750mb of heap)
 * Gameconfig (1.0.1737.0) for Limitless Vehicles by F7YO
 * PackFile Limit Adjuster by Unknown Modder
 
@@ -100,7 +100,6 @@ categories: ['Internet']
 * City of Los Santos Police Pack + Deputy Sheriffs of Blaine County Pack by EchoWolf
 * Improved EnginesV by LibertyDesigns
 * __Police__:LSPD Vehicle Pack by BradM (SPVM by GabLeGamer)
-* __Police2__:Slicktop LSPD 2018 Dodge Charger by Straight Glitchez
 * __Police3__: 2016 Chevrolet Impala LTZ by BlueGhost
 * __Police4__: 2010 Crown Victoria Police Interceptor - Unmarked by RobertTM / [ELS] Florida Highway Patrol 2004 Mercury Marauder 1.0 by Othrin
 * __Police5__:Chevy Impala by BxBugs123
@@ -114,6 +113,7 @@ categories: ['Internet']
 * __fbi2__: Undercover 2018 Honda Odyssey Elite by BlueGhost
 * __police_rookie__: Tv show The Rookie unmarked CVPI by Officer Tej
 * __pnfirebird__: 2009 Pontiac G8 GXP Remastered by BlueGhost
+* __police__ - __police3__: LSPD Mega Pack [ELS] (LAPD Based) by 0sc4r
 * __police__ - __police3__: Los Santos Police Department (Atlanta themed) by Jedahdiah
 * __police2__ + __police3__: Los Santos Police Department Pack (SPVM) by t0y
 * __police__ - __police3__: LSPD SLR Pack (Old) by TrentMU
