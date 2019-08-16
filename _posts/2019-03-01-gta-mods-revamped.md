@@ -72,7 +72,7 @@ categories: ['Internet']
 
 
 ## Cars & Cosmetics (ModdingPackV by Albo1125)
-* EUP Law and Order (LSPD lore-friendly uniform for E.U.P 8.1 by stylez)
+* EUP Law and Order (LSPD lore-friendly uniform for E.U.P 8.1 by stylez + NYPD EUP Uniform)
 * EUP Serve and Rescue
 * Over the Shoulder Radios by Sethy1124 
 * Off-Duty and Special Duties Pack(eup) by Pacific Pig
@@ -117,6 +117,7 @@ categories: ['Internet']
 * __police__ - __police3__: Los Santos Police Department (Atlanta themed) by Jedahdiah
 * __police2__ + __police3__: Los Santos Police Department Pack (SPVM) by t0y
 * __police__ - __police3__: LSPD SLR Pack (Old) by TrentMU
+* __police__ - __police3__: NYPD Pack by OfficerWalters
 * __polmav__: Mapped Police Maverick by Yard1
 
 ### Sirens
