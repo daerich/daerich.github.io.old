@@ -58,7 +58,6 @@ categories: ['Internet']
 * PackFile Limit Adjuster by Unknown Modder
 
 ### Trainers
-* Menyoo
 * Simple Trainer
 
  
@@ -101,17 +100,17 @@ categories: ['Internet']
 * Improved EnginesV by LibertyDesigns
 * __Police__:LSPD Vehicle Pack by BradM (SPVM by GabLeGamer)
 * __Police3__: 2016 Chevrolet Impala LTZ by BlueGhost
-* __Police4__: 2010 Crown Victoria Police Interceptor - Unmarked by RobertTM / [ELS] Florida Highway Patrol 2004 Mercury Marauder 1.0 by Othrin
+* __Police4__: 2010 CVPI - Unmarked by RobertTM / [ELS] Florida Highway Patrol 2004 Mercury Marauder 1.0 by Othrin
 * __Police5__:Chevy Impala by BxBugs123
 * __PoliceB__: LSPD Pack by TickleMyElmo / Low Profile BMW 1200 Police Bike by Jackson1593
 * __Sheriff__: Florida Highway Patrol 2019 Dodge Charger by Terry Sloman
 * __Sheriff2__: LSPD Pack by TickleMyElmo (Tahoe) / The Ghost Pack by Frost88 (Durango)
 * __Sheriff3__: BCSO Pack by RangerZ
+(Royal San Andreas Police (RCMP Based) by Skin Works)
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
 * __fbi__: FBI Pack by TickleMyElmo
 * __fbi2__: Undercover 2018 Honda Odyssey Elite by BlueGhost
-* __police_rookie__: Tv show The Rookie unmarked CVPI by Officer Tej
 * __pnfirebird__: 2009 Pontiac G8 GXP Remastered by BlueGhost
 * __police__ - __police3__: LSPD Mega Pack [ELS] (LAPD Based) by 0sc4r
 * __police__ - __police3__: Los Santos Police Department (Atlanta themed) by Jedahdiah
