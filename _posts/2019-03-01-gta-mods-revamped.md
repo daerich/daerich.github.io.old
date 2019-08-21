@@ -19,6 +19,7 @@ categories: ['Internet']
 * Better Dispatch Audio
 * Computer+ (Cincinnati PD Based Computer+ Background by t0y)
 --> Realistic Usable Charges & Citations for Computer+ by chadc78
+* CompuLite
 * Cop Holster (aborts Relaxed Driv. anim, when outside of car)
 * HoldMyGun
 * K9Partner by NoNameSet
