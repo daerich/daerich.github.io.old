@@ -30,9 +30,8 @@ __All mods not fitting in the other categories__
 * BMW 750 Li v2 by Gta5KoRn
 
 ## Miscellaneous
-
+* Forests of San Andreas by JRod
 * Addonprops by Meth0d & Quechus13
-* New Baywatch Girls by Lcco
 * Scar H by metroidguy
 * Glock 17 by metroidguy
 * Vehicle Keys by Krlos_Rokr
