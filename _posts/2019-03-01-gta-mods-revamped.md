@@ -54,7 +54,7 @@ categories: ['Internet']
 * ELS by Lt.Caine
 
 ### Performance
-* HeapAdjuster by Dilapidated (750mb of heap)
+* HeapAdjuster by Dilapidated (1000mb of heap)
 * Gameconfig (1.0.1737.0) for Limitless Vehicles by F7YO
 * PackFile Limit Adjuster by Unknown Modder
 
