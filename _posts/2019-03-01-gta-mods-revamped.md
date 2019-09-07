@@ -8,7 +8,7 @@ categories: ['Internet']
 # GTAMods Revamped
 
 ## RageHook( -directx11 -windowed)
-* (* DashCamV by PieRGud * Body Cam)
+* (* DashCamV by PieRGud * Body Cam by Sebo)
 * Siren Mastery (remapped 'G' function, bound to 'K', BLIP replaced)
 * SpikeStripsV
 * Sticky Wheels
@@ -39,7 +39,6 @@ categories: ['Internet']
 * More Robberies by Chadd
 * PeterUCallouts
 * Station 19 Callouts
-* Tacco Highway Callouts
 * United Callouts
 * Variety Callouts
 * Wilderness Callouts
@@ -91,18 +90,16 @@ categories: ['Internet']
 * ASP Baton by DoubleDoppler
 * Colt M4A1 (+Attachments) by Jridah
 * Pro Laser 4 Gun by Scaarus
-* Max Payne 3 Glock by Olanov
-* Sig Sauer P228 by Jridah
+* Glock 17 by Diab0
 * Taser X26 by BufordT
 * Realistic Guns Sounds by XENORT, 420x420, MaoBO, ThisIsntMyName
 
 ### Cars & Sirens
 * City of Los Santos Police Pack + Deputy Sheriffs of Blaine County Pack by EchoWolf
 * Improved EnginesV by LibertyDesigns
-* __Police__:LSPD Vehicle Pack by BradM (SPVM by GabLeGamer)
-* __Police3__: 2016 Chevrolet Impala LTZ by BlueGhost
 * __Police4__: 2010 CVPI - Unmarked by RobertTM / [ELS] Florida Highway Patrol 2004 Mercury Marauder 1.0 by Othrin
-* __Police5__:Chevy Impala by BxBugs123
+* __police42__: Detective style 2010 Unmarked Charger by Steve6654
+* __Police5__: LSPD Vehicle Pack by BradM (cvpi) (bordpatrol)
 * __PoliceB__: LSPD Pack by TickleMyElmo / Low Profile BMW 1200 Police Bike by Jackson1593
 * __Sheriff__: Florida Highway Patrol 2019 Dodge Charger by Terry Sloman
 * __Sheriff2__: LSPD Pack by TickleMyElmo (Tahoe) / The Ghost Pack by Frost88 (Durango)
@@ -113,6 +110,7 @@ categories: ['Internet']
 * __fbi__: 2014 Tesla Model S - Danish Police Ficional by AchillesDKPoliceMods/ 2016 Unmarked SRT PotatoCat by MrPotato
 * __fbi2__: Undercover 2018 Honda Odyssey Elite by BlueGhost
 * __pnfirebird__: 2009 Pontiac G8 GXP Remastered by BlueGhost
+* __pimpala__: 2016 Chevrolet Impala LTZ by BlueGhost
 * __police__ - __police3__: LSPD Mega Pack [ELS] (LAPD Based) by 0sc4r
 * __police__ - __police3__: Los Santos Police Department (Atlanta themed) by Jedahdiah
 * __police2__ + __police3__: Los Santos Police Department Pack (SPVM) by t0y
