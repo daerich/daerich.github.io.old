@@ -35,7 +35,7 @@ categories: ['Internet']
 * Assorted Callouts
 * Attempted Crime Callouts
 * Simple Callouts
-* Highway Callouts by ImCris
+* SuperCallouts
 * More Robberies by Chadd
 * PeterUCallouts
 * Station 19 Callouts
@@ -74,7 +74,7 @@ categories: ['Internet']
 ## Cars & Cosmetics (ModdingPackV by Albo1125)
 * EUP Law and Order (LSPD lore-friendly uniform for E.U.P 8.1 by stylez + NYPD EUP Uniform)
 * EUP Serve and Rescue
-* Over the Shoulder Radios by Sethy1124 
+* EUP Over the Shoulder Radios by Sethy1124 
 * Off-Duty and Special Duties Pack(eup) by Pacific Pig
 * EUP Formal Uniforms by Avail
 * EUP Vests by GrandTheftPD
@@ -110,7 +110,7 @@ categories: ['Internet']
 (Royal San Andreas Police (RCMP Based) by Skin Works)
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
-* __fbi__: FBI Pack by TickleMyElmo
+* __fbi__: 2014 Tesla Model S - Danish Police Ficional by AchillesDKPoliceMods/ 2016 Unmarked SRT PotatoCat by MrPotato
 * __fbi2__: Undercover 2018 Honda Odyssey Elite by BlueGhost
 * __pnfirebird__: 2009 Pontiac G8 GXP Remastered by BlueGhost
 * __police__ - __police3__: LSPD Mega Pack [ELS] (LAPD Based) by 0sc4r
