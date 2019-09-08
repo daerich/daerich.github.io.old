@@ -21,6 +21,7 @@ categories: ['Internet']
 --> Realistic Usable Charges & Citations for Computer+ by chadc78
 * CompuLite
 * Cop Holster (aborts Relaxed Driv. anim, when outside of car)
+* Stow That Weapon by willpv23
 * HoldMyGun
 * K9Partner by NoNameSet
 * 'LSPDFR+' + 'Interaction+'
