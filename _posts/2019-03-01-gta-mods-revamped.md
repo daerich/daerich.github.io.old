@@ -17,9 +17,7 @@ categories: ['Internet']
 * Stop The Ped(double tap 'E', alt takedown anim.) + Ultimate Backup(+xml by TreadRed)
 --> StopThePed Elite by Ghnty5
 * Better Dispatch Audio
-* Computer+ (Cincinnati PD Based Computer+ Background by t0y)
---> Realistic Usable Charges & Citations for Computer+ by chadc78
-* CompuLite
+* CompuLite --> Realistic Usable Charges & Citations for CompuLite by chadc78
 * Cop Holster (aborts Relaxed Driv. anim, when outside of car)
 * Stow That Weapon by willpv23
 * HoldMyGun
@@ -99,25 +97,28 @@ categories: ['Internet']
 * City of Los Santos Police Pack + Deputy Sheriffs of Blaine County Pack by EchoWolf
 * Improved EnginesV by LibertyDesigns
 * __Police4__: 2010 CVPI - Unmarked by RobertTM / [ELS] Florida Highway Patrol 2004 Mercury Marauder 1.0 by Othrin
-* __police42__: Detective style 2010 Unmarked Charger by Steve6654
+* __Police42__: Detective style 2010 Unmarked Charger by Steve6654
 * __Police5__: LSPD Vehicle Pack by BradM (cvpi) (bordpatrol)
 * __PoliceB__: LSPD Pack by TickleMyElmo / Low Profile BMW 1200 Police Bike by Jackson1593
 * __Sheriff__: Florida Highway Patrol 2019 Dodge Charger by Terry Sloman
 * __Sheriff2__: LSPD Pack by TickleMyElmo (Tahoe) / The Ghost Pack by Frost88 (Durango)
 * __Sheriff3__: BCSO Pack by RangerZ
 (Royal San Andreas Police (RCMP Based) by Skin Works)
+* __Sheriff4__: Los Santos Sheriff's Department (LASD) [ELS] by t0y
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
 * __fbi__: 2014 Tesla Model S - Danish Police Ficional by AchillesDKPoliceMods/ 2016 Unmarked SRT PotatoCat by MrPotato
 * __fbi2__: Undercover 2018 Honda Odyssey Elite by BlueGhost
 * __pnfirebird__: 2009 Pontiac G8 GXP Remastered by BlueGhost
 * __pimpala__: 2016 Chevrolet Impala LTZ by BlueGhost
+* __polmav__: Mapped Police Maverick by Yard1
+----------------
+___Packs___
 * __police__ - __police3__: LSPD Mega Pack [ELS] (LAPD Based) by 0sc4r
-* __police__ - __police3__: Los Santos Police Department (Atlanta themed) by Jedahdiah
 * __police2__ + __police3__: Los Santos Police Department Pack (SPVM) by t0y
 * __police__ - __police3__: LSPD SLR Pack (Old) by TrentMU
 * __police__ - __police3__: NYPD Pack by OfficerWalters
-* __polmav__: Mapped Police Maverick by Yard1
+------------------
 
 ### Sirens
 * Scan Superior Siren by TakeYaBackToStation4BumVio
