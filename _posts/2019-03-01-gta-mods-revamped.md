@@ -112,13 +112,13 @@ categories: ['Internet']
 * __pnfirebird__: 2009 Pontiac G8 GXP Remastered by BlueGhost
 * __pimpala__: 2016 Chevrolet Impala LTZ by BlueGhost
 * __polmav__: Mapped Police Maverick by Yard1
-----------------
-___Packs___
+
+
+___Packs___:
 * __police__ - __police3__: LSPD Mega Pack [ELS] (LAPD Based) by 0sc4r
 * __police2__ + __police3__: Los Santos Police Department Pack (SPVM) by t0y
 * __police__ - __police3__: LSPD SLR Pack (Old) by TrentMU
 * __police__ - __police3__: NYPD Pack by OfficerWalters
-------------------
 
 ### Sirens
 * Scan Superior Siren by TakeYaBackToStation4BumVio
