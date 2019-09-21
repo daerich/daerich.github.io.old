@@ -7,7 +7,7 @@ categories: ['Internet']
 
 # GTAMods Revamped
 
-## RageHook( -directx11 -windowed)
+## RageHook( -directx11 -windowed) (power plan = balanced)
 * (* DashCamV by PieRGud * Body Cam by Sebo)
 * Siren Mastery (remapped 'G' function, bound to 'K', BLIP replaced)
 * SpikeStripsV
@@ -38,7 +38,6 @@ categories: ['Internet']
 * More Robberies by Chadd
 * PeterUCallouts
 * Station 19 Callouts
-* United Callouts
 * Variety Callouts
 * Wilderness Callouts
 
@@ -61,11 +60,11 @@ categories: ['Internet']
 
  
 ### Driving
-* Gear Shifting Animation by Hunk("veh@driveby@first_person@passenger_rear_right_handed@unarmed"; "outro_0") 
+* Gear Shifting Animation by Hunk [text file]({{ site.baseurl}}/images/anim.txt) 
 * Relaxed Driving Style by Hunk ("std_sit_low_lowdoor")†3
 * Enhanced Cruise Control by Kryo4Lex 
 * LeFix Simple Fuel(updated by ikt)(select button remapped to vk_return)†2
-* LeFix Speedometer(updated by ikt)(--||--)
+* LeFix Speedometer(updated by ikt)(--||--) / NFS gauge by XMOD
 * Manual Transmission by ikt (ShiftUp bound to CapsLock)†1
 
 
@@ -95,8 +94,8 @@ categories: ['Internet']
 
 ### Cars & Sirens
 * City of Los Santos Police Pack + Deputy Sheriffs of Blaine County Pack by EchoWolf
-* Improved EnginesV by LibertyDesigns
-* __Police4__: 2010 CVPI - Unmarked by RobertTM / [ELS] Florida Highway Patrol 2004 Mercury Marauder 1.0 by Othrin
+* Improved EnginesV by LibertyDesigns + Ford Door Chime by Fiddle
+* __Police4__: 2010 CVPI - Unmarked by RobertTM / [ELS] Florida Highway Patrol 2004 Mercury Marauder 1.0 by Othrin 
 * __Police42__: Detective style 2010 Unmarked Charger by Steve6654
 * __Police5__: LSPD Vehicle Pack by BradM (cvpi) (bordpatrol)
 * __PoliceB__: LSPD Pack by TickleMyElmo / Low Profile BMW 1200 Police Bike by Jackson1593
@@ -126,6 +125,7 @@ ___Packs___:
 
 ### Miscellaneous/Data Files
 * AI TRAFFIC Fluidity & Discipline by RCrw notik
+* RealisticDrivingV(Marauder + 4 gears setup + materials.dat)
 * Kifflom Replacement ID Requests From GTA IV by FirstEdit
 * Realistic BloodV by Csyon (2K Version)
 * Realistic Melee Mod by Techengage
