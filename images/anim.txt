@@ -1,0 +1,5 @@
+Column shifter:
+"veh@driveby@first_person@passenger_rear_right_handed@unarmed"/ "outro_0"
+
+Column shifter alt:
+"gestures@m@sitting@generic@casual" / "gesture_hand_right"
