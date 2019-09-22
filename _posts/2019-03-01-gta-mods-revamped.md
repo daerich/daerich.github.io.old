@@ -125,7 +125,7 @@ ___Packs___:
 
 ### Miscellaneous/Data Files
 * AI TRAFFIC Fluidity & Discipline by RCrw notik
-* RealisticDrivingV(Marauder + 4 gears setup + materials.dat)
+* RealisticDrivingV(Marauder/DODGE Chargers/CVPI + materials.dat)
 * Kifflom Replacement ID Requests From GTA IV by FirstEdit
 * Realistic BloodV by Csyon (2K Version)
 * Realistic Melee Mod by Techengage
