@@ -18,7 +18,7 @@ categories: ['Internet']
 --> StopThePed Elite by Ghnty5
 * Better Dispatch Audio
 * CompuLite --> Realistic Usable Charges & Citations for CompuLite by chadc78
-* Cop Holster (aborts Relaxed Driv. anim, when outside of car)
+* Cop Holster (taser draw belt swap)
 * Stow That Weapon by willpv23
 * HoldMyGun
 * K9Partner by NoNameSet
