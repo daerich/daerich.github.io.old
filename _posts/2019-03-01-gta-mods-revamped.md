@@ -35,6 +35,7 @@ categories: ['Internet']
 * Attempted Crime Callouts
 * Simple Callouts
 * SuperCallouts
+* SuperEvents
 * More Robberies by Chadd
 * PeterUCallouts
 * Station 19 Callouts
