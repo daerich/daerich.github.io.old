@@ -101,8 +101,8 @@ categories: ['Internet']
 * __Police5__: LSPD Vehicle Pack by BradM (cvpi) (bordpatrol)
 * __PoliceB__: LSPD Pack by TickleMyElmo / Low Profile BMW 1200 Police Bike by Jackson1593
 * __Sheriff__: Florida Highway Patrol 2019 Dodge Charger by Terry Sloman
-* __Sheriff2__: LSPD Pack by TickleMyElmo (Tahoe) / The Ghost Pack by Frost88 (Durango)
-* __Sheriff3__: BCSO Pack by RangerZ
+* __Sheriff2__: BCSO Pack by RangerZ / The Ghost Pack by Frost88 (Durango)
+* __Sheriff3__: LSPD Pack by Frost88
 (Royal San Andreas Police (RCMP Based) by Skin Works)
 * __Sheriff4__: Los Santos Sheriff's Department (LASD) [ELS] by t0y
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
