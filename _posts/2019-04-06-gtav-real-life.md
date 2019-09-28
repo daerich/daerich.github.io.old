@@ -9,8 +9,8 @@ __All mods not fitting in the other categories__
 
 # Mods
 * Enhanced Native Trainer
-* Gunrunning and Executive Business Mods by HKH191
-* Simple Jobs by Eyon
+* Real Time Handling Editor by ikt __(dev)__
+* Extended Camera Settings by CamxxCore
 * HC
 * Ems Mod by NDev
 * Enhanced Taxi Missions by LCBuffalo
