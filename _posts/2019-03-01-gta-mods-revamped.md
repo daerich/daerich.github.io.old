@@ -106,7 +106,7 @@ categories: ['Internet']
 * __Sheriff4__: Los Santos Sheriff's Department (LASD) [ELS] by t0y
 * __Pranger__:Lifted Jeep Wrangler Rubicon by Torz 
   (US Border Patrol by  firefighter2832)
-* __fbi__: 2014 Tesla Model S - Danish Police Ficional by AchillesDKPoliceMods/ 2016 Unmarked SRT PotatoCat by MrPotato
+* __fbi__: 2018 Dodge Charger - Los Santos Police Department (LSPD / LAPD) - Unmarked by  Cj24/ 2016 Unmarked SRT PotatoCat by MrPotato
 * __fbi2__: Undercover 2018 Honda Odyssey Elite by BlueGhost
 * __pnfirebird__: 2009 Pontiac G8 GXP Remastered by BlueGhost
 * __pimpala__: 2016 Chevrolet Impala LTZ by BlueGhost
