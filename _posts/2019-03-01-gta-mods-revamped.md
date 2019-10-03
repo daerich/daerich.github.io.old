@@ -73,6 +73,7 @@ categories: ['Internet']
 * EUP Law and Order (LSPD lore-friendly uniform for E.U.P 8.1 by stylez + NYPD EUP Uniform)
 * EUP Serve and Rescue
 * EUP Over the Shoulder Radios by Sethy1124 
+* CodeyWynne's Replacements(belt+mic)
 * Off-Duty and Special Duties Pack(eup) by Pacific Pig
 * EUP Formal Uniforms by Avail
 * EUP Vests by GrandTheftPD
