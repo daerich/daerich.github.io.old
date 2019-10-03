@@ -2,4 +2,4 @@ Column shifter:
 "veh@driveby@first_person@passenger_rear_right_handed@unarmed"/ "outro_0"
 
 Column shifter alt:
-"gestures@m@sitting@generic@casual" / "gesture_hand_right"
+"anim@veh@driveby@plane@luxor2@rear_ds@1h" / "outro_0"
