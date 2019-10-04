@@ -19,6 +19,7 @@ __All mods not fitting in the other categories__
 
 # Cars
 * 1998 Audi S8 by HRH ___(personal lspdfr vehicle)___ 
+* 2011 Honda Accord [Add-On/Replace] by SparK_V ___(personal lspdfr vehicle)___ 
 * 1996 Chevrolet Impala SS [Add-On | Tuning | Unlocked] ___(personal lspdfr vehicle)___
 * LSFD Ford F350 Ambulance by ALLENjr12 ___(EMS)___
 * 2016 Tesla Model S P90D by tk0wnz
