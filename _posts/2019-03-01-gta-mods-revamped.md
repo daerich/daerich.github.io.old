@@ -112,6 +112,7 @@ categories: ['Internet']
 * __fbi2__: Undercover 2018 Honda Odyssey Elite by BlueGhost
 * __pnfirebird__: 2009 Pontiac G8 GXP Remastered by BlueGhost
 * __pimpala__: 2016 Chevrolet Impala LTZ by BlueGhost
+* __pchrysler__: 2012 Chrysler 300 SRT8 by BlueGhost
 * __polmav__: Mapped Police Maverick by Yard1
 
 
