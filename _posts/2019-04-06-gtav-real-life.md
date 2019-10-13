@@ -22,6 +22,7 @@ __All mods not fitting in the other categories__
 * 2011 Honda Accord [Add-On/Replace] by SparK_V ___(personal lspdfr vehicle)___ 
 * 1996 Chevrolet Impala SS [Add-On | Tuning | Unlocked] ___(personal lspdfr vehicle)___
 * LSFD Ford F350 Ambulance by ALLENjr12 ___(EMS)___
+* Los Angeles Ford Crown Victoria Taxi [4K] by POLICESCO ___(taxi)___
 * 2016 Tesla Model S P90D by tk0wnz
 * 2016 Dodge Charger [SXT / R/T / SRT 392 / Hellcat] by tk0wnz
 * 2019 Ford Mustang GT [Bullitt / RTR / 5 Rims] by tk0wnz
