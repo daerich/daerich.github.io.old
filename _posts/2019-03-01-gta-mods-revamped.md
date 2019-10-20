@@ -48,6 +48,7 @@ categories: ['Internet']
 * Hide Minimap Shortcut by iLLo
 * Realistic Reload by CamxxCore
 * Stance Crouch/Prone Mod by jedijosh920
+* Persistent Weapon Flashlight by alexguirre & Jitnaught
 * PLD by Lt. Caine
 * ELS by Lt.Caine
 
@@ -96,7 +97,7 @@ categories: ['Internet']
 
 ### Cars & Sirens
 * City of Los Santos Police Pack + Deputy Sheriffs of Blaine County Pack by EchoWolf
-* Improved EnginesV by LibertyDesigns + Ford Door Chime by Fiddle
+* Improved EnginesV by LibertyDesigns + Ford Door Chime by Fiddle + Tire Skid by StraightGlitchez
 * __Police4__: 2010 CVPI - Unmarked by RobertTM / [ELS] Florida Highway Patrol 2004 Mercury Marauder 1.0 by Othrin 
 * __Police42__: Detective style 2010 Unmarked Charger by Steve6654
 * __Police5__: LSPD Vehicle Pack by BradM (cvpi) (bordpatrol)
