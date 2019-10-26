@@ -25,5 +25,7 @@ categories: ['Internet']
 * Indicator Script by Lil-rich & LMS
 ## Textures 
 * Lord Neophyte's HQ Texture Pack
+* NYPD 2014 SS2000 Rumbler Siren (Federal Signal Smart-Siren) by Double Doppler
+* NYPD PACK by Dualift
 * 2004 Mercury Marauder Unmarked by CEO
 * Ultimate NYPD Bundle by IronicRainbow
