@@ -89,6 +89,7 @@ categories: ['Internet']
 
 ### Weapons
 * ASP Baton by DoubleDoppler
+* Less Lethal ShootGun [Beanbag] by Captain Andersen
 * Colt M4A1 (+Attachments) by Jridah
 * Pro Laser 4 Gun by Scaarus
 * Glock 17 by Diab0
