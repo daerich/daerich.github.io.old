@@ -16,10 +16,12 @@ categories: ['Internet']
 * Simple Trainer for GTA IV
 ## LCPDFR Mods
 * The Wasteland by LtFlash 
+* BackupCallouts by FinKone
 * Callouts+ By LukeD
 * vdH Scripts by Abraxas
 ## .NET Mods
 * Door Ajar Chime by Erase
+* Seat Belt Chime by Erase
 * IV Flash light by NYPDDetectiveODonnell
 * TurnTires by FinKone
 * TrafficFlowV5 by Sam
@@ -27,6 +29,7 @@ categories: ['Internet']
 ## Textures 
 * Lord Neophyte's HQ Texture Pack
 * NYPD 2014 SS2000 Rumbler Siren (Federal Signal Smart-Siren) by Double Doppler
+* 2010 New York City Taxi Ford Crown Victoria by aznairsoftdude
 * NYPD PACK by Dualift
 * 2004 Mercury Marauder Unmarked by CEO
 * Ultimate NYPD Bundle by IronicRainbow
