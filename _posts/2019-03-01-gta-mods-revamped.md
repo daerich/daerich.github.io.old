@@ -72,7 +72,7 @@ categories: ['Internet']
 
 
 ## Cars & Cosmetics (ModdingPackV by Albo1125)
-* EUP Law and Order (LSPD lore-friendly uniform for E.U.P 8.1 by stylez + NYPD EUP Uniform)
+* EUP Law and Order (LSPD Uniform Pack [EUP 8.1] (NYPD inspire) by CoLT 55)
 * EUP Serve and Rescue
 * EUP Over the Shoulder Radios by Sethy1124 
 * CodeyWynne's Replacements(belt+mic)
