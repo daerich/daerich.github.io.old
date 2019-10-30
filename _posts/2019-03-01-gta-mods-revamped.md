@@ -48,6 +48,7 @@ categories: ['Internet']
 * Hide Minimap Shortcut by iLLo
 * Realistic Reload by CamxxCore
 * Stance Crouch/Prone Mod by jedijosh920
+* Locational Damage & Deadly Headshots by EnforcerZhukov
 * Persistent Weapon Flashlight by alexguirre & Jitnaught
 * PLD by Lt. Caine
 * ELS by Lt.Caine
@@ -90,7 +91,7 @@ categories: ['Internet']
 ### Weapons
 * ASP Baton by DoubleDoppler
 * Less Lethal ShootGun [Beanbag] by Captain Andersen
-* Colt M4A1 (+Attachments) by Jridah
+* New AR-15 (Animated) by Jridah
 * Pro Laser 4 Gun by Scaarus
 * Glock 17 by Diab0
 * Taser X26 by BufordT
