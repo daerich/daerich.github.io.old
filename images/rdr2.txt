@@ -1,0 +1,42 @@
+NVIDIA GeForce GTX 1050 Ti, Vulkan
+1920 x 1080, 60hz, Windowed: No, Vsync: Yes, Triple: On
+
+Textures: Ultra
+Anisotropic: 16x
+Lighting: Medium
+Global Illumination: High
+Shadows: High
+Far Shadows: Medium
+SSAO: Medium
+Reflection: Medium
+Mirror: High
+Water: Custom
+Volumetrics: Custom
+Particles: High
+Tessellation: Medium
+FXAA: On, TAA: Medium, MSAA: 1
+
+Near Volumetrics Quality: Medium
+Far Volumetric Quality: Medium
+Volumetric Lighting Quality: Medium
+Unlocked Volumetric Raymarch Resolution: Off
+Particle Lighting Quality: High
+Soft Shadows: High
+Grass Shadows: Medium
+Long Shadows: On
+Full resolution SSAO: On
+Water Refraction Quality: Medium
+Water Reflection Quality: Medium
+Water Physics Quality: 50%
+Resolution scale: 100%
+TAA Sharpen Intensity: 55%
+Motion Blur: Off
+Reflection MSAA: 2x
+Geometry Level of Detail: 60%
+Grass Level of Detail: 58%
+Tree Quality: Medium
+Parallax Occlusion Mapping Quality: High
+Decal Quality: High
+Fur Quality: Medium
+Tree Tessellation: On
+ 
