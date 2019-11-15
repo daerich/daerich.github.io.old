@@ -1,0 +1,26 @@
+NVIDIA GeForce GTX 1050 Ti - DirectX 11  
+1920 x 1080, 60 hz, Fullscreen, V-sync on  
+FXAA on, MSAA 4x, TXAA off  
+Population density: 100%  
+Population variety: 100%  
+Distance scaling: 100%  
+Texture quality: Very High  
+Shader quality: Very High  
+Shadow quality: Very High  
+Reflection quality: Very High  
+Reflection MSAA: 2x  
+Water quality: Very High  
+Particle quality: Very High  
+Grass quality: Very High  
+Soft shadows: Nvidia PCSS  
+Post FX: Ultra  
+Motion Blur: 0%  
+Depth of Field: On  
+Anisotropic Filtering: 16x  
+Ambient Occlusion: High  
+Tessellation: Very High  
+Long Shadows: On  
+High Resolution Shadows: Off  
+HD Streaming while Flying: On  
+Extended Distance Scaling: 10%  
+Extended Shadow Distance: 0%
