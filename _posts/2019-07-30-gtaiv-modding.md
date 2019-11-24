@@ -17,6 +17,7 @@ categories: ['Internet']
 ## LCPDFR Mods
 * The Wasteland by LtFlash 
 * BackupCallouts by FinKone
+* WoutersCallouts
 * Callouts+ By LukeD
 * vdH Scripts by Abraxas
 ## .NET Mods
@@ -30,6 +31,7 @@ categories: ['Internet']
 * Lord Neophyte's HQ Texture Pack
 * NYPD 2014 SS2000 Rumbler Siren (Federal Signal Smart-Siren) by Double Doppler
 * 2010 New York City Taxi Ford Crown Victoria by aznairsoftdude
+* 2011 LCPD CROWN VICTORIA - CVPI ELSv8 V8.4 by Bxbugs123
 * NYPD PACK by Dualift
 * 2004 Mercury Marauder Unmarked by CEO
 * Ultimate NYPD Bundle by IronicRainbow
