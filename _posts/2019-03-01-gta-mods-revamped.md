@@ -25,6 +25,7 @@ categories: ['Internet']
 * 'LSPDFR+' + 'Interaction+'
 * Officer Status Plugin by OfficerPope
 * Police Smart Radio
+* Police Whistle
 * Traffic Policer
 * Vocal Dispatch
 * XScanner (Sound addon by Darkmyre)
@@ -63,8 +64,6 @@ categories: ['Internet']
 
  
 ### Driving
-* Gear Shifting Animation by Hunk [text file]({{ site.baseurl}}/images/anim.txt) 
-* Relaxed Driving Style by Hunk ("std_sit_low_lowdoor")†3
 * Enhanced Cruise Control by Kryo4Lex 
 * LeFix Simple Fuel(updated by ikt)(select button remapped to vk_return)†2
 * LeFix Speedometer(updated by ikt)(--||--) / NFS gauge by XMOD
@@ -131,6 +130,7 @@ ___Packs___:
 
 ### Miscellaneous/Data Files
 * AI TRAFFIC Fluidity & Discipline by RCrw notik
+* AI Cover Animation MOD by Hanako
 * RealisticDrivingV(Marauder/DODGE Chargers/CVPI + materials.dat)
 * Kifflom Replacement ID Requests From GTA IV by FirstEdit
 * Realistic BloodV by Csyon (2K Version)
