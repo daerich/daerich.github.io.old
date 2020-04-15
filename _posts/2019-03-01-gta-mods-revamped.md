@@ -12,6 +12,7 @@ categories: ['Internet']
 * Siren Mastery (remapped 'G' function, bound to 'K', BLIP replaced)
 * SpikeStripsV
 * Sticky Wheels
+* Automatic Siren Cutout by Rich
 
 ## LSPDFR 0.4(no preloading of models):
 * Stop The Ped(double tap 'E', alt takedown anim.) + Ultimate Backup(+xml by TreadRed)
@@ -21,8 +22,7 @@ categories: ['Internet']
 * Cop Holster (taser draw belt swap)
 * Stow That Weapon by willpv23
 * HoldMyGun
-* K9Partner by NoNameSet
-* 'LSPDFR+' + 'Interaction+'
+* 'LSPDFR+' 
 * Officer Status Plugin by OfficerPope
 * Police Smart Radio
 * Police Whistle
@@ -46,7 +46,6 @@ categories: ['Internet']
 ## ScriptHook:
 * ScriptHookdotNet
 * BVA by Lt.Caine
-* Hide Minimap Shortcut by iLLo
 * Realistic Reload by CamxxCore
 * Stance Crouch/Prone Mod by jedijosh920
 * Locational Damage & Deadly Headshots by EnforcerZhukov
